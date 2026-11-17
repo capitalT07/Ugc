@@ -1,8 +1,16 @@
 # Offer and pricing
 
-**One-line offer:** short Arabic UGC ads and edits for brands that advertise on TikTok and Instagram. We script, cast the right creator, film and edit, and every ad comes with extra hooks to test.
+**One-line offer:** short Arabic UGC ads for brands that advertise on TikTok and Instagram. We write the script and hooks, cast a creator who films and edits, and check every video before the brand gets it. Every ad comes with extra hooks to test.
 
-**How it is made:** you write, direct and edit, and film faceless footage (hands, product, POV, screen). Creators from your roster film the on-camera parts. AI only helps with voice-over, captions and variations; avatar ads only when a client asks for them, labelled as AI.
+**Who does what**
+
+| | Does |
+|---|---|
+| **You** | Sell, cast creators, send briefs, check every video against the QA checklist, handle the client and the money |
+| **Creators** | Film and edit; deliver finished videos plus raw clips |
+| **Me (Claude)** | Scripts, hooks, briefs, client messages, quotes |
+
+AI helps with scripts and translations. Avatar ads only when a client asks for them, labelled as AI.
 
 Prices are in **EGP for Egyptian clients** and **USD for Gulf and international clients**. Don't show EGP prices to Gulf clients.
 
@@ -13,26 +21,18 @@ Prices are in **EGP for Egyptian clients** and **USD for Gulf and international 
 | **USD / EGP** | **$120 / EGP 3,500** | **$330 / EGP 9,000** | **$520 / EGP 14,000** |
 | Deliverables | 1 video | 3 videos, 3 different concepts | 5 videos + 5 alternate hooks (10 ad variations) |
 | Length | 15–45 s | 15–45 s each | 15–45 s each |
-| Script | Included | Included | Included |
-| Editing, captions, music | Included | Included | Included |
+| Script and hooks | Written by us | Written by us | Written by us |
+| Filming and editing | By the creator | By the creator | By the creator |
+| Captions and music | Included | Included | Included |
 | Hooks | 1 | 1 per video (+2 bonus on a first order) | 1 per video + 5 alternates |
 | Delivery | 3–4 days after product arrives | 5 days after product arrives | 7 days after product arrives |
 | Revisions | 1 round | 1 round per video | 1 round per video |
-| Raw footage | Not included (+30%) | Not included (+30%) | Not included (+30%) |
+| Raw footage | +30% | +30% | +30% |
 | Organic use (brand's own accounts) | Included, no time limit | Included, no time limit | Included, no time limit |
-| Paid-ads use | Not included (+30% for 30 days) | 30 days included | 30 days included |
+| Paid-ads use | +30% for 30 days | 30 days included | 30 days included |
 | Payment | 100% upfront | 100% upfront | 50% deposit, 50% before final files |
 
-## Editing only (client sends the footage)
-
-| Pack | USD | EGP | Delivery |
-|---|---|---|---|
-| 1 short (up to 60 s) | $40 | 900 | 48 hours |
-| 5 shorts | $180 | 4,000 | 3–4 days |
-| 10 shorts | $330 | 7,000 | 5–6 days |
-| 20 shorts a month | $600 | 12,000 | weekly batches, paid monthly in advance |
-
-Each edit includes a 1-second on-screen hook, synced Arabic or English captions, cuts every 1–2 seconds, licensed music, colour and audio clean-up, 9:16 export (4:5 on request), and one revision round. The client owns their footage, so usage rights are theirs.
+**Not offered this week:** editing other people's footage. Nobody on the team does that yet. Later, add a freelance editor (Khamsat listings start around $5 for a 20-second video, quality varies) or learn CapCut basics ([10-studio-basics.md](10-studio-basics.md#7-later-learn-capcut-basics-optional)).
 
 ## Extras
 
@@ -67,33 +67,33 @@ Each edit includes a 1-second on-screen hook, synced Arabic or English captions,
 
 ## What creators cost you (internal, never show clients)
 
-These are my estimates from the Egyptian rate ranges in [03-market-evidence.md](03-market-evidence.md), not quotes.
+Creators who film **and** edit are paid per finished video: EGP 1,000–2,000 for newer creators. I use **EGP 1,200** as the planning figure, close to the Egyptian nano-creator range of EGP 500–1,500 per video ([03](03-market-evidence.md#1-prices)). Extra hook lines cost EGP 150 each.
 
 | | Creator pay (EGP) | Price (EGP) | You keep (EGP) |
 |---|---|---|---|
-| Starter (1 filmed video) | 800–1,500 | 3,500 | 2,000–2,700 |
-| Creative Test (3 filmed) | 2,400–4,500 | 9,000 | 4,500–6,600 |
-| Content Sprint (5 filmed + 5 hook lines) | 4,000–7,500 | 14,000 | 6,500–10,000 |
-| Editing packs | 0 | 4,000–12,000 | all of it |
+| Starter (1 video) | 1,000–2,000 | 3,500 | 1,500–2,500 |
+| Creative Test (3 videos) | 3,000–6,000 | 9,000 | 3,000–6,000 |
+| Content Sprint (5 videos + 5 hook lines) | 5,750–10,750 | 14,000 | 3,250–8,250 |
 
-Creators are paid per video **out of the client's payment**, within 48 hours of client approval. You never pay a creator before the client has paid you. Details in [09-creator-roster.md](09-creator-roster.md).
+On USD packages the creator share is only about 20–30%, which is why dollar clients matter so much.
+
+Creators are paid per finished video **out of the client's payment**, within 48 hours of client approval. You never pay a creator before the client has paid you. Details in [09-creator-roster.md](09-creator-roster.md).
 
 ## Revenue math
 
-Assumptions (mine, adjust as real numbers come in): FX EGP 54 per USD; average creator pay EGP 1,200 per filmed video (≈ $22); about 3% fees on USD payments (Payoneer, Upwork, wire), close to 0 on InstaPay.
+Assumptions (mine, adjust as real numbers come in): FX EGP 54 per USD; creator pay EGP 1,200 per finished video (≈ $22) plus EGP 150 per extra hook line; about 3% fees on USD payments (Payoneer, Upwork, wire), close to 0 on InstaPay.
 
 | Scenario | Mix | Sales | Creator pay | Fees | **You keep** |
 |---|---|---|---|---|---|
-| $1,000 in sales | 1 Sprint + 1 Creative Test + 1 editing 5-pack (USD) | $1,030 | $178 | $31 | **≈ $820** |
-| $1,000 kept | 1 Sprint + 2 Creative Tests + 1 editing 5-pack (USD) | $1,360 | $244 | $41 | **≈ $1,075** |
-| Egypt only | 2 Sprints + 2 Creative Tests + 2 editing 10-packs + 1 Starter (EGP 63,500) | ≈ $1,176 | ≈ $378 | ≈ 0 | **≈ $798** |
-| $2,000 in sales | 2 Sprints + 2 Creative Tests + 1 editing 10-pack (USD) | $2,030 | $355 | $61 | **≈ $1,614** |
-| $2,000 kept | 3 Sprints + 2 Creative Tests + 1 editing 10-pack (USD) | $2,550 | $466 | $77 | **≈ $2,007** |
+| ≈ $1,000 in sales | 1 Sprint + 1 Creative Test + 1 Starter (USD) | $970 | $214 | $29 | **≈ $727** |
+| $1,000 kept | 2 Sprints + 1 Creative Test (USD) | $1,370 | $317 | $41 | **≈ $1,012** |
+| Egypt only | 2 Sprints + 2 Creative Tests + 2 Starters (EGP 53,000) | ≈ $981 | ≈ $428 | ≈ 0 | **≈ $554 (EGP 29,900)** |
+| $2,000 kept | 4 Sprints + 2 Creative Tests (USD) | $2,740 | $633 | $82 | **≈ $2,025** |
 
 What this means:
 
-- **Editing is the margin.** It has no creator cost. Push editing packs to agencies alongside UGC.
-- **Egypt-only pricing makes $1,000 kept very hard in six days** (you'd need about EGP 77,000 in sales). Mix in at least one USD client: an agency, a Gulf brand or an Upwork job.
+- **Dollar clients come first.** Agencies abroad, Gulf brands with no-shipping formats and Upwork jobs keep about 70% of the price for you; Egyptian packages keep about 55%.
+- **Egypt-only pricing can't reach $1,000 kept this week.** At about 56% kept, it would take roughly EGP 96,000 in sales.
 - **Timing:** by Nov 22, realistic cash is deposits and 100%-upfront packages. Sprint balances and Mostaql earnings (14-working-day hold) mostly land the week after. The dashboard tracks each stage separately.
 
 ## Activity math (assumption, not research)

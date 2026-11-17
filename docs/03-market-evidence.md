@@ -49,8 +49,8 @@ Full table with fees, holds and verification status: [06-payments-and-agreement.
 
 **My assumptions (adjust with real data):**
 - Reply rate 8–12%, a third of replies to a quote, a third to a half of quotes closing.
-- Creator pay EGP 800–2,500 per video.
-- About 7–8 hours of your time per Creative Test.
+- Creator pay EGP 1,000–2,000 per finished video (filmed and edited); planning figure EGP 1,200.
+- About 2.5 hours of your time per Creative Test, since creators film and edit.
 - FX of EGP 54 per USD and about 3% fees on USD payments.
 - Posting dates estimated from Mostaql and Upwork ID sequences.
 - "Converted" in the job post = Convertedin.
@@ -61,3 +61,8 @@ Full table with fees, holds and verification status: [06-payments-and-agreement.
 - **Whether each project is still open.** Check before applying.
 - **Brand handles and websites** not named in a source are left blank in the CRM.
 - **Links:** checked for format only; live checks were blocked.
+
+## 8. Who makes the videos (checked Nov 17)
+
+- **Creators editing their own videos is normal in UGC.** Platforms advise asking creators for both the fully edited video and the raw footage in the brief, and many creators include raw clips at no extra charge ([Insense help](https://help.insense.pro/article/4294)). A 2026 tutorial recommends putting "raw vs edited" and filming specs in every brief ([Motion, Apr 2026](https://motionapp.com/library/talk/the-complete-guide-to-making-ugc-ads-every-step-from-creative-brief-to-final-ad/)).
+- **Freelance editors, if you add one later:** Khamsat listings for Reels/TikTok editing start around $5 for a video up to 20 seconds and reach about $25 for 60 seconds; some offer 3 videos for $10. Quality varies, and one buyer complained of poor quality and no reply ([example listing](https://khamsat.com/video-design/short-videos/2931412-%D8%AE%D8%AF%D9%85%D8%A9-%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%84%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%B1%D9%8A%D9%84%D8%B2-%D8%AA%D9%8A%D9%83%D8%AA%D9%88%D9%83-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%88%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8)).

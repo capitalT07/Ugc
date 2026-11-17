@@ -30,13 +30,13 @@ Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[
 **AR**
 > أهلاً {brand} 👋 شفت {observation}.
 > عندي فكرة إعلان قصير لـ{product}: {concept}.
-> إحنا ستوديو UGC في القاهرة: بنكتب السكريبت، بنختار صانع المحتوى المناسب، وبنعمل المونتاج — وكل إعلان معاه هوكات إضافية للاختبار.
+> إحنا ستوديو UGC في القاهرة: بنكتب السكريبت والهوكات، وبنختار صانع محتوى يصوّر ويعمل المونتاج، وبنراجع كل فيديو قبل التسليم — وكل إعلان معاه هوكات إضافية للاختبار.
 > أبعتلكم السكريبت و٣ هوكات؟ نماذج تجريبية: [PORTFOLIO]
 
 **EN**
 > Hi {brand} 👋 I noticed {observation}.
 > One short ad idea for {product}: {concept}.
-> We're a small UGC studio in Cairo: we script, cast the right creator and edit, and every ad comes with extra hooks to test.
+> We're a small UGC studio in Cairo: we write the script and hooks, cast a creator who films and edits it, and check every video before you get it. Every ad comes with extra hooks to test.
 > Want me to send the script and 3 hooks? Concept samples: [PORTFOLIO]
 
 ### TikTok DM (shorter; many business accounts have DMs off, so use Instagram or email if it fails)
@@ -66,7 +66,7 @@ Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[
 
 ### Reddit
 
-**Reply to a [Hiring] post** (r/UGCcreators, r/UGC_forhire, r/HireAnEditor, r/forhire; follow each sub's format):
+**Reply to a [Hiring] post** (r/UGCcreators, r/UGC_forhire, r/forhire; follow each sub's format):
 > Hi u/{user}, applying for your {project} post.
 > - What I'd make: {concept}
 > - Delivery: {n} vertical videos with captions and 3 hooks each, in {days} days
@@ -77,9 +77,9 @@ Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[
 > Happy to send hook ideas first.
 
 **[For Hire] post** (only where the sub allows it, and no more often than its rules say):
-> [For Hire] Arabic & English UGC ads and short-form editing — edits from $40, UGC videos from $120
+> [For Hire] Arabic & English UGC ads — videos from $120
 >
-> Small studio in Cairo. We script, cast native Arabic-speaking creators (Egyptian or neutral Arabic), film and edit for TikTok, Reels and Shorts. Every ad ships with extra hooks to test. Editing from your footage in 48 h. Concept samples: [PORTFOLIO]. DM me with your product and platform.
+> Small studio in Cairo. We write the scripts and hooks; native Arabic-speaking creators (Egyptian or neutral Arabic) film and edit for TikTok, Reels and Shorts; we check every video. Every ad ships with extra hooks to test. Samples: [PORTFOLIO]. DM me with your product and platform.
 
 ### Cold email
 
@@ -92,7 +92,7 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 >
 > One idea: {concept}. It shows {value} in the first 2 seconds, which is usually what decides whether people keep watching an ad.
 >
-> We write the script, cast a creator who fits your customers, and edit for TikTok and Reels, with 3 hooks per ad so you can test which opening wins. A 3-video test is {price}, delivered 5 days after the product arrives.
+> We write the script and hooks and cast a creator who fits your customers; the creator films and edits it for TikTok and Reels, and we check every video before you get it. Each ad comes with 3 hooks so you can test which opening wins. A 3-video test is {price}, delivered 5 days after the product arrives.
 >
 > Would you like the script and hooks for this idea? Samples (concept work): [PORTFOLIO]
 >
@@ -106,7 +106,7 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 >
 > عندي فكرة: {concept}. الفكرة بتوضح {value} في أول ثانيتين، ودي اللحظة اللي بتحدد الناس هتكمل الإعلان ولا لأ.
 >
-> بنكتب السكريبت، بنختار صانع محتوى شبه عملائكم، وبنعمل المونتاج لتيك توك وريلز، وكل إعلان معاه ٣ هوكات عشان تختبروا أنهي بداية بتكسب. تجربة الـ٣ فيديوهات بـ{price}، والتسليم بعد ٥ أيام من وصول المنتج.
+> بنكتب السكريبت والهوكات، وبنختار صانع محتوى شبه عملائكم يصوّر ويعمل المونتاج لتيك توك وريلز، وبنراجع كل فيديو قبل ما يوصلكم. وكل إعلان معاه ٣ هوكات عشان تختبروا أنهي بداية بتكسب. تجربة الـ٣ فيديوهات بـ{price}، والتسليم بعد ٥ أيام من وصول المنتج.
 >
 > أبعتلكم السكريبت والهوكات للفكرة دي؟ نماذج تجريبية: [PORTFOLIO]
 >
@@ -117,23 +117,23 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 **EN**
 > Hi {name},
 >
-> I run T Studio, a small UGC and editing studio in Cairo. When your clients need fresh creatives, we can be your white-label bench:
+> I run T Studio, a small UGC studio in Cairo. When your clients need fresh creatives, we can be your white-label UGC supplier:
 > - Arabic UGC (Egyptian or neutral Arabic), creators cast per brief
-> - Edits from your footage: 1-second hooks, captions, 3 variants per ad, 48–72 h
+> - We write the scripts and hooks; creators film and edit; we check every video before delivery (3 hooks per ad, about 5 days)
 > - Your branding only; we never contact your clients
 >
-> Rates: editing from $40 / EGP 900 per short; UGC from $110 / EGP 3,000 per video in a 3-video pack.
+> Rates: from $110 / EGP 3,000 per video in a 3-video pack; a single test video is $120 / EGP 3,500.
 > Want to try one paid test on a current client? Samples: [PORTFOLIO]
 
 **AR**
 > أهلاً أستاذ/ة {name}،
 >
-> أنا [NAME] من T Studio، ستوديو UGC ومونتاج صغير في القاهرة. لما عملاءكم يحتاجوا كريتيفز جديدة، نقدر نبقى فريقكم من ورا الستارة (White-label):
+> أنا [NAME] من T Studio، ستوديو UGC صغير في القاهرة. لما عملاءكم يحتاجوا كريتيفز جديدة، نقدر نبقى فريقكم من ورا الستارة (White-label):
 > - UGC بالعربي (مصري أو عربي أبيض) بصانع محتوى بنختاره لكل بريف
-> - مونتاج من لقطاتكم: هوك في أول ثانية، كابشن، ٣ نسخ لكل إعلان، خلال ٤٨–٧٢ ساعة
+> - بنكتب السكريبت والهوكات، وصناع المحتوى بيصوّروا ويعملوا المونتاج، وبنراجع كل فيديو قبل التسليم (٣ هوكات لكل إعلان، خلال حوالي ٥ أيام)
 > - باسمكم بس، ومش بنتواصل مع عملاءكم أبداً
 >
-> الأسعار: المونتاج من ٩٠٠ جنيه للفيديو، والـUGC من ٣٠٠٠ جنيه للفيديو في باقة ٣ فيديوهات.
+> الأسعار: من ٣٠٠٠ جنيه للفيديو في باقة ٣ فيديوهات، وفيديو تجربة واحد بـ٣٥٠٠ جنيه.
 > نجرب أول شغل مدفوع على عميل حالي؟ نماذج: [PORTFOLIO]
 
 ### Mostaql proposal (structure)
@@ -159,14 +159,14 @@ Bid inside their budget, set a realistic duration, and keep everything on Mostaq
 > 2. {plan step 2}
 > 3. {plan step 3}
 >
-> You get {deliverables} in {days} days, with one revision round each. We're a small studio in Cairo: I script and edit; for on-camera work we cast a creator who fits your customer.
+> You get {deliverables} in {days} days, with one revision round each. We're a small studio in Cairo: we write the scripts and hooks, a creator who fits your customer films and edits, and we check every video.
 > Concept samples (not client work): [PORTFOLIO]
 > One question: {question}
 
 ### French (francophone brands, Maghreb, the French UGC post on Upwork)
 
 **DM**
-> Bonjour {brand} 👋 J'ai remarqué {observation}. Une idée de pub courte pour {product} : {concept}. Nous sommes un petit studio UGC au Caire : script, choix du créateur, montage, et chaque pub arrive avec des accroches supplémentaires à tester. Je vous envoie le script et 3 accroches ? Exemples : [PORTFOLIO]
+> Bonjour {brand} 👋 J'ai remarqué {observation}. Une idée de pub courte pour {product} : {concept}. Nous sommes un petit studio UGC au Caire : nous écrivons le script et les accroches, un créateur filme et monte la vidéo, et nous vérifions chaque vidéo. Chaque pub arrive avec des accroches supplémentaires à tester. Je vous envoie le script et 3 accroches ? Exemples : [PORTFOLIO]
 
 **Email**
 > Bonjour {name},
@@ -175,7 +175,7 @@ Bid inside their budget, set a realistic duration, and keep everything on Mostaq
 >
 > Une idée : {concept}. Elle montre {value} dans les 2 premières secondes, ce qui décide souvent si les gens regardent la pub jusqu'au bout.
 >
-> Nous écrivons le script, choisissons un créateur qui ressemble à vos clients et montons pour TikTok et Reels, avec 3 accroches par pub. Un test de 3 vidéos coûte {price}, livré 5 jours après réception du produit.
+> Nous écrivons le script et les accroches, et un créateur qui ressemble à vos clients filme et monte la vidéo pour TikTok et Reels. Nous vérifions chaque vidéo, et chaque pub a 3 accroches. Un test de 3 vidéos coûte {price}, livré 5 jours après réception du produit.
 >
 > Voulez-vous le script et les accroches ? Exemples (travaux de démonstration) : [PORTFOLIO]
 >

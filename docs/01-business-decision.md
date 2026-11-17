@@ -1,46 +1,46 @@
 # Business decision
 
-**Primary:** a UGC studio with a creator roster, Arabic-first (Egyptian and neutral Arabic, plus English and French).
-**Secondary:** short-form editing, done by you, sold direct and white-label to agencies.
-**Name:** T Studio · Arabic UGC ads ([details below](#studio-name-and-accounts)).
+**What you're building:** **T Studio · Arabic UGC ads**, a small UGC studio in Cairo, Arabic-first (Egyptian and neutral Arabic, plus English and French).
 
-You stay off camera: you sell, script, direct, edit and film faceless footage; roster creators film the on-camera parts. AI is a production tool (voice-over, captions, translations, hook variations), not the product.
+**Your role:** producer and account manager. You find clients, cast creators, brief them, check every video, and handle clients and money. **You don't film or edit.** Creators film and edit; I write the scripts and hooks.
+
+**Not this week:** editing-only services, because nobody on the team edits other people's footage yet. Later options: add a freelance editor, or learn CapCut basics ([10](10-studio-basics.md)).
 
 ## The four models compared
 
-Scores 1 (poor) to 5 (strong). The evidence links are in [03-market-evidence.md](03-market-evidence.md).
+Rescored on Nov 17 after you told me you have no filming or editing experience. Scores 1 (poor) to 5 (strong). Evidence is in [03-market-evidence.md](03-market-evidence.md).
 
-| Criterion | A. UGC studio (roster) | B. Short-form editing | C. Content systems | D. Simple automations |
+| Criterion | A. UGC studio (creators film and edit) | B. Short-form editing | C. Content systems | D. Simple automations |
 |---|---|---|---|---|
-| Time to first customer | **4**: live Arabic UGC posts exist now | **5**: many open editing posts | 2: monthly retainers need trust first | 1: needs discovery and proof |
-| Startup cost | **5**: phone, tripod, free CapCut | **5** | 5 | 4 |
-| Demand | **5**: 20+ Arabic UGC projects on Mostaql, Upwork posts, a company hiring a UGC specialist for Egypt/KSA/UAE | 4: plenty of posts, small budgets | 4 | 3 |
-| Competition | 3: many creators; Arabic-first + editing + casting stands out | 2: global and crowded | 3 | 3 |
-| Selling from Egypt | 4: direct locally; Gulf needs shipping or no-shipping formats | **5**: fully remote | 4 | 3 |
+| Time to first customer | **4**: live Arabic UGC posts exist now | 2: needs editing skill or an editor first | 2: monthly retainers need trust first | 1: needs discovery and proof |
+| Startup cost | **5**: free tools; creators paid from client money | 4: editor cost | 5 | 4 |
+| Demand | **5**: 20+ Arabic UGC projects on Mostaql, Upwork posts, a company hiring a UGC specialist for Egypt/KSA/UAE | 4 | 4 | 3 |
+| Competition | 3: many creators; Arabic-first scripts + casting stands out | 2: global and crowded | 3 | 3 |
+| Selling from Egypt | 4: direct locally; Gulf needs shipping or no-shipping formats | 5 | 4 | 3 |
 | Price per job | **4**: $120–520 / EGP 3,500–14,000 | 2: $25–75 per short at entry level | 4 | 4 |
-| Ease of delivery | 3: products, creators and shipping to manage | **5**: just you | 2 | 2: technical risk |
+| Ease of delivery | 3: creators produce; you check quality | 1: you can't edit yet | 2 | 2: technical risk |
 | Payment speed | 4: 100% upfront on small packages | 4 | 3 | 3 |
-| Ability to scale | **4**: more creators, not more of your hours | 3: limited by your hours | 4 | 4 |
-| Your advantages | **5**: TikTok, CapCut, 3 languages, fitness niche | **5** | 4 | 2: explored n8n, nothing delivered yet |
-| **Total** | **41** | **40** | **35** | **29** |
+| Ability to scale | **4**: more creators, not more of your hours | 3 | 4 | 4 |
+| Your advantages | **4**: selling, Arabic/English/French, social media sense, fitness niche | 1 | 3 | 2 |
+| **Total** | **40** | **28** | **34** | **29** |
 
-A and B score close, so the plan sells both: UGC for the higher ticket and differentiation, editing for fast, high-margin work (no creator cost) and as the door into agencies. C becomes the upsell once a client has results (the monthly plan in [07](07-delivery-workflow.md#repeat-order-day-714)). D waits until after this week.
+A is the only model you can deliver this week without learning a new skill: it uses what you're good at (talking to people, three languages, knowing what works on social media) and leaves production to creators. C becomes the upsell once a client has results (the monthly plan in [07](07-delivery-workflow.md#repeat-order-day-714)). B and D wait.
 
-## Why a roster and not AI presenters
+## Why creators, and not AI presenters
 
 - Real people sell physical products better: in an Ipsos test, human-made ads scored 14% higher on short-term effectiveness; the best-controlled field study found AI ads only level on click-through.
 - TikTok and Meta now label realistic AI people in ads and reject undisclosed ones.
 - A fake "customer" is a legal risk: the US FTC bans testimonials from people who don't exist.
-- AI UGC pays less (the one fresh job found pays AUD 50 a video) and needs a paid tool.
+- AI UGC pays less (the one fresh job found pays AUD 50 a video) and needs a paid tool plus editing.
 
-A roster keeps the videos real, keeps your face out, lets you cast to the brand (men, women, curly hair, dialects), and is how the business grows past your own hours. The cost is setup time this week and creator pay of roughly 25–50% on EGP packages.
+Creators who film and edit keep the videos real, keep your face out, let you cast to the brand (men, women, curly hair, dialects), and grow the business past your own hours. The cost is margin: creator pay is roughly 20–30% of USD packages and 45% of EGP packages ([02](02-offer-and-pricing.md#what-creators-cost-you-internal-never-show-clients)).
 
 ## What makes the offer different
 
 1. **Arabic-first**, written for Egyptian and Gulf buyers, not translated.
 2. **Three hooks per ad**, so brands test openings instead of guessing.
-3. **Script, casting, filming and editing in one package**, priced clearly.
-4. **No-shipping formats** (app demos, voice-over edits, green-screen explainers) for clients abroad.
+3. **Script, casting, filming and editing in one package**, with every video checked before delivery.
+4. **No-shipping formats** (app demos, screen recordings, voice-over explainers) for clients abroad.
 5. **Rights priced honestly**: organic included, paid ads by period, nothing unlimited for free.
 
 ## Studio name and accounts
@@ -51,7 +51,7 @@ A roster keeps the videos real, keeps your face out, lets you cast to the brand 
 |---|---|
 | Instagram and TikTok handle | `@tstudio.ugc`; if taken, `@tstudio.eg` or `@tstudio.cairo` |
 | Display name | T Studio · UGC ads |
-| Bio | EN: Arabic UGC ads & edits · Cairo · WhatsApp [number]. AR: إعلانات UGC ومونتاج · القاهرة · واتساب |
+| Bio | EN: Arabic UGC ads · Cairo · WhatsApp [number]. AR: إعلانات UGC بالعربي · القاهرة · واتساب |
 | Email | A matching free Gmail, e.g. `tstudio.ugc@gmail.com` |
 | Sign-off | [NAME] · T Studio · Arabic UGC ads |
 

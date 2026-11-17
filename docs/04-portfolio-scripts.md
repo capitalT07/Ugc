@@ -1,6 +1,6 @@
 # Portfolio: six concept ads
 
-Six sample ads to show brands your style before you have paying clients. Three you can film yourself without your face (2, 3, 5); three use a roster creator for the on-camera part, with your faceless b-roll (1, 4, 6).
+Six concept scripts. Creators film and edit them; you don't need to. Use them three ways: as audition scripts, as concept-ad swaps that build the portfolio ([09](09-creator-roster.md#concept-ad-swap-free-portfolio-pieces)), and as starting points for client briefs. Three are faceless (2, 3, 5) and three need a creator on camera (1, 4, 6).
 
 ## Labelling rules (non-negotiable)
 
@@ -9,11 +9,13 @@ Six sample ads to show brands your style before you have paying clients. Three y
 - Post them on T Studio's own Instagram and TikTok only with the label "Concept ad · not sponsored", and never present one as an ad for a brand. A spec ad made for one brand you're pitching stays private and goes only to that brand.
 - Shooting a short concept with a top lead's product (Cotmasr, Sigma Fit, Mr.Beard) is a strong door-opener, but it's your choice and your cost. Never do it because a client asked for free work.
 
-## What you need
+## What the creator needs
 
 A phone with a clean lens, a cheap tripod with a phone clip, a window, a table, and a quiet room. Optional: a clip-on microphone and a small LED light. Shoot vertical (9:16), 4K or 1080p at 30 fps, back camera, 1x lens (not ultra-wide).
 
-## Editing defaults in CapCut (all six)
+## Editing spec (send to creators; check every video against it)
+
+Creators do the editing. Send them this list with every brief, and use it plus the QA checklist in [07](07-delivery-workflow.md#qa-checklist-before-any-preview-goes-out) to check what comes back.
 
 1. New project, **9:16**. Import clips in shot order.
 2. **Hook text** on screen from 0.0 to 1.5 s: big bold text, 4–7 words, in the middle of the frame.
@@ -29,7 +31,7 @@ A phone with a clean lens, a cheap tripod with a phone clip, a window, a table, 
 
 ## 1. Product review: "First time trying beard oil, honest take"
 
-- **Who films:** roster creator (man with a beard) for talking shots; you for hands and product close-ups.
+- **Who films and edits:** a creator (man with a beard): talking shots and close-ups.
 - **Shows brands:** honest review format; fits Mr.Beard, Meraki, The.Man.Brand.
 - **Length:** 25–30 s.
 
@@ -57,11 +59,11 @@ A phone with a clean lens, a cheap tripod with a phone clip, a window, a table, 
 | # | Time | Framing | Action | Who |
 |---|---|---|---|---|
 | 1 | 0–3 s | Medium close-up, chest up | Holds bottle near face, says the hook | Creator |
-| 2 | 3–5 s | Extreme close-up | Two drops land in a palm | You (hands) |
+| 2 | 3–5 s | Extreme close-up | Two drops land in a palm | Creator (hands) |
 | 3 | 5–9 s | Lower-face close-up | Rubs oil in from the roots | Creator |
 | 4 | 9–13 s | Close-up | Brushes beard; light catches the texture | Creator |
 | 5 | 13–22 s | Medium close-up | Honest verdict to camera | Creator |
-| 6 | 22–27 s | Product beauty shot | Bottle on a shelf, slow push-in | You |
+| 6 | 22–27 s | Product beauty shot | Bottle on a shelf, slow push-in | Creator |
 
 **Camera:** tripod at eye level, 60–70 cm away for talking shots; 15–20 cm for close-ups. **Light:** face a window; switch off the yellow ceiling light so colours don't mix. **Edit:** hook text «دقني كانت ناشفة 😩»; soft drop sound on shot 2; punch-in on «مش بيسيب لمعة»; end card "Concept ad".
 
@@ -71,9 +73,9 @@ A phone with a clean lens, a cheap tripod with a phone clip, a window, a table, 
 
 ## 2. Unboxing: "I ordered from a local brand. This is what showed up."
 
-- **Who films:** you, faceless (hands only).
+- **Who films and edits:** a creator, faceless (hands only).
 - **Shows brands:** packaging, fabric, first impressions; fits Cotmasr, Kijaqo, Sigma Fit, Gym Apparel, streetwear.
-- **Length:** 20–28 s. Film it the day a real order arrives (buy one basic item from a local brand).
+- **Length:** 20–28 s. Filmed the day a real order arrives (the creator uses something they bought from a local brand).
 
 **Hooks**
 1. AR: «طلبت من براند مصري… وده اللي وصلني» · EN: "I ordered from a local brand. This is what showed up."
@@ -107,9 +109,9 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 
 ## 3. Product demo: "Plan a week of workouts in 2 minutes" (app, no shipping)
 
-- **Who films:** you, faceless (screen recording, hands, neck-down gym shots), with your voice-over.
+- **Who films and edits:** a creator, faceless (screen recording, hands, neck-down gym shots), with their own voice-over.
 - **Shows brands:** app and software demos; fits FitXpert, ElCoach, the Upwork app jobs. No shipping, so it works for Gulf and international clients.
-- **App:** a free fitness or habit app you actually use. Say its real name; label the video as a concept.
+- **App:** a free fitness or habit app the creator actually uses. Say its real name; label the video as a concept.
 - **Length:** 30–40 s.
 
 **Hooks**
@@ -160,7 +162,7 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 
 ## 4. Storytelling: "The compliment test" (fragrance)
 
-- **Who films:** roster creator (talking shots and day clips); you film product shots.
+- **Who films and edits:** a creator (talking shots, day clips and product shots).
 - **Shows brands:** story structure (problem → test → result); fits Nspired, Nuit, Breathe, Boshara, Bubblzz.
 - **Rule:** the count must be real. If the result is zero, either keep it as an honest, funny ad or re-film with another scent. Never fake it.
 - **Length:** 30–40 s, filmed across one real day.
@@ -199,11 +201,11 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 | # | Time | Framing | Action | Who |
 |---|---|---|---|---|
 | 1 | 0–4 s | Medium close-up | Hook to camera, bottle in hand | Creator |
-| 2 | 4–6 s | Extreme close-up | Spray in slow motion, backlit by the window | You |
+| 2 | 4–6 s | Extreme close-up | Spray in slow motion, backlit by the window | Creator |
 | 3 | 6–9 s | Medium | Checks watch: 9:00 | Creator |
 | 4 | 9–20 s | Mixed | 3–4 day moments, counter overlay | Creator (selfie or a friend films) |
 | 5 | 20–26 s | Close-up | Smells wrist at 5 pm | Creator |
-| 6 | 26–36 s | Medium close-up + product shot | Result and CTA | Creator + you |
+| 6 | 26–36 s | Medium close-up + product shot | Result and CTA | Creator |
 
 **Camera and light:** eye-level tripod for talking shots by a window; day clips can be handheld selfie-style (that's the format). Never film strangers without permission; blur any face that appears. **Edit:** counter graphic top-left; timestamp text for each scene; music builds slightly towards the result.
 
@@ -213,7 +215,7 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 
 ## 5. Lifestyle: "POV: 6:30 am in Cairo" (coffee or snack)
 
-- **Who films:** you, faceless POV.
+- **Who films and edits:** a creator, faceless POV.
 - **Shows brands:** a product placed naturally in a routine; fits SLVRSKN, Social Coffee Roasters, Brüz, Beast.
 - **Length:** 20–25 s, mostly music, on-screen text, very little voice.
 
@@ -247,7 +249,7 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 
 ## 6. Fitness apparel: "Squat, sweat and stretch test"
 
-- **Who films:** you, neck-down (men's tee or shorts). For women's leggings, a female roster creator, filmed respectfully: mid-distance framing, no close-ups of the body beyond what the test needs.
+- **Who films and edits:** a creator, neck-down (men's tee or shorts). For women's leggings, a female creator, filmed respectfully: mid-distance framing, no close-ups of the body beyond what the test needs.
 - **Shows brands:** product-proof format; fits Gym Apparel, Sigma Fit, Haxel, Mavin Wear, Magma.
 - **Length:** 25–30 s.
 
@@ -311,18 +313,19 @@ Each folder holds the final video, its 2 alternate-hook versions, and a 9:16 thu
 5. Languages: Arabic (Egyptian and neutral), English, French.
 6. Contact: WhatsApp and email.
 
+**Creators' existing work:** with each creator's written permission, show 1–2 videos they made before joining, labelled "By a creator on our roster, made before joining T Studio". Never present them as T Studio client work.
+
 **T Studio's own accounts:** post each finished concept ad on Instagram and TikTok with the "Concept ad · not sponsored" label. Once two are up, the Instagram profile works as your `[PORTFOLIO]` link until the Canva page is ready.
 
 Once you have real clients and their permission, replace concept tiles with client work.
 
-## What to film, in order
+## Getting the first samples (no filming by you)
 
 | When | What | Who |
 |---|---|---|
-| Today, Tue Nov 17 | #3 app demo (screen recording now, gym shots at your next session) | You |
-| Today or tomorrow | #2 unboxing (as soon as any order arrives; buy one basic item from a local brand today) | You |
-| Wed Nov 18, 6:30 am | #5 lifestyle POV | You |
-| Wed–Thu | #6 fitness test (your neck-down version) | You |
-| Wed–Thu | #1 review and #4 storytelling | First roster creators |
+| Today, Tue Nov 17 | Ask every creator you recruit for 2 videos they already filmed and edited, plus permission to show them | You (messages in [09](09-creator-roster.md)) |
+| Wed Nov 18 | Agree one concept-ad swap on an easy faceless script: #3 app demo or #2 unboxing | First creator |
+| Thu–Fri | A second swap with an on-camera script: #1 review or #6 fitness test | Second creator |
+| As clients come in | Replace concept pieces with real client work (with the client's permission) | — |
 
-Minimum to start selling: **two finished videos (#3 and #2) on the Canva page or T Studio's Instagram.** Don't wait for all six before sending messages.
+Minimum to start selling: **two videos on the Canva page or T Studio's Instagram**, either creators' existing work (labelled) or concept swaps. Don't wait for all six before sending messages.

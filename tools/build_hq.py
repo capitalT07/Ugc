@@ -16,7 +16,7 @@ import leads_data as D  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "hq" / "launch-hq.html"
 
-SHEET_URL = "https://docs.google.com/spreadsheets/d/1SY54jhhQfHfHGCB_F2n_78gnFDvXCowGhhpnUA55PxU/edit"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit"
 REPO = "https://github.com/capitalT07/Ugc"
 BRANCH = "claude/1k-2k-business-7-days-w9vmgs"
 BLOB = f"{REPO}/blob/{BRANCH}"
@@ -27,7 +27,7 @@ GROUP = {D.T_BRAND: "brands", D.T_MOSTAQL: "mostaql", D.T_UPWORK: "upwork",
          D.T_AGENCY: "partners", D.T_HIRING: "partners", D.T_JOB: "partners"}
 MONEY_CHECKPOINT = {
     "2026-11-17": "Setup day. No revenue expected.",
-    "2026-11-18": "First quotes out; aim for one Starter or editing pack paid (EGP 3,500–4,000).",
+    "2026-11-18": "First quotes out; aim for one Starter paid (EGP 3,500 / $120).",
     "2026-11-19": "First deposit landed (≥ EGP 3,500); booked ≥ $300.",
     "2026-11-20": "First client previews delivered.",
     "2026-11-21": "Booked ≥ $700; landed ≥ $300.",
@@ -188,7 +188,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
     <div>
       <div class="eyebrow"><span class="rec" aria-hidden="true"></span><span id="dayline">Tue 17 Nov · Day 1 of 6</span></div>
       <h1>UGC Studio Launch HQ</h1>
-      <p class="sub">T Studio · Arabic UGC ads and edits from Cairo. Goal: $1,000 by Sunday 22 Nov, counted only when it reaches you.</p>
+      <p class="sub">T Studio · Arabic UGC ads from Cairo. Goal: $1,000 by Sunday 22 Nov, counted only when it reaches you.</p>
     </div>
     <div class="btns">
       <a class="btn primary" href="__SHEET__" target="_blank" rel="noopener">Open the CRM sheet</a>
@@ -209,14 +209,14 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
       <section aria-labelledby="h-today">
         <h2 id="h-today">Today's three actions <small>TUE 17 NOV</small></h2>
         <ol class="steps">
-          <li><strong>Recruit your first creators</strong><span class="time">20 min</span>
-            <p>Send the recruiting message to 10 people you know and ask for a 20-second audition by tomorrow. <a href="__BLOB__/docs/09-creator-roster.md#recruiting-messages" target="_blank" rel="noopener">Message and audition script</a></p></li>
-          <li><strong>Film your first faceless sample</strong><span class="time">1–2 h</span>
-            <p>The app demo (concept #3): screen recording now, gym shots at your next session. Order one basic item from a local brand for the unboxing. <a href="__BLOB__/docs/04-portfolio-scripts.md#3-product-demo-plan-a-week-of-workouts-in-2-minutes-app-no-shipping" target="_blank" rel="noopener">Script and shot list</a></p></li>
+          <li><strong>Recruit creators who film and edit</strong><span class="time">30 min</span>
+            <p>Message 10 people you know and 5 small creators. Ask each for 2 videos they filmed and edited themselves, plus a 20-second audition, by tomorrow. <a href="__BLOB__/docs/09-creator-roster.md#recruiting-messages" target="_blank" rel="noopener">Messages and audition</a></p></li>
+          <li><strong>Set up T Studio</strong><span class="time">40 min</span>
+            <p>Instagram and TikTok (@tstudio.ugc, or @tstudio.eg if taken), a matching Gmail, WhatsApp Business with the 3 packages, and check you can receive InstaPay.</p></li>
           <li><strong>Send the first batch</strong><span class="time">1.5 h</span>
             <p>Leads 1–12 below (tap “Today’s batch”). Fill in the highlighted parts, approve, send, then set each to <em>Sent</em> in the sheet’s Pipeline tab.</p></li>
         </ol>
-        <p class="also">Also today: create T Studio’s Instagram and TikTok (@tstudio.ugc, or @tstudio.eg if taken) and a matching Gmail, set up WhatsApp Business with the 3 packages, and confirm you can receive InstaPay.</p>
+        <p class="also">Also today: read the <a href="__BLOB__/docs/10-studio-basics.md" target="_blank" rel="noopener">30-minute studio basics guide</a>, and send applications 14, 19, 20, 25 and 30 if they're still open. You don’t film or edit: creators do, and you check every video.</p>
         <div class="rules">
           <strong>Before any message goes out</strong>
           <ul>
@@ -231,12 +231,11 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
       <section aria-labelledby="h-pk">
         <h2 id="h-pk">What you sell</h2>
         <div class="pk">
-          <div class="p"><div class="name">Starter</div><div class="price">EGP 3,500 <span>· $120</span></div><div class="small">1 video, script + filming + edit + captions. 100% upfront.</div></div>
+          <div class="p"><div class="name">Starter</div><div class="price">EGP 3,500 <span>· $120</span></div><div class="small">1 video: our script and hooks, filmed and edited by a creator. 100% upfront.</div></div>
           <div class="p feature"><div class="name">Creative Test <em>Lead with this</em></div><div class="price">EGP 9,000 <span>· $330</span></div><div class="small">3 videos, 3 concepts, 30 days of paid ads. 100% upfront.</div></div>
           <div class="p"><div class="name">Content Sprint</div><div class="price">EGP 14,000 <span>· $520</span></div><div class="small">5 videos + 5 alternate hooks. 50% deposit, 50% before final files.</div></div>
-          <div class="p"><div class="name">Editing only</div><div class="price">EGP 900 <span>· $40 per short</span></div><div class="small">5 for EGP 4,000 / $180 · 10 for EGP 7,000 / $330. No creator cost.</div></div>
         </div>
-        <p class="also">Organic posting on their accounts has no time limit; paid-ads use is priced by period; never unlimited for free. First order paid by Sun 22 Nov gets 2 extra hooks. Final files only after full payment.</p>
+        <p class="also">Creators are paid EGP 1,000–2,000 per finished video from the client’s payment, never before. Organic posting on their accounts has no time limit; paid-ads use is priced by period; never unlimited for free. First order paid by Sun 22 Nov gets 2 extra hooks. Final files only after full payment.</p>
       </section>
 
       <section aria-labelledby="h-call">

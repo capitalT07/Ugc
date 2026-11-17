@@ -12,10 +12,10 @@ Free tools only: WhatsApp Business, Google Drive, Google Forms, Google Docs, the
 | 4 | Deposit received | Check it has **landed** in your account; log it in the Revenue Ledger | Before anything else | Bank / InstaPay app, Sheet |
 | 5 | Brief collected | Send the brief form; ask them to ship the product to you | Same day | Google Form |
 | 6 | Script approved | Write scripts + 3 hooks each; client approves | Scripts in 2 working days; approval in 24 h | Google Doc |
-| 7 | Filming | Cast (send 2–3 creator options), send the filming brief ([09](09-creator-roster.md#filming-brief-send-for-every-job)), hand over the product; film your b-roll | 1–2 days | WhatsApp, Drive |
-| 8 | Editing | CapCut defaults ([04](04-portfolio-scripts.md#editing-defaults-in-capcut-all-six)), 3 hook versions, QA checklist below | 1–2 days | CapCut |
+| 7 | Filming and editing | Cast (send 2–3 creator options), send the production brief ([09](09-creator-roster.md#production-brief-send-for-every-job)), hand over the product. The creator films and edits to the [editing spec](04-portfolio-scripts.md#editing-spec-send-to-creators-check-every-video-against-it) and sends a watermarked preview | 2–3 days | WhatsApp, Drive |
+| 8 | Quality check | Check the preview against the QA checklist below ([10](10-studio-basics.md) explains what to look for); send fixes back to the creator | Same day | WhatsApp |
 | 9 | Client review | Send watermarked 720p previews in a Drive folder | — | Drive |
-| 10 | Revisions | One round per video | Within 48 h of feedback | CapCut |
+| 10 | Revisions | One round per video, made by the creator | Within 48 h of feedback | WhatsApp |
 | 11 | Final payment | Send the invoice for the balance | Same day as approval | Invoice template |
 | 12 | Final files | Share the Finals folder once the balance lands | Within 2 h of payment | Drive |
 | 13 | Testimonial and referral | Ask 5–7 days after the ads go live | Day 5–7 | WhatsApp |
@@ -50,7 +50,7 @@ Share only `04 Previews` before payment, then `05 Finals` after.
 
 **File names:** `BRAND_concept_H1_v1.mp4`, e.g. `COTMASR_touchtest_H2_v1.mp4` (H1, H2, H3 = hook versions; v2 after revisions).
 
-**Preview watermark:** CapCut text `PREVIEW · T Studio`, centre, 30% opacity, exported at 720p.
+**Preview watermark:** the creator adds the text `PREVIEW · T Studio` in CapCut (centre, 30% opacity) and exports at 720p. The clean final files come from the creator once the client's balance has landed.
 
 ## QA checklist (before any preview goes out)
 
@@ -88,14 +88,12 @@ Pitch it with the client's own numbers: "Your best hook was H2; next month we te
 
 | Task | Creative Test (3 videos) |
 |---|---|
-| Scripts and hooks | 1.5 h |
-| Casting, brief, product handover | 1 h |
-| Your b-roll | 1 h |
-| Editing 3 videos + hook versions | 3–4 h |
-| QA, previews, delivery | 0.5 h |
-| **Total** | **≈ 7–8 h** |
+| Review the scripts and hooks I draft | 0.5 h |
+| Casting, production brief, product handover | 1 h |
+| QA of previews, revisions, client messages, delivery | 1 h |
+| **Your total** | **≈ 2.5 h** |
 
-So alongside outreach you can deliver about one Creative Test a day. Editing packs run about 1 hour per short. Above that, add a second editor before taking more work.
+Creators do the filming and editing, so your limit is how many creators you have, not your own hours. Plan on each creator finishing 2–3 videos a day (my assumption; ask each one). With 3 creators you can run about 3 Creative Tests at once.
 
 ## Optional n8n flow (after the manual process works; not this week)
 

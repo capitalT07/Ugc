@@ -34,7 +34,7 @@ Status: **Official** = read on the provider's own page; **Reported** = third-par
 
 ## Payment rules for every direct deal
 
-1. **Starter and Creative Test: 100% upfront. Sprint: 50% deposit, 50% before final files. Editing: 100% upfront. Monthly retainers: paid at the start of the month.**
+1. **Starter and Creative Test: 100% upfront. Sprint: 50% deposit, 50% before final files. Monthly retainers: paid at the start of the month.**
 2. Nothing is filmed until the deposit lands in *your* account (not a screenshot, the money).
 3. Previews are **watermarked and lower resolution**. Clean final files go out only after full payment.
 4. Creators are paid only from money already received ([09-creator-roster.md](09-creator-roster.md)).
