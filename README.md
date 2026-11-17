@@ -2,6 +2,10 @@
 
 **Status, Tue Nov 17:** research done; 94 prospects and 6 creator platforms in the CRM; 88 outreach messages drafted. **Nothing has been sent, no deals, no revenue yet.**
 
+**Work from these two links (both private to you):**
+- **Launch HQ page**, phone-friendly, with copy buttons for every top-30 message: https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW
+- **CRM Google Sheet** (your live tracker): https://docs.google.com/spreadsheets/d/1SY54jhhQfHfHGCB_F2n_78gnFDvXCowGhhpnUA55PxU/edit
+
 **The business:** an Arabic-first UGC studio in Cairo. You sell, script, direct, edit and film faceless footage; creators from a small roster film the on-camera parts. Short-form editing for brands and agencies is the second service. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, counted only when it reaches you.
 
 ## Today's three actions
@@ -27,6 +31,7 @@
 | [docs/08-six-day-plan.md](docs/08-six-day-plan.md) | Day-by-day plan with targets, your tasks and mine |
 | [docs/09-creator-roster.md](docs/09-creator-roster.md) | Recruiting, audition, scorecard, creator pay, creator release (EN/AR), filming brief |
 | `tools/leads_data.py`, `tools/build_crm.py` | Source of all lead data and the script that builds the CRM files |
+| `hq/launch-hq.html`, `tools/build_hq.py` | The Launch HQ page and the script that builds it from the same data |
 
 ## Placeholders in messages
 
@@ -40,7 +45,8 @@
 
 - **Status lives in Pipeline**, money in **Revenue Ledger** (one row per deal: quote, signed, deposit, delivered, balance, available to withdraw, landed in bank, creator pay, fees), activity in **Daily**. The Dashboard adds it up in USD and EGP (FX cell is editable).
 - Recalculation was tested in LibreOffice with sample deals; totals matched hand calculations.
-- **Rebuilding** (`python3 tools/build_crm.py` after editing `tools/leads_data.py`) overwrites `crm/`. Track live deals in your own copy of the workbook or the Google Sheet, not in the generated files.
+- **Track live work in the Google Sheet.** It was created from the workbook on Nov 17; rebuilding the repo files does not change it.
+- **Rebuilding** (`python3 tools/build_crm.py` and `python3 tools/build_hq.py` after editing `tools/leads_data.py`) overwrites `crm/` and `hq/`.
 - **Creator personal data** (names, phones, IDs) goes in your private sheet only, never in this repository.
 
 ## Verified and not verified
