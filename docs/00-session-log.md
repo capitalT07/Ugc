@@ -8,7 +8,7 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Business:** T Studio, an Arabic-first UGC ad studio in Cairo. You sell, cast creators, brief them and check every video; creators film and edit; I write the scripts and hooks.
 - **Built:** 94 researched prospects and 6 creator platforms, 71 drafted messages, a ranked top 30, three packages, ten guides, a CRM (repo files and a Google Sheet) and the Launch HQ page.
 - **Status on Tue Nov 17, evening:** nothing sent, no replies, no deals, $0 collected.
-- **Next:** recruit creators, set up T Studio's accounts, and send leads 1–12 once you approve them ([README](../README.md#todays-three-actions)).
+- **Next:** find creators on Khamsat, set up T Studio's accounts, and send leads 1–12 once you approve them ([README](../README.md#todays-three-actions)).
 
 ## Timeline
 
@@ -30,6 +30,9 @@ The record of the first working session on T Studio: what you asked for, what we
 | 17:14–17:23 | New sheet "T Studio CRM" created (17:14) and the old "UGC CRM" moved to Drive trash (17:16). A last check found five leftover editing lines; I fixed them, created the sheet again (17:23) and moved the outdated copy to trash. |
 | 17:23–17:24 | Launch HQ version 3. Commit: creators film and edit; studio basics guide added. |
 | 17:31–17:39 | You asked me to document the session and chose a file in the project plus a guide for future sessions. Commit at 17:39: this log and `CLAUDE.md`. |
+| 17:44 | The chat-history check came back. I corrected this log's times and counts (97 searches, not about 55; the AI research was on Nov 15). |
+| 18:17–18:26 | You asked what to do now. I set out tonight's order and added WhatsApp Business text to paste (commit at 18:26). |
+| 18:37 | You said you don't know anyone to send the recruiting message to. Five searches found creators, many of them Egyptian, selling edited UGC videos on Khamsat, most from about $25 a video. Decision 7: hire creators there first. The docs, Launch HQ and the CRM files were updated. |
 
 ## Decisions and why
 
@@ -68,6 +71,12 @@ The record of the first working session on T Studio: what you asked for, what we
 - Mostaql holds earnings for 14 working days, Fiverr for 14 days, and UGC MENA pays only above $100 after brand approval, so marketplace money can't be withdrawn by Nov 22.
 - Only direct clients (InstaPay, bank transfer, Payoneer, PayPal) can pay you inside the week. The CRM tracks 8 money stages separately, from quote to money in your Egyptian bank ([06](06-payments-and-agreement.md)).
 
+### 7. Creators come from Khamsat, not from people you know
+
+- **You said:** you don't know anyone you'd send the recruiting message to.
+- **Chosen:** hire creators who already sell edited UGC in Khamsat's UGC videos category. Shortlist with a checklist (Egyptian Arabic, a real person on camera, edited samples, up to $35 a video, some reviews), message the best 5 through Khamsat, and order and pay only there, after the client has paid you. Instagram and TikTok DMs and Collabstr are backups ([09](09-creator-roster.md#hiring-on-khamsat)).
+- **Why:** they already film and edit; samples and reviews are public; most prices start around $25, about EGP 1,460 with the fee, inside the planned EGP 1,000–2,000; and Khamsat holds the payment and guarantees orders for 14 days. Their samples replace the free audition ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)).
+
 ## What exists now
 
 | What | Where |
@@ -92,10 +101,12 @@ The record of the first working session on T Studio: what you asked for, what we
 | 13:39 | Name the studio T Studio and keep the personal TikTok out |
 | 17:24 | Switch to creators who film and edit; add studio basics guide |
 | 17:39 | Document the session; add CLAUDE.md for future sessions |
+| 17:44 | Add exact times to the session log; correct search counts and dates |
+| 18:26 | Add WhatsApp Business text to paste: description, catalogue, greeting, away |
 
 ## Research and its limits
 
-- **Done:** 90 web searches on Sun Nov 15 (2 more were refused: the search tool can't search Reddit), 1 on Mon Nov 16 that hit the usage limit, and 4 on Tue Nov 17 (the studio name, how UGC creators deliver edited videos, freelance editor prices). Sources are linked in [03](03-market-evidence.md) and next to every lead.
+- **Done:** 90 web searches on Sun Nov 15 (2 more were refused: the search tool can't search Reddit), 1 on Mon Nov 16 that hit the usage limit, and 9 on Tue Nov 17 (the studio name, how UGC creators deliver edited videos, freelance editor prices, and where to find creators without contacts). Sources are linked in [03](03-market-evidence.md) and next to every lead.
 - **Main findings:** beginner UGC sells for $75–300 a video worldwide; Egyptian nano creators charge EGP 500–1,500; Mostaql budgets are mostly $25–100; Mostaql and Fiverr hold earnings about 14 days; InstaPay is instant.
 - **Not checked:** social feeds, profiles and the Meta Ads Library (blocked); whether each project is still open; brand handles not named in a source (left blank); live links (format checked only).
 - **Estimates, labelled where used:** reply and closing rates, creator pay, hours per package, posting dates.
@@ -125,6 +136,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | The first push to GitHub was refused (Tue 11:28) | Checked the access setup; the repo was already connected and the push at 11:33 worked |
 | Your personal TikTok was in the pitches | Removed (decision 3) |
 | Messages promised filming, hooks and editing you can't do yet | Creators film and edit; every message rewritten (decision 4) |
+| Today's plan assumed you knew people to recruit | Creators come from Khamsat first (decision 7) |
 | A README link broke when a heading was renamed | Fixed; every link is checked after each change |
 | The Egypt-only sales figure said EGP 100,000 | Corrected to about EGP 96,000 |
 | Lead 10 appeared twice in Launch HQ's applications | Fixed |
@@ -141,6 +153,6 @@ The record of the first working session on T Studio: what you asked for, what we
 ## Open items
 
 - **Today:** the three actions in the [README](../README.md#todays-three-actions), plus 30 minutes with [10](10-studio-basics.md).
-- **I need from you:** the T Studio handles you secure, the bank or wallet that receives InstaPay, approval of each batch, and replies from creators and leads as they come in.
+- **I need from you:** the T Studio handles you secure, the bank or wallet that receives InstaPay, whether your card or PayPal can pay on Khamsat, the creators' replies, approval of each batch, and replies from creators and leads as they come in.
 - **When replies arrive, I will:** adjust messages and quotes, write the script and brief for each order, and update the CRM only with what really happened.
 - **Before applying to any project:** open its page and confirm it's still open.

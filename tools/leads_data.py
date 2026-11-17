@@ -1167,5 +1167,6 @@ HUNTING_LINKS = [
     ("Wuzzuf: UGC jobs", "https://wuzzuf.net/search/jobs/?q=UGC", "Brands hiring content roles = content budget."),
     ("viral.app: UGC jobs", "https://viral.app/creators/ugc-jobs", "Check country and language requirements."),
     ("Twine: UGC creator jobs", "https://www.twine.net/jobs/ugc-creators", "Remote UGC briefs."),
+    ("Khamsat: UGC videos (creators to hire)", "https://khamsat.com/video-design/ugc-videos", "Creators who film and edit. Message before buying; order and pay only on Khamsat."),
     ("Collabstr: Cairo UGC creators (recruiting)", "https://collabstr.com/top-influencers/user-generated-content/in/egypt/cairo", "Creators for your roster."),
 ]

@@ -67,7 +67,7 @@ Prices are in **EGP for Egyptian clients** and **USD for Gulf and international 
 
 ## What creators cost you (internal, never show clients)
 
-Creators who film **and** edit are paid per finished video: EGP 1,000–2,000 for newer creators. I use **EGP 1,200** as the planning figure, close to the Egyptian nano-creator range of EGP 500–1,500 per video ([03](03-market-evidence.md#1-prices)). Extra hook lines cost EGP 150 each.
+Creators who film **and** edit are paid per finished video: EGP 1,000–2,000 for newer creators. I use **EGP 1,200** as the planning figure, close to the Egyptian nano-creator range of EGP 500–1,500 per video ([03](03-market-evidence.md#1-prices)). Extra hook lines cost EGP 150 each. Creators bought on Khamsat cost about $25–35 per finished video plus a buyer fee, about EGP 1,460–2,000, inside the same range ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)); use $40–50 creators only for dollar clients.
 
 | | Creator pay (EGP) | Price (EGP) | You keep (EGP) |
 |---|---|---|---|
@@ -77,7 +77,7 @@ Creators who film **and** edit are paid per finished video: EGP 1,000–2,000 fo
 
 On USD packages the creator share is only about 20–30%, which is why dollar clients matter so much.
 
-Creators are paid per finished video **out of the client's payment**, within 48 hours of client approval. You never pay a creator before the client has paid you. Details in [09-creator-roster.md](09-creator-roster.md).
+Creators are paid per finished video **out of the client's payment**, within 48 hours of client approval (Khamsat creators through Khamsat, when you order after the client has paid). You never pay a creator before the client has paid you. Details in [09-creator-roster.md](09-creator-roster.md).
 
 ## Revenue math
 

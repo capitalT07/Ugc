@@ -18,7 +18,13 @@ Look for people who **already film and edit their own short videos** (CapCut is 
 
 **Adults only (18+).** Check an ID before the first paid job.
 
-**Where to find them:** friends, classmates and gym contacts who post their own videos; small creators you already follow; Instagram and TikTok searches such as `#ugccreator`, `#ugcegypt`, `#صانعة_محتوى`, `#صانع_محتوى`; the Collabstr Cairo list (link in Hunting Links). Contact strangers only through public business contacts or platform messages.
+**Where to find them (you don't need to know anyone):**
+1. **Khamsat's [UGC videos category](https://khamsat.com/video-design/ugc-videos):** creators, many of them Egyptian, who already film and edit UGC and sell it with samples, prices and reviews. Start here: [Hiring on Khamsat](#hiring-on-khamsat).
+2. **Instagram and TikTok:** searches such as `#ugccreator`, `#ugcegypt`, `#صانعة_محتوى`, `#صانع_محتوى`; message them from T Studio's account.
+3. **Collabstr's Egypt and Cairo UGC lists** (link in Hunting Links), mainly for dollar clients.
+4. People you know who post their own videos, if there are any.
+
+Contact strangers only through public business contacts or platform messages.
 
 ## Recruiting messages
 
@@ -37,9 +43,39 @@ Look for people who **already film and edit their own short videos** (CapCut is 
 > We're building a small group of creators for Egyptian brand ads: we write the script and hooks, you film and edit at home on your phone. EGP 1,000–2,000 per finished video, paid within 48 hours of client approval.
 > Interested? I can send a short audition brief.
 
+## Hiring on Khamsat
+
+Searches on Nov 17 found Khamsat's UGC sellers mostly starting around $25 a video ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)).
+
+**Shortlist 8–10 who:**
+- speak Egyptian Arabic in their samples;
+- appear on camera themselves (skip listings made with AI);
+- deliver edited videos: hook text, captions, clean cuts, music;
+- charge up to $35 a video (up to $50 only for dollar clients). "Starting at" prices are for a basic video, so check the extras for length, extra hooks and raw clips;
+- have some reviews and reply quickly.
+
+Keep their usernames, links, prices and delivery times in the Creators tab of your private Google Sheet, not in this repo.
+
+**Message the best 5 through Khamsat (AR)**
+> أهلاً 👋 أنا [NAME] من T Studio، ستوديو إعلانات UGC في القاهرة. شفت نماذج شغلك هنا وعجبتني.
+> بنجهّز فريق صغير لإعلانات براندات مصرية: إحنا بنكتب السكريبت والهوكات، وصانع المحتوى بيصوّر ويعمل المونتاج.
+> قبل ما أطلب، محتاج أعرف:
+> ١. الفيديو بيكون باللهجة المصرية؟
+> ٢. سعر فيديو ٣٠–٤٥ ثانية متصوّر ومتعمله مونتاج (كابشن ومزيكا) كام؟ وكام لو عايز نسختين زيادة بهوك مختلف؟
+> ٣. التسليم بياخد كام يوم بعد ما المنتج يوصل؟ وينفع الكليبات الخام تتبعت كمان؟
+> ٤. في مانع إن الفيديو يتعرض كإعلان ممول على صفحات البراند، مع ورقة موافقة استخدام قصيرة؟
+> الطلب والدفع هيكونوا من خلال خمسات. شكراً!
+
+**Khamsat's rules, and ours**
+1. Messages, orders and payment stay on Khamsat. Offering to pay outside the site, or pushing a seller to move to WhatsApp, breaks its rules and loses its protection.
+2. Order only after the client has paid you. You pay by card or PayPal; a buyer fee shows at checkout.
+3. Their samples are the audition: never ask for a free video. The first paid order is the test.
+4. Send the [production brief](#production-brief-send-for-every-job) and the [release](#creator-release-and-work-agreement) in the order chat, and ask them to agree to the release there before filming.
+5. Khamsat guarantees an order for 14 days after delivery: check the video against the QA checklist in [07](07-delivery-workflow.md) before you accept it.
+
 ## Audition
 
-Ask for two things:
+**Creators from Khamsat:** skip this; their samples and answers are the audition. For creators found elsewhere, ask for two things:
 1. **Two videos they already filmed and edited** (any topic), plus whether you may show them in T Studio's portfolio, labelled as their earlier work.
 2. **A 20–30 second self-tape** of the script below, **edited the way they'd edit an ad**: hook text in the first second and captions.
 
@@ -72,6 +108,7 @@ You don't need editing skills to score this; [10-studio-basics.md](10-studio-bas
 |---|---|
 | Finished video (filmed + edited), newer creator | 1,000–2,000 (plan with 1,200) |
 | Finished video, experienced creator | up to 3,000 |
+| Finished video bought on Khamsat | $25–35 plus the buyer fee ≈ 1,460–2,000; $40–50 (≈ 2,270–2,840) only for dollar clients |
 | Extra hook line, filmed and cut into its own version | 150 each |
 | Raw clips | included |
 | Reshoot or re-edit because of a creator mistake | free |
@@ -82,9 +119,11 @@ You don't need editing skills to score this; [10-studio-basics.md](10-studio-bas
 ## Payment rules
 
 1. Creators are paid **only from money the client has already paid you.** Never front cash.
-2. Pay within **48 hours of client approval**, by InstaPay or bank transfer, with a receipt screenshot.
+2. Creators you hire directly: pay within **48 hours of client approval**, by InstaPay or bank transfer, with a receipt screenshot. Khamsat creators: pay through Khamsat when you place the order, after the client has paid you.
 3. Record every amount in the Creators sheet (Owed / Paid / Balance).
-4. If the client cancels after filming, the creator still gets 50% from the client's deposit.
+4. If the client cancels after filming, the creator still gets 50% from the client's deposit (on Khamsat, its cancellation rules apply).
+
+Khamsat amounts assume EGP 54 per $ and a buyer fee of 5%, minimum $2, which a competitor reports; Khamsat shows the real fee at checkout.
 
 ## Concept-ad swap (free portfolio pieces)
 

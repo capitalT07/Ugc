@@ -7,7 +7,7 @@ Guidance for Claude sessions in this repository. Before doing anything, read `RE
 T Studio is an Arabic-first UGC ad studio in Cairo, launched on Nov 17, 2026. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, 2026, counted only when the money reaches the owner's account.
 
 - **The owner** sells, casts creators, briefs them, checks every video, and handles clients and money. They are not on camera, and their personal TikTok is not used for the business.
-- **Creators** film and edit each video. They are paid EGP 1,000–2,000 per finished video out of the client's payment.
+- **Creators** film and edit each video. The owner knows no creators personally, so most are hired on Khamsat's UGC videos category (messages, orders and payment only through Khamsat, about $25–35 a video); others come from Instagram, TikTok or Collabstr. They are paid per finished video (EGP 1,000–2,000) out of the client's payment, never before the client pays, and never asked for free videos.
 - **Claude** writes the scripts and hooks, drafts messages and keeps the docs and CRM current.
 
 Never write, in any language, that the owner films or edits. Editing-only work is not offered.

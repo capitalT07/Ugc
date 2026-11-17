@@ -1,6 +1,6 @@
 # Market evidence
 
-Research: 90 live web searches on Nov 15, 2026, and 4 more on Nov 17 (section 8 and a check of the studio name). Most price figures come from vendor, agency or marketplace blogs, which have a stake in the numbers, so treat them as ranges, not facts. Every lead's own source is in `crm/leads.csv`.
+Research: 90 live web searches on Nov 15, 2026, and 9 more on Nov 17 (sections 8 and 9, and a check of the studio name). Most price figures come from vendor, agency or marketplace blogs, which have a stake in the numbers, so treat them as ranges, not facts. Every lead's own source is in `crm/leads.csv`.
 
 ## 1. Prices
 
@@ -66,3 +66,12 @@ Full table with fees, holds and verification status: [06-payments-and-agreement.
 
 - **Creators editing their own videos is normal in UGC.** Platforms advise asking creators for both the fully edited video and the raw footage in the brief, and many creators include raw clips at no extra charge ([Insense help](https://help.insense.pro/article/4294)). A 2026 tutorial recommends putting "raw vs edited" and filming specs in every brief ([Motion, Apr 2026](https://motionapp.com/library/talk/the-complete-guide-to-making-ugc-ads-every-step-from-creative-brief-to-final-ad/)).
 - **Freelance editors, if you add one later:** Khamsat listings for Reels/TikTok editing start around $5 for a video up to 20 seconds and reach about $25 for 60 seconds; some offer 3 videos for $10. Quality varies, and one buyer complained of poor quality and no reply ([example listing](https://khamsat.com/video-design/short-videos/2931412-%D8%AE%D8%AF%D9%85%D8%A9-%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%84%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%B1%D9%8A%D9%84%D8%B2-%D8%AA%D9%8A%D9%83%D8%AA%D9%88%D9%83-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%88%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8)).
+
+## 9. Finding creators without contacts (checked Nov 17)
+
+From search results only: I couldn't open these pages, so check each listing yourself.
+
+- **Khamsat has a UGC videos category** ([category](https://khamsat.com/video-design/ugc-videos)) with sellers, many of them Egyptian, who film themselves and deliver edited vertical videos ([example](https://khamsat.com/video-design/ugc-videos/4361954-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-ugc-%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A-%D9%84%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%84%D9%85%D9%86%D8%AA%D8%AC%D9%83-%D8%A3%D9%88-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%83), [example](https://khamsat.com/video-design/ugc-videos/4455683-%D8%B3%D8%A3%D8%B5%D9%88%D8%B1-%D9%84%D9%83-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-ugc-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A-%D9%88%D8%AC%D8%B0%D8%A7%D8%A8-%D9%84%D9%85%D9%86%D8%AA%D8%AC%D9%83-%D8%A3%D9%88-%D8%AE%D8%AF%D9%85%D8%AA%D9%83)). Most start around $25 a video, some at $35, and on-camera listings by women at $40–50; $10–15 listings are raw clips without editing. These are "starting at" prices. Some listings are made with AI, and some have few or no reviews.
+- **Khamsat's rules:** buyers can message sellers before buying; payment goes only through the site, by card or PayPal; offering payment outside the site, or insisting on outside contact, breaks the rules; Khamsat guarantees an order for 14 days after delivery when it was agreed on the site; sellers pay the commission ($1 of every $5), and buyers pay a processing fee shown at checkout ([FAQ](https://khamsat.com/faq), [terms](https://khamsat.com/terms), [how it works](https://khamsat.com/how)). A competitor puts the buyer fee at 5%, minimum $2 ([jobbers.io](https://www.jobbers.io/?p=49217)); not confirmed.
+- **Collabstr** lists UGC creators in Egypt and Cairo ([Egypt list](https://collabstr.com/top-influencers/user-generated-content/in/egypt)). Its brand-side fee is reported as 5% ([Toolradar, Nov 2026](https://toolradar.com/tools/collabstr/pricing)) or 10% ([Elev8or, a competitor](https://www.elev8or.io/blog/collabstr-review)).
+- No Facebook groups for Egyptian UGC creators showed up in search, and Facebook is blocked for me.

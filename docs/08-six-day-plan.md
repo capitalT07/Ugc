@@ -31,8 +31,8 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
 **Objective:** start the creator roster, be able to take money, send the first approved messages.
 
 **You:**
-1. **Recruit creators who film AND edit (30 min):** send the recruiting message in [09](09-creator-roster.md#recruiting-messages) to 10 people you know and 5 small creators. Ask each for 2 videos they already filmed and edited, plus the 20-second audition, by tomorrow.
-2. **Set up (40 min):** T Studio's Instagram and TikTok business accounts (`@tstudio.ugc`, or `@tstudio.eg` if taken) and a matching Gmail; WhatsApp Business with the 3 packages as catalogue items ([text to paste](01-business-decision.md#whatsapp-business-copy-and-paste)); confirm you can receive InstaPay; get your bank's USD account details; check your Mostaql and Upwork profiles are verified (a new Upwork profile can take time to be approved).
+1. **Find creators who film AND edit (30 min):** in [Khamsat's UGC videos category](https://khamsat.com/video-design/ugc-videos), shortlist 8–10 Egyptian creators with the [checklist](09-creator-roster.md#hiring-on-khamsat) and message the best 5 through Khamsat. Optionally, DM 3–5 creators found by hashtag from T Studio's Instagram ([message](09-creator-roster.md#recruiting-messages)). Their samples are the audition; nobody is asked for a free video.
+2. **Set up (40 min):** T Studio's Instagram and TikTok business accounts (`@tstudio.ugc`, or `@tstudio.eg` if taken) and a matching Gmail; WhatsApp Business with the 3 packages as catalogue items ([text to paste](01-business-decision.md#whatsapp-business-copy-and-paste)); confirm you can receive InstaPay; check your card or PayPal can pay in dollars on Khamsat; get your bank's USD account details; check your Mostaql and Upwork profiles are verified (a new Upwork profile can take time to be approved).
 3. **Send the first batch (1.5 h):** leads **1–12** in [crm/top30.md](../crm/top30.md) or the Launch HQ page. Fill `[OBSERVATION]`, approve, send:
    - Brand DMs: **1, 3, 4, 7, 8, 11, 12**
    - Partners: **2, 5, 6, 9**
@@ -41,16 +41,16 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
 5. **Read [10-studio-basics.md](10-studio-basics.md) (30 min)** so you can talk about hooks and check videos.
 6. Send me the handles you got and any replies.
 
-**Me:** adjust messages to the replies you share; score auditions with you tomorrow.
+**Me:** adjust messages to the replies you share; score creators' samples with you tomorrow.
 
-**Targets:** 20 messages · 5 applications · 15 creators contacted. **Revenue:** none expected yet.
+**Targets:** 20 messages · 5 applications · 10 creators contacted. **Revenue:** none expected yet.
 
 ## Day 2 · Wed Nov 18 · Cast creators, portfolio, full outreach
 
 **Objective:** 2–3 creators confirmed, two samples live, 35 touches.
 
 **You:**
-1. Score creators' existing videos and auditions with the [scorecard](09-creator-roster.md#scorecard-15-each-recruit-at-2840-or-above); confirm 2–3; get the creator release signed.
+1. Score creators' samples, answers and any auditions with the [scorecard](09-creator-roster.md#scorecard-15-each-recruit-at-2840-or-above); confirm 2–3; get the creator release agreed (in the Khamsat chat for Khamsat creators).
 2. Portfolio: with permission, put 2 creators' existing videos on the Canva page and T Studio's Instagram, labelled "By a creator on our roster, made before joining T Studio". Agree one [concept-ad swap](09-creator-roster.md#concept-ad-swap-free-portfolio-pieces) (#3 app demo or #2 unboxing).
 3. Send ranks **13–30** plus 10 leads found by hunting (Meta Ads Library: brands already running video ads).
 4. 24-hour follow-ups for Day 1 (follow-up #1 in [05](05-sales-system.md#follow-ups-and-objections): send a hook, not "just checking in").

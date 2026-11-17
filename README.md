@@ -12,8 +12,8 @@
 
 ## Today's three actions
 
-1. **Recruit creators who film and edit (30 min).** Send the message in [docs/09-creator-roster.md](docs/09-creator-roster.md#recruiting-messages) to 10 people you know and 5 small creators. Ask each for 2 videos they filmed and edited themselves, plus a 20-second audition, by tomorrow.
-2. **Set up T Studio (40 min).** Instagram and TikTok (`@tstudio.ugc`, or `@tstudio.eg` if taken), a matching Gmail, WhatsApp Business with the 3 packages ([text to paste](docs/01-business-decision.md#whatsapp-business-copy-and-paste)), and check you can receive InstaPay.
+1. **Find creators who film and edit (30 min).** You don't need to know anyone. In [Khamsat's UGC videos category](https://khamsat.com/video-design/ugc-videos), shortlist 8–10 Egyptian creators and message the best 5 through Khamsat ([checklist and message](docs/09-creator-roster.md#hiring-on-khamsat)). Their samples are the audition.
+2. **Set up T Studio (40 min).** Instagram and TikTok (`@tstudio.ugc`, or `@tstudio.eg` if taken), a matching Gmail, WhatsApp Business with the 3 packages ([text to paste](docs/01-business-decision.md#whatsapp-business-copy-and-paste)), check you can receive InstaPay, and check your card or PayPal can pay in dollars on Khamsat.
 3. **Send the first batch (1.5 h).** From [crm/top30.md](crm/top30.md), fill `[OBSERVATION]`, approve, send leads **1–12**: brand DMs **1, 3, 4, 7, 8, 11, 12**; partners **2, 5, 6, 9**; Mostaql **10**. Then set each to *Sent* in Pipeline.
 
 Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minutes) so you can talk about hooks and check videos.
