@@ -1,6 +1,6 @@
 # Session log: Nov 15–17, 2026
 
-The record of the first working session on T Studio: what you asked for, what we decided and why, what was built, what went wrong and what's next. Times are Cairo time (UTC+2). For today's to-do list, see the [README](../README.md).
+The record of the first working session on T Studio: what you asked for, what we decided and why, what was built, what went wrong and what's next. Times are Cairo time (UTC+2), taken from the chat record, git and Google Drive. For today's to-do list, see the [README](../README.md).
 
 ## Summary
 
@@ -14,18 +14,22 @@ The record of the first working session on T Studio: what you asked for, what we
 
 | When | What happened |
 |---|---|
-| Sun Nov 15 | You sent the master brief: compare four business models, research the market live, build a lead database, an offer, portfolio scripts, a sales system, trackers, payment options and a day-by-day plan, under strict rules on honesty, approval and money. Research began. |
-| Nov 15–16 | About 55 web searches: prices, platforms and payouts, open Mostaql and Upwork projects, companies hiring, Egyptian brands, agencies, AI UGC rules. My environment's network policy blocked TikTok, Instagram, Facebook, X, Reddit and Upwork, and the request to open them was rejected, so lead facts come from search-indexed pages. |
-| Mon Nov 16 | You asked whether your face would be in the videos, then about AI-generated presenters, then about other people filming. You chose a roster of creators, with you directing and editing. Later a search hit the weekly usage limit; work resumed when you said "Try again". |
-| Before Tue 11:28 | You approved the plan: UGC studio with a creator roster, editing as a second service, a private Launch HQ page and a private Google Sheet. |
-| Tue Nov 17, 11:28–11:41 | Three commits: lead database and CRM; offer, sales system and creator kit; portfolio scripts, payments, delivery workflow and the six-day plan. |
-| 11:43–11:47 | Google Sheet "UGC CRM" created from the workbook; Launch HQ published (version 1); committed. |
-| After 11:47 | You said your TikTok is about fitness and running and doesn't suit the business, and suggested the name T Studio. You chose "T Studio" with a UGC tag. |
-| 13:39 | Commit: the studio is named T Studio and your personal TikTok is out of all messages and plans. Launch HQ version 2. |
-| Afternoon | You pointed out that the messages promised filming, hooks and editing you don't know how to do. You chose: creators film and edit. You approved that plan. |
-| 17:14–17:23 | New sheet "T Studio CRM" uploaded and the old "UGC CRM" moved to Drive trash. A last check found five leftover editing lines; I fixed them, uploaded the sheet again and moved the outdated copy to trash. |
-| 17:24 | Commit: creators film and edit; studio basics guide added. Launch HQ version 3. |
-| Evening | You asked me to document the session: this log and `CLAUDE.md`. |
+| **Sun Nov 15**, 13:12 | You sent the master brief: compare four business models, research the market live, build a lead database, an offer, portfolio scripts, a sales system, trackers, payment options and a day-by-day plan, under strict rules on honesty, approval and money. |
+| 13:12–13:15 | My environment's network policy blocked TikTok, Instagram, Facebook, Reddit and Upwork, and my request to allow them (with X and LinkedIn) was rejected. Your TikTok profile couldn't be opened either, so it was never audited. From here on, lead facts come from search-indexed pages. |
+| 13:12–13:24 | 86 web searches: prices, platforms and payouts, open Mostaql and Upwork projects, companies hiring, Egyptian brands and agencies. 2 were refused because the search tool can't search Reddit. |
+| 13:28 | I proposed the first plan: a UGC and short-form editing service. |
+| 15:18–15:23 | You didn't approve it and asked whether your face would be in the videos, then about AI-generated presenters. I ran 6 searches on AI ads (results, platform labels, the US FTC rule, tool prices) and asked how you wanted the videos made. |
+| **Mon Nov 16**, 06:48 | You asked about getting other people to film instead of you. The next search hit the weekly usage limit and work stopped. |
+| 22:23–22:26 | You wrote again and work resumed. You chose a roster of creators, with you directing and editing, and I proposed the second plan: a UGC studio with a creator roster, editing as a second service, a private Launch HQ page and a private Google Sheet. |
+| **Tue Nov 17**, 11:04–11:12 | You approved the plan. My first reply failed because the account was out of usage credits for that model; you said "Try again", switched models and said it again, and work resumed at 11:12. |
+| 11:28–11:41 | Three commits: lead database and CRM; offer, sales system and creator kit; portfolio scripts, payments, delivery workflow and the six-day plan. The first push was refused; the repo was already connected, and the push at 11:33 worked. |
+| 11:43–11:47 | Google Sheet "UGC CRM" created from the workbook (11:43); Launch HQ published, version 1 (11:46); committed (11:47). |
+| 13:30–13:36 | You said your TikTok is about fitness and running and doesn't suit the business, and suggested the name T Studio. Two searches found no Cairo business or UGC agency using it. You chose "T Studio" with a UGC tag and approved the change. |
+| 13:39 | Launch HQ version 2. Commit: the studio is named T Studio and your personal TikTok is out of all messages and plans. |
+| 16:51–16:59 | You pointed out that the messages promised filming, hooks and editing you don't know how to do. Two searches checked how UGC creators deliver edited videos and what freelance editors charge. You chose: creators film and edit, and approved that plan. |
+| 17:14–17:23 | New sheet "T Studio CRM" created (17:14) and the old "UGC CRM" moved to Drive trash (17:16). A last check found five leftover editing lines; I fixed them, created the sheet again (17:23) and moved the outdated copy to trash. |
+| 17:23–17:24 | Launch HQ version 3. Commit: creators film and edit; studio basics guide added. |
+| 17:31–17:39 | You asked me to document the session and chose a file in the project plus a guide for future sessions. Commit at 17:39: this log and `CLAUDE.md`. |
 
 ## Decisions and why
 
@@ -39,7 +43,7 @@ The record of the first working session on T Studio: what you asked for, what we
 
 - **You asked:** whether your face would be in the videos; then about AI presenters; then about other people filming.
 - **Chosen:** real creators film. AI is only a tool, and an AI presenter is used only if a client asks, labelled as AI.
-- **Why:** research found human-made ads did better in the short term (Ipsos, May 2026); TikTok and Meta require labels on realistic AI people; the US FTC bans testimonials from people who don't exist ([03](03-market-evidence.md#5-ai-ugc-checked-nov-16)).
+- **Why:** research found human-made ads did better in the short term (Ipsos, May 2026); TikTok and Meta require labels on realistic AI people; the US FTC bans testimonials from people who don't exist ([03](03-market-evidence.md#5-ai-ugc-checked-nov-15)).
 
 ### 3. Your TikTok stays personal; the studio is T Studio
 
@@ -87,10 +91,11 @@ The record of the first working session on T Studio: what you asked for, what we
 | 11:47 | Add Launch HQ page and link the CRM sheet |
 | 13:39 | Name the studio T Studio and keep the personal TikTok out |
 | 17:24 | Switch to creators who film and edit; add studio basics guide |
+| 17:39 | Document the session; add CLAUDE.md for future sessions |
 
 ## Research and its limits
 
-- **Done:** about 55 web searches on Nov 15–16, plus checks on Nov 17 (the studio name, how UGC creators deliver edited videos, freelance editor prices). Sources are linked in [03](03-market-evidence.md) and next to every lead.
+- **Done:** 90 web searches on Sun Nov 15 (2 more were refused: the search tool can't search Reddit), 1 on Mon Nov 16 that hit the usage limit, and 4 on Tue Nov 17 (the studio name, how UGC creators deliver edited videos, freelance editor prices). Sources are linked in [03](03-market-evidence.md) and next to every lead.
 - **Main findings:** beginner UGC sells for $75–300 a video worldwide; Egyptian nano creators charge EGP 500–1,500; Mostaql budgets are mostly $25–100; Mostaql and Fiverr hold earnings about 14 days; InstaPay is instant.
 - **Not checked:** social feeds, profiles and the Meta Ads Library (blocked); whether each project is still open; brand handles not named in a source (left blank); live links (format checked only).
 - **Estimates, labelled where used:** reply and closing rates, creator pay, hours per package, posting dates.
@@ -113,9 +118,11 @@ The record of the first working session on T Studio: what you asked for, what we
 
 | Problem | Fix |
 |---|---|
-| Social platforms blocked by my environment; the request to open them was rejected | Facts from search-indexed pages; an `[OBSERVATION]` slot in 36 messages for you; hunting links in the CRM for you to use |
-| The first push to GitHub was refused | Checked the access setup; the repo was already connected and later pushes worked |
-| A search hit the weekly usage limit | Work resumed after you said "Try again" |
+| Social platforms blocked by my environment; the request to open them was rejected; Reddit closed to the search tool | Facts from search-indexed pages; an `[OBSERVATION]` slot in 36 messages for you; hunting links in the CRM (Reddit included) for you to use |
+| Your TikTok profile couldn't be opened, so it was never audited | Not needed once you kept it out of the business (decision 3) |
+| Mon 06:48: a search hit the weekly usage limit and work stopped | Work resumed when you wrote again at 22:23 |
+| Tue 11:04: my first reply after your approval failed (out of usage credits for that model) | You switched models and said "Try again"; work resumed at 11:12 |
+| The first push to GitHub was refused (Tue 11:28) | Checked the access setup; the repo was already connected and the push at 11:33 worked |
 | Your personal TikTok was in the pitches | Removed (decision 3) |
 | Messages promised filming, hooks and editing you can't do yet | Creators film and edit; every message rewritten (decision 4) |
 | A README link broke when a heading was renamed | Fixed; every link is checked after each change |

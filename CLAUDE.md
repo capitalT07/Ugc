@@ -39,5 +39,5 @@ Never edit `crm/` or `hq/` by hand; rebuilding overwrites them. The only placeho
 
 ## Environment and git
 
-- This cloud environment's network policy blocks TikTok, Instagram, Facebook, X, Reddit and Upwork pages, and a request to allow them was rejected. Use web search, and ask the owner for anything only they can see (feeds, DMs, replies).
-- Work on `claude/1k-2k-business-7-days-w9vmgs`, which is the repo's default branch. Commit and push there. No pull request unless the owner asks.
+- This cloud environment's network policy blocks TikTok, Instagram, Facebook, X, Reddit and Upwork pages, and a request to allow them was rejected. Use web search (it refuses searches limited to reddit.com), and ask the owner for anything only they can see (feeds, DMs, replies).
+- Work on `claude/1k-2k-business-7-days-w9vmgs`, which is the repo's default branch. Commit and push there after each finished step, since a session can stop on a usage limit. No pull request unless the owner asks.

@@ -1,6 +1,6 @@
 # Market evidence
 
-Research ran Nov 15–16, 2026: about 55 live web searches. Most price figures come from vendor, agency or marketplace blogs, which have a stake in the numbers, so treat them as ranges, not facts. Every lead's own source is in `crm/leads.csv`.
+Research: 90 live web searches on Nov 15, 2026, and 4 more on Nov 17 (section 8 and a check of the studio name). Most price figures come from vendor, agency or marketplace blogs, which have a stake in the numbers, so treat them as ranges, not facts. Every lead's own source is in `crm/leads.csv`.
 
 ## 1. Prices
 
@@ -37,7 +37,7 @@ Full table with fees, holds and verification status: [06-payments-and-agreement.
 - **TikTok One** (creator marketplace): TikTok's sign-up page lists conditions (launched in your region, 18+, guidelines) but no country list. One third-party source lists Egypt; unconfirmed. Projects need about 1,000 followers ([TikTok help](https://ads.tiktok.com/help/article/how-creators-can-sign-up-for-tiktok-one)).
 - **Creator Rewards** is not open in Egypt in 2026 ([source](https://monetizednow.com/tiktok-creator-rewards-egypt)).
 
-## 5. AI UGC (checked Nov 16)
+## 5. AI UGC (checked Nov 15)
 
 - **Performance:** Ipsos (May 2026, 3,000 US consumers) found human-made ads 14% stronger short term; a Taboola field study (Jan 2026) found AI ads level on click-through; human UGC tends to win for physical-product demos and testimonials ([AdTestBench](https://adtestbench.com/guides/ai-ugc-vs-human-ugc/), [Billo](https://billo.app/blog/ai-generated-ads-performance/)).
 - **Labels:** TikTok and Meta require disclosure of realistic AI people in ads in 2026 and reject undisclosed ones (vendor summaries: [Hootsuite](https://blog.hootsuite.com/ai-disclosure-policy-for-tiktok/), [Billo](https://billo.app/blog/ai-labeling/)).
