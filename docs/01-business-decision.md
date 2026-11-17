@@ -57,6 +57,32 @@ Creators who film and edit keep the videos real, keep your face out, let you cas
 
 Before you settle it, check the handles are free on Instagram, TikTok and Gmail (those sites are blocked for me), and search Instagram for "T Studio Cairo" in case a local studio already uses the name. Two web searches on Nov 17 found no Cairo business or UGC agency called "T Studio".
 
+### WhatsApp Business (copy and paste)
+
+Set these up in WhatsApp Business under Business tools. Catalogue prices are for Egyptian clients; quote dollar clients by email from [02](02-offer-and-pricing.md#packages).
+
+**Business description**
+> T Studio · إعلانات UGC بالعربي من القاهرة. بنكتب السكريبت والهوكات، وبنختار صانع محتوى يصوّر ويعمل المونتاج، وبنراجع كل فيديو قبل ما يوصلك. فيديوهات قصيرة لإعلانات تيك توك وإنستجرام وفيسبوك.
+
+**Catalogue: 3 items**
+
+1. **Starter · فيديو واحد** · EGP 3,500
+   > فيديو UGC واحد، ١٥–٤٥ ثانية: سكريبت وهوك مننا، وصانع محتوى بيصوّر ويعمل المونتاج، مع كابشن ومزيكا وتعديل مرة واحدة. التسليم ٣–٤ أيام بعد ما المنتج يوصل. الاستخدام على حساباتكم من غير مدة، وللإعلانات الممولة +٣٠٪ لمدة ٣٠ يوم. الدفع كامل مقدماً.
+2. **Creative Test · ٣ فيديوهات** · EGP 9,000
+   > ٣ فيديوهات UGC بـ٣ أفكار مختلفة، ١٥–٤٥ ثانية لكل فيديو: سكريبت وهوك لكل فيديو، وصانع محتوى بيصوّر ويعمل المونتاج، مع كابشن ومزيكا وتعديل مرة لكل فيديو. الإعلانات الممولة ٣٠ يوم مشمولة. التسليم ٥ أيام بعد ما المنتج يوصل. أول طلب: هوكين زيادة هدية. الدفع كامل مقدماً.
+3. **Content Sprint · ٥ فيديوهات + ٥ هوكات** · EGP 14,000
+   > ٥ فيديوهات UGC و٥ هوكات بديلة (١٠ نسخ إعلانية)، ١٥–٤٥ ثانية لكل فيديو: سكريبتات وهوكات مننا، وصانع محتوى بيصوّر ويعمل المونتاج، مع كابشن ومزيكا وتعديل مرة لكل فيديو. الإعلانات الممولة ٣٠ يوم مشمولة. التسليم ٧ أيام بعد ما المنتج يوصل. الدفع ٥٠٪ مقدم و٥٠٪ قبل الملفات النهائية.
+
+**Greeting message** (sent automatically to new chats)
+> أهلاً بيك في T Studio 👋 إحنا ستوديو إعلانات UGC بالعربي في القاهرة. ابعتلنا اسم البراند ولينك المنتج، وقولنا الإعلان هيتعرض فين، ونرد عليك بفكرة وسعر. الباقات في الكتالوج.
+>
+> Hi, welcome to T Studio! Send your brand name, a product link and where the ad will run, and we'll reply with an idea and a price.
+
+**Away message** (outside the hours you set)
+> شكراً لرسالتك 🙏 هنرد عليك أول ما نرجع. ابعت اسم البراند ولينك المنتج عشان نجهّزلك فكرة.
+>
+> Thanks for your message! We'll reply as soon as we're back.
+
 ## Your personal TikTok
 
 Your account is about fitness and running, so it stays personal: it isn't used as a portfolio, and the plan doesn't depend on TikTok One. The background still helps: messages to fitness brands (activewear, gym apps, protein snacks) say you train and run yourself, without linking the account. The portfolio lives on T Studio's own Instagram and TikTok and on the Canva page.

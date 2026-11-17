@@ -32,7 +32,7 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
 
 **You:**
 1. **Recruit creators who film AND edit (30 min):** send the recruiting message in [09](09-creator-roster.md#recruiting-messages) to 10 people you know and 5 small creators. Ask each for 2 videos they already filmed and edited, plus the 20-second audition, by tomorrow.
-2. **Set up (40 min):** T Studio's Instagram and TikTok business accounts (`@tstudio.ugc`, or `@tstudio.eg` if taken) and a matching Gmail; WhatsApp Business with the 3 packages as catalogue items; confirm you can receive InstaPay; get your bank's USD account details; check your Mostaql and Upwork profiles are verified (a new Upwork profile can take time to be approved).
+2. **Set up (40 min):** T Studio's Instagram and TikTok business accounts (`@tstudio.ugc`, or `@tstudio.eg` if taken) and a matching Gmail; WhatsApp Business with the 3 packages as catalogue items ([text to paste](01-business-decision.md#whatsapp-business-copy-and-paste)); confirm you can receive InstaPay; get your bank's USD account details; check your Mostaql and Upwork profiles are verified (a new Upwork profile can take time to be approved).
 3. **Send the first batch (1.5 h):** leads **1–12** in [crm/top30.md](../crm/top30.md) or the Launch HQ page. Fill `[OBSERVATION]`, approve, send:
    - Brand DMs: **1, 3, 4, 7, 8, 11, 12**
    - Partners: **2, 5, 6, 9**
