@@ -7,8 +7,8 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Goal:** collect $1,000 (stretch $2,000) by Sunday Nov 22, 2026 from an online service business. Money counts only when it reaches your account.
 - **Business:** T Studio, an Arabic-first UGC ad studio in Cairo. You sell, cast creators, brief them and check every video; creators film and edit; I write the scripts and hooks.
 - **Built:** 94 researched prospects and 6 creator platforms, 71 drafted messages, a ranked top 30, three packages, ten guides, a CRM (repo files and a Google Sheet) and the Launch HQ page.
-- **Status on Tue Nov 17, evening:** nothing sent, no replies, no deals, $0 collected.
-- **Next:** find creators on Khamsat, set up T Studio's accounts, and send leads 1–12 once you approve them ([README](../README.md#todays-three-actions)).
+- **Status on Tue Nov 17, 20:05 (paused):** T Studio's TikTok `@tstudio_ugc` and Instagram `@tstudioo.ugc` are created. Nothing sent, no replies, no deals, $0 collected.
+- **Next, when you're back:** finish both profiles (display name, bio, logo, business account), message 5 creators on Khamsat, set up the Gmail and WhatsApp Business, check InstaPay and paying on Khamsat, and send leads 1–12 once you approve them ([README](../README.md#todays-three-actions)).
 
 ## Timeline
 
@@ -35,9 +35,10 @@ The record of the first working session on T Studio: what you asked for, what we
 | 18:37 | You said you don't know anyone to send the recruiting message to. Five searches found creators, many of them Egyptian, selling edited UGC videos on Khamsat, most from about $25 a video. Decision 7: hire creators there first. |
 | 18:44 | Launch HQ version 4. Commit: creators come from Khamsat; README, plan, creator guide, costs, evidence and CRM Hunting Links updated. |
 | 18:45 | You asked me to document this; this update to the log. |
-| 19:16–19:25 | You named Capital T the group for all T businesses (T for Tahan). Decision 8: a "Capital T" folder with "T Studio" inside, in Google Drive (the CRM sheet moved in, same link) and in the repo (`Capital T/T Studio/`), plus text for a Claude project named Capital T. |
-| 19:30–19:55 | You asked me to add two skill packs and use them. Decision 9: 17 Higgsfield skills and last30days added to `.claude/skills/`, without the two that make AI people look like real customers. last30days found nothing from here (sources blocked). I wrote AI product-clip prompts in [11](11-ai-video-prompts.md). |
-| 19:57 | You created T Studio's accounts: TikTok `@tstudio_ugc` and Instagram `@tstudioo.ugc`. Docs, plan and Launch HQ updated. |
+| 19:16–19:18 | You named Capital T the group for all T businesses (T for Tahan). Decision 8: a "Capital T" folder with "T Studio" inside, in Google Drive (the CRM sheet moved in, same link) and in the repo (`Capital T/T Studio/`), plus text for a Claude project named Capital T. |
+| 19:30–19:53 | You asked me to add two skill packs and use them. Decision 9: 17 Higgsfield skills and last30days added to `.claude/skills/`, without the two that make AI people look like real customers. last30days found nothing from here (sources blocked). I wrote AI product-clip prompts in [11](11-ai-video-prompts.md). |
+| 19:57 | You created T Studio's accounts: TikTok `@tstudio_ugc` and Instagram `@tstudioo.ugc`. Docs, plan and Launch HQ (version 6) updated. I sent the profile setup: display name "T Studio · UGC ads", bio, logo, business account. |
+| 20:05 | You asked me to document the session and pause; we'll continue later. This update. |
 
 ## Decisions and why
 
@@ -103,7 +104,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | Ten guides | [01 decision](01-business-decision.md) · [02 offer](02-offer-and-pricing.md) · [03 evidence](03-market-evidence.md) · [04 scripts](04-portfolio-scripts.md) · [05 sales](05-sales-system.md) · [06 payments](06-payments-and-agreement.md) · [07 delivery](07-delivery-workflow.md) · [08 plan](08-six-day-plan.md) · [09 creators](09-creator-roster.md) · [10 basics](10-studio-basics.md) |
 | Leads and trackers | [crm/top30.md](../crm/top30.md), [crm/UGC-CRM.xlsx](../crm/UGC-CRM.xlsx) and the CSVs in `crm/` |
 | Your live tracker: Google Sheet "T Studio CRM" (Drive folder Capital T → T Studio) | https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit |
-| Launch HQ page (private, version 4) | https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW |
+| Launch HQ page (private, version 6) | https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW |
 | Source data and build scripts | `tools/leads_data.py`, `tools/build_crm.py`, `tools/build_hq.py` |
 | Guidance for future Claude sessions | [CLAUDE.md](../../../CLAUDE.md) |
 | In your Drive trash, never opened (Google deletes them about Dec 17) | "UGC CRM" (first sheet) and an outdated copy of "T Studio CRM" |
@@ -122,8 +123,10 @@ The record of the first working session on T Studio: what you asked for, what we
 | 17:44 | Add exact times to the session log; correct search counts and dates |
 | 18:26 | Add WhatsApp Business text to paste: description, catalogue, greeting, away |
 | 18:44 | Find creators on Khamsat instead of people the owner knows |
-| 19:25 | Move T Studio into Capital T/T Studio |
-| 19:55 | Add Higgsfield prompt skills and last30days research skill |
+| 18:45 | Log Launch HQ version 4 and the Khamsat commit in the session log |
+| 19:18 | Move T Studio into Capital T/T Studio |
+| 19:53 | Add Higgsfield prompt skills and last30days research skill |
+| 19:57 | Record T Studio's TikTok and Instagram handles |
 
 ## Research and its limits
 
