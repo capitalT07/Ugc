@@ -36,6 +36,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 18:44 | Launch HQ version 4. Commit: creators come from Khamsat; README, plan, creator guide, costs, evidence and CRM Hunting Links updated. |
 | 18:45 | You asked me to document this; this update to the log. |
 | 19:16–19:25 | You named Capital T the group for all T businesses (T for Tahan). Decision 8: a "Capital T" folder with "T Studio" inside, in Google Drive (the CRM sheet moved in, same link) and in the repo (`Capital T/T Studio/`), plus text for a Claude project named Capital T. |
+| 19:30–19:55 | You asked me to add two skill packs and use them. Decision 9: 17 Higgsfield skills and last30days added to `.claude/skills/`, without the two that make AI people look like real customers. last30days found nothing from here (sources blocked). I wrote AI product-clip prompts in [11](11-ai-video-prompts.md). |
 
 ## Decisions and why
 
@@ -86,6 +87,13 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Chosen:** the same layout everywhere: **Capital T → T Studio**. Drive: folders "Capital T" and "T Studio", with the "T Studio CRM" sheet moved in (same link, nothing copied). Repo: every T Studio file under `Capital T/T Studio/`; `CLAUDE.md` and a Capital T README stay at the top. Claude: I can't create Claude projects, so [claude-project-instructions.md](../../claude-project-instructions.md) holds the text for you to paste into a project named Capital T.
 - **Why:** later businesses get their own folder next to T Studio without mixing files.
 
+### 9. Skills added: Higgsfield prompts and last30days, without fake AI people
+
+- **You asked:** to read two public skill packs (higgsfield-claude-skills and last30days), put them in the project and use them.
+- **Chosen (your pick):** the 15 Higgsfield prompt skills and its 2 browser-automation skills, plus last30days, in `.claude/skills/`. Left out: `ugc-hot-girl` and `ugc-video-auto`, which make AI people designed to pass as real customers. That breaks decision 2 and is a fake-testimonial risk.
+- **Used:** last30days ran with no keys and no browser cookies and found 0 results, because Reddit, Hacker News and its keyless web search are blocked here, so nothing was added to [03](03-market-evidence.md). The Higgsfield skills produced 3 prompts for AI product clips (no people, made from a real product photo, labelled AI) in [11](11-ai-video-prompts.md).
+- **Why:** AI product shots can make a creator's video look richer at low cost, but Higgsfield's paid plans aren't worth buying before a client pays. The browser skills only work on your computer.
+
 ## What exists now
 
 | What | Where |
@@ -114,6 +122,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 18:26 | Add WhatsApp Business text to paste: description, catalogue, greeting, away |
 | 18:44 | Find creators on Khamsat instead of people the owner knows |
 | 19:25 | Move T Studio into Capital T/T Studio |
+| 19:55 | Add Higgsfield prompt skills and last30days research skill |
 
 ## Research and its limits
 

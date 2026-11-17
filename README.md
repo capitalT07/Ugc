@@ -11,4 +11,6 @@ Capital T is the group of T businesses ("T" stands for Tahan). Each business has
 - **This repo:** `Capital T/T Studio/`.
 - **Claude:** a project named *Capital T*. The text to paste into it is in [claude-project-instructions.md](Capital%20T/claude-project-instructions.md).
 
+Shared Claude skills (Higgsfield AI-video prompts, last30days research) are in `.claude/skills/`; see [the notes](.claude/skills/HIGGSFIELD-NOTES.md).
+
 [CLAUDE.md](CLAUDE.md) holds the rules and build steps that every new Claude session reads first.

@@ -43,6 +43,13 @@ Never edit `crm/` or `hq/` by hand; rebuilding overwrites them. The only placeho
 - **Google Sheet "T Studio CRM"** in the owner's Drive (folder Capital T → T Studio) is where live work is tracked: https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit. Rebuilding the repo doesn't update it. Never replace, overwrite or trash it without asking: the owner enters data there.
 - **Launch HQ** (private page, built from `hq/launch-hq.html`): https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW. To update it from a new conversation, read it first, then publish with its `url` so the link stays the same.
 
+## Skills in this repo (`.claude/skills/`)
+
+- **Higgsfield prompt skills** (`01-…` to `15-…`) write prompts for Higgsfield's Seedance 2.0 and Soul 2.0. `higgsfield-image-auto` and `seedance-auto-generate` drive higgsfield.ai through the Playwright MCP, only on the owner's computer, logged in by the owner. T Studio's prompts are in `docs/11-ai-video-prompts.md`.
+- **AI clip rules:** only product shots, b-roll and backgrounds, made from a real photo of the real product, and labelled `AI-generated`. Never an AI person shown as a customer or reviewer. `ugc-hot-girl` and `ugc-video-auto` were left out on purpose; don't add them back. The source has no licence, so keep the copy private.
+- **last30days** (MIT): a 30-day research engine. Run it with `--no-browser-cookies`, and never accept its browser-cookie or Reddit-session offers. Add API keys only if the owner chooses to, through the credential form. From the cloud environment it found nothing on Nov 17 (Reddit, Hacker News and its keyless web search were blocked); use web search instead.
+- Source, commits and details: `.claude/skills/HIGGSFIELD-NOTES.md`.
+
 ## Environment and git
 
 - This cloud environment's network policy blocks TikTok, Instagram, Facebook, X, Reddit and Upwork pages, and a request to allow them was rejected. Use web search (it refuses searches limited to reddit.com), and ask the owner for anything only they can see (feeds, DMs, replies).
