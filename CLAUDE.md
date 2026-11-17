@@ -1,8 +1,14 @@
 # CLAUDE.md
 
-Guidance for Claude sessions in this repository. Before doing anything, read `README.md` (status and today's actions), `docs/00-session-log.md` (what was decided and why) and `docs/08-six-day-plan.md` (the day-by-day plan).
+Guidance for Claude sessions in this repository.
 
-## The project
+## Capital T
+
+This repo is **Capital T**, the owner's group of businesses ("T" stands for Tahan). Each business has its own folder under `Capital T/`; the top-level `README.md` lists them. The same layout is used in Google Drive (folder "Capital T", one subfolder per business) and for the owner's Claude project "Capital T" (text in `Capital T/claude-project-instructions.md`). A new business gets its own folder next to T Studio.
+
+The first business is **T Studio**, in `Capital T/T Studio/`. Paths below are relative to that folder unless they start with `Capital T/`. Before doing anything, read its `README.md` (status and today's actions), `docs/00-session-log.md` (what was decided and why) and `docs/08-six-day-plan.md` (the day-by-day plan).
+
+## T Studio
 
 T Studio is an Arabic-first UGC ad studio in Cairo, launched on Nov 17, 2026. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, 2026, counted only when the money reaches the owner's account.
 
@@ -27,14 +33,14 @@ Never write, in any language, that the owner films or edits. Editing-only work i
 
 `tools/leads_data.py` is the single source for leads, messages, packages, pipeline stages, the daily plan and hunting links. After editing it, run:
 
-- `python3 tools/build_crm.py` → `crm/` (CSVs, `top30.md`, `UGC-CRM.xlsx`). It stops with an error if the top-30 ranks aren't exactly 1–30, a source is missing, a URL isn't https, a lead that can be contacted (or any top-30 lead) has no message, a message uses an unknown placeholder, or `why`, `opportunity`, `service`, `price` or `industry` is empty.
-- `python3 tools/build_hq.py` → `hq/launch-hq.html`.
+- `python3 "Capital T/T Studio/tools/build_crm.py"` → `crm/` (CSVs, `top30.md`, `UGC-CRM.xlsx`). It stops with an error if the top-30 ranks aren't exactly 1–30, a source is missing, a URL isn't https, a lead that can be contacted (or any top-30 lead) has no message, a message uses an unknown placeholder, or `why`, `opportunity`, `service`, `price` or `industry` is empty.
+- `python3 "Capital T/T Studio/tools/build_hq.py"` → `hq/launch-hq.html`.
 
 Never edit `crm/` or `hq/` by hand; rebuilding overwrites them. The only placeholders allowed in messages are `[OBSERVATION]`, `[PORTFOLIO]`, `[NAME]` and `[first name]`; the studio name is written out. Messages to Egyptian brands are in Egyptian Arabic; English and French are used where they fit.
 
 ## Live data and the published page
 
-- **Google Sheet "T Studio CRM"** in the owner's Drive is where live work is tracked: https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit. Rebuilding the repo doesn't update it. Never replace, overwrite or trash it without asking: the owner enters data there.
+- **Google Sheet "T Studio CRM"** in the owner's Drive (folder Capital T → T Studio) is where live work is tracked: https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit. Rebuilding the repo doesn't update it. Never replace, overwrite or trash it without asking: the owner enters data there.
 - **Launch HQ** (private page, built from `hq/launch-hq.html`): https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW. To update it from a new conversation, read it first, then publish with its `url` so the link stays the same.
 
 ## Environment and git

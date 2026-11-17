@@ -35,6 +35,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 18:37 | You said you don't know anyone to send the recruiting message to. Five searches found creators, many of them Egyptian, selling edited UGC videos on Khamsat, most from about $25 a video. Decision 7: hire creators there first. |
 | 18:44 | Launch HQ version 4. Commit: creators come from Khamsat; README, plan, creator guide, costs, evidence and CRM Hunting Links updated. |
 | 18:45 | You asked me to document this; this update to the log. |
+| 19:16–19:25 | You named Capital T the group for all T businesses (T for Tahan). Decision 8: a "Capital T" folder with "T Studio" inside, in Google Drive (the CRM sheet moved in, same link) and in the repo (`Capital T/T Studio/`), plus text for a Claude project named Capital T. |
 
 ## Decisions and why
 
@@ -79,6 +80,12 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Chosen:** hire creators who already sell edited UGC in Khamsat's UGC videos category. Shortlist with a checklist (Egyptian Arabic, a real person on camera, edited samples, up to $35 a video, some reviews), message the best 5 through Khamsat, and order and pay only there, after the client has paid you. Instagram and TikTok DMs and Collabstr are backups ([09](09-creator-roster.md#hiring-on-khamsat)).
 - **Why:** they already film and edit; samples and reviews are public; most prices start around $25, about EGP 1,460 with the fee, inside the planned EGP 1,000–2,000; and Khamsat holds the payment and guarantees orders for 14 days. Their samples replace the free audition ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)).
 
+### 8. Capital T is the group; T Studio is its first business
+
+- **You said:** create a folder named Capital T for the group of all T businesses (T stands for Tahan) and put this project in it, in Drive, the repo and Claude.
+- **Chosen:** the same layout everywhere: **Capital T → T Studio**. Drive: folders "Capital T" and "T Studio", with the "T Studio CRM" sheet moved in (same link, nothing copied). Repo: every T Studio file under `Capital T/T Studio/`; `CLAUDE.md` and a Capital T README stay at the top. Claude: I can't create Claude projects, so [claude-project-instructions.md](../../claude-project-instructions.md) holds the text for you to paste into a project named Capital T.
+- **Why:** later businesses get their own folder next to T Studio without mixing files.
+
 ## What exists now
 
 | What | Where |
@@ -86,10 +93,10 @@ The record of the first working session on T Studio: what you asked for, what we
 | Today's actions, status and the list of all files | [README](../README.md) |
 | Ten guides | [01 decision](01-business-decision.md) · [02 offer](02-offer-and-pricing.md) · [03 evidence](03-market-evidence.md) · [04 scripts](04-portfolio-scripts.md) · [05 sales](05-sales-system.md) · [06 payments](06-payments-and-agreement.md) · [07 delivery](07-delivery-workflow.md) · [08 plan](08-six-day-plan.md) · [09 creators](09-creator-roster.md) · [10 basics](10-studio-basics.md) |
 | Leads and trackers | [crm/top30.md](../crm/top30.md), [crm/UGC-CRM.xlsx](../crm/UGC-CRM.xlsx) and the CSVs in `crm/` |
-| Your live tracker: Google Sheet "T Studio CRM" | https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit |
+| Your live tracker: Google Sheet "T Studio CRM" (Drive folder Capital T → T Studio) | https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit |
 | Launch HQ page (private, version 4) | https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW |
 | Source data and build scripts | `tools/leads_data.py`, `tools/build_crm.py`, `tools/build_hq.py` |
-| Guidance for future Claude sessions | [CLAUDE.md](../CLAUDE.md) |
+| Guidance for future Claude sessions | [CLAUDE.md](../../../CLAUDE.md) |
 | In your Drive trash, never opened (Google deletes them about Dec 17) | "UGC CRM" (first sheet) and an outdated copy of "T Studio CRM" |
 
 **Commits** on `claude/1k-2k-business-7-days-w9vmgs`, the repo's default branch:
@@ -106,6 +113,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 17:44 | Add exact times to the session log; correct search counts and dates |
 | 18:26 | Add WhatsApp Business text to paste: description, catalogue, greeting, away |
 | 18:44 | Find creators on Khamsat instead of people the owner knows |
+| 19:25 | Move T Studio into Capital T/T Studio |
 
 ## Research and its limits
 

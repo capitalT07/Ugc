@@ -19,7 +19,8 @@ OUT = ROOT / "hq" / "launch-hq.html"
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit"
 REPO = "https://github.com/capitalT07/Ugc"
 BRANCH = "claude/1k-2k-business-7-days-w9vmgs"
-BLOB = f"{REPO}/blob/{BRANCH}"
+PROJECT_DIR = "Capital%20T/T%20Studio"
+BLOB = f"{REPO}/blob/{BRANCH}/{PROJECT_DIR}"
 
 TYPE_SHORT = {D.T_BRAND: "Brand", D.T_MOSTAQL: "Mostaql", D.T_UPWORK: "Upwork",
               D.T_AGENCY: "Agency", D.T_HIRING: "Company hiring", D.T_JOB: "Job"}
@@ -367,7 +368,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
 def main():
     data = json.dumps(payload(), ensure_ascii=False).replace("</", "<\\/")
     html = (TEMPLATE.replace("__DATA__", data).replace("__SHEET__", SHEET_URL)
-            .replace("__REPO__", f"{REPO}/tree/{BRANCH}").replace("__BLOB__", BLOB)
+            .replace("__REPO__", f"{REPO}/tree/{BRANCH}/{PROJECT_DIR}").replace("__BLOB__", BLOB)
             .replace("__PROSPECTS__", str(payload()["stats"]["prospects"]))
             .replace("__DRAFTED__", str(payload()["stats"]["drafted"])))
     OUT.parent.mkdir(exist_ok=True)
