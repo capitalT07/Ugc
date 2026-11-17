@@ -213,7 +213,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
           <li><strong>Find creators who film and edit</strong><span class="time">30 min</span>
             <p>You don’t need to know anyone. On Khamsat’s UGC videos category, shortlist 8–10 Egyptian creators and message the best 5 through Khamsat. Their samples are the audition. <a href="https://khamsat.com/video-design/ugc-videos" target="_blank" rel="noopener">Khamsat UGC videos</a> · <a href="__BLOB__/docs/09-creator-roster.md#hiring-on-khamsat" target="_blank" rel="noopener">Checklist and message</a></p></li>
           <li><strong>Set up T Studio</strong><span class="time">40 min</span>
-            <p>Instagram and TikTok (@tstudio.ugc, or @tstudio.eg if taken), a matching Gmail, WhatsApp Business with the 3 packages (<a href="__BLOB__/docs/01-business-decision.md#whatsapp-business-copy-and-paste" target="_blank" rel="noopener">text to paste</a>), check you can receive InstaPay, and check your card or PayPal can pay in dollars on Khamsat.</p></li>
+            <p>Instagram @tstudioo.ugc and TikTok @tstudio_ugc are created ✅; still to do: profile photo and bio on both, a matching Gmail, WhatsApp Business with the 3 packages (<a href="__BLOB__/docs/01-business-decision.md#whatsapp-business-copy-and-paste" target="_blank" rel="noopener">text to paste</a>), check you can receive InstaPay, and check your card or PayPal can pay in dollars on Khamsat.</p></li>
           <li><strong>Send the first batch</strong><span class="time">1.5 h</span>
             <p>Leads 1–12 below (tap “Today’s batch”). Fill in the highlighted parts, approve, send, then set each to <em>Sent</em> in the sheet’s Pipeline tab.</p></li>
         </ol>

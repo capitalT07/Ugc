@@ -49,7 +49,7 @@ Creators who film and edit keep the videos real, keep your face out, let you cas
 
 | Where | Use |
 |---|---|
-| Instagram and TikTok handle | `@tstudio.ugc`; if taken, `@tstudio.eg` or `@tstudio.cairo` |
+| Instagram and TikTok handle | Created Nov 17: Instagram `@tstudioo.ugc` (two o's), TikTok `@tstudio_ugc`. Display name on both: "T Studio · UGC ads", so people find the studio even with the different spellings |
 | Display name | T Studio · UGC ads |
 | Bio | EN: Arabic UGC ads · Cairo · WhatsApp [number]. AR: إعلانات UGC بالعربي · القاهرة · واتساب |
 | Email | A matching free Gmail, e.g. `tstudio.ugc@gmail.com` |

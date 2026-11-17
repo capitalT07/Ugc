@@ -15,7 +15,7 @@ Part of [Capital T](../../README.md), the group of T businesses.
 ## Today's three actions
 
 1. **Find creators who film and edit (30 min).** You don't need to know anyone. In [Khamsat's UGC videos category](https://khamsat.com/video-design/ugc-videos), shortlist 8–10 Egyptian creators and message the best 5 through Khamsat ([checklist and message](docs/09-creator-roster.md#hiring-on-khamsat)). Their samples are the audition.
-2. **Set up T Studio (40 min).** Instagram and TikTok (`@tstudio.ugc`, or `@tstudio.eg` if taken), a matching Gmail, WhatsApp Business with the 3 packages ([text to paste](docs/01-business-decision.md#whatsapp-business-copy-and-paste)), check you can receive InstaPay, and check your card or PayPal can pay in dollars on Khamsat.
+2. **Set up T Studio (40 min).** Instagram [@tstudioo.ugc](https://www.instagram.com/tstudioo.ugc/) and TikTok [@tstudio_ugc](https://www.tiktok.com/@tstudio_ugc) are created ✅; still to do: profile photo and bio on both, a matching Gmail, WhatsApp Business with the 3 packages ([text to paste](docs/01-business-decision.md#whatsapp-business-copy-and-paste)), check you can receive InstaPay, and check your card or PayPal can pay in dollars on Khamsat.
 3. **Send the first batch (1.5 h).** From [crm/top30.md](crm/top30.md), fill `[OBSERVATION]`, approve, send leads **1–12**: brand DMs **1, 3, 4, 7, 8, 11, 12**; partners **2, 5, 6, 9**; Mostaql **10**. Then set each to *Sent* in Pipeline.
 
 Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minutes) so you can talk about hooks and check videos.
@@ -67,6 +67,6 @@ Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minute
 
 ## What I need from you
 
-1. The T Studio handles you secure (Instagram, TikTok, Gmail; see [docs/01](docs/01-business-decision.md#studio-name-and-accounts)), and which bank or wallet receives InstaPay.
+1. The Gmail you create for T Studio (Instagram @tstudioo.ugc and TikTok @tstudio_ugc are done), and which bank or wallet receives InstaPay.
 2. Replies from leads and creators as they come in, so I can adjust messages, quotes and scripts.
 3. Approval of each outreach batch before anything is sent.

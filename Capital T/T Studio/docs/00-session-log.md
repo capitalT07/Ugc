@@ -37,6 +37,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 18:45 | You asked me to document this; this update to the log. |
 | 19:16–19:25 | You named Capital T the group for all T businesses (T for Tahan). Decision 8: a "Capital T" folder with "T Studio" inside, in Google Drive (the CRM sheet moved in, same link) and in the repo (`Capital T/T Studio/`), plus text for a Claude project named Capital T. |
 | 19:30–19:55 | You asked me to add two skill packs and use them. Decision 9: 17 Higgsfield skills and last30days added to `.claude/skills/`, without the two that make AI people look like real customers. last30days found nothing from here (sources blocked). I wrote AI product-clip prompts in [11](11-ai-video-prompts.md). |
+| 19:57 | You created T Studio's accounts: TikTok `@tstudio_ugc` and Instagram `@tstudioo.ugc`. Docs, plan and Launch HQ updated. |
 
 ## Decisions and why
 
@@ -173,6 +174,6 @@ The record of the first working session on T Studio: what you asked for, what we
 ## Open items
 
 - **Today:** the three actions in the [README](../README.md#todays-three-actions), plus 30 minutes with [10](10-studio-basics.md).
-- **I need from you:** the T Studio handles you secure, the bank or wallet that receives InstaPay, whether your card or PayPal can pay on Khamsat, the creators' replies, approval of each batch, and replies from creators and leads as they come in.
+- **I need from you:** the T Studio Gmail (Instagram and TikTok are done), the bank or wallet that receives InstaPay, whether your card or PayPal can pay on Khamsat, the creators' replies, approval of each batch, and replies from creators and leads as they come in.
 - **When replies arrive, I will:** adjust messages and quotes, write the script and brief for each order, and update the CRM only with what really happened.
 - **Before applying to any project:** open its page and confirm it's still open.
