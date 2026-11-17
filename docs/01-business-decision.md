@@ -2,6 +2,7 @@
 
 **Primary:** a UGC studio with a creator roster, Arabic-first (Egyptian and neutral Arabic, plus English and French).
 **Secondary:** short-form editing, done by you, sold direct and white-label to agencies.
+**Name:** T Studio · Arabic UGC ads ([details below](#studio-name-and-accounts)).
 
 You stay off camera: you sell, script, direct, edit and film faceless footage; roster creators film the on-camera parts. AI is a production tool (voice-over, captions, translations, hook variations), not the product.
 
@@ -42,26 +43,20 @@ A roster keeps the videos real, keeps your face out, lets you cast to the brand 
 4. **No-shipping formats** (app demos, voice-over edits, green-screen explainers) for clients abroad.
 5. **Rights priced honestly**: organic included, paid ads by period, nothing unlimited for free.
 
-## TikTok audit worksheet
+## Studio name and accounts
 
-I couldn't open [@yussuf_tahan](https://www.tiktok.com/@yussuf_tahan): my environment's network policy blocks TikTok, and search engines don't index the profile. Fill this in from TikTok Studio → Analytics and send it to me:
+**T Studio** (Arabic: تي ستوديو), always shown with what it does: **T Studio · Arabic UGC ads**. A single letter is hard to search for and says nothing to a brand on its own, so the tag goes everywhere.
 
-| Metric | Your number |
+| Where | Use |
 |---|---|
-| Followers | |
-| Total likes | |
-| Videos posted | |
-| Average views, last 10 videos | |
-| Best 3 videos (views, topic) | |
-| Top audience countries | |
-| Audience age and gender | |
-| Posts per week | |
-| Main topics and language | |
-| Is your face in most videos? | |
-| TikTok One: does Creator Marketplace appear in TikTok Studio? | |
+| Instagram and TikTok handle | `@tstudio.ugc`; if taken, `@tstudio.eg` or `@tstudio.cairo` |
+| Display name | T Studio · UGC ads |
+| Bio | EN: Arabic UGC ads & edits · Cairo · WhatsApp [number]. AR: إعلانات UGC ومونتاج · القاهرة · واتساب |
+| Email | A matching free Gmail, e.g. `tstudio.ugc@gmail.com` |
+| Sign-off | [NAME] · T Studio · Arabic UGC ads |
 
-How I'll use it:
+Before you settle it, check the handles are free on Instagram, TikTok and Gmail (those sites are blocked for me), and search Instagram for "T Studio Cairo" in case a local studio already uses the name. Two web searches on Nov 17 found no Cairo business or UGC agency called "T Studio".
 
-- **Proof of editing skill:** good retention on your own videos is a selling point for editing clients, even if you don't want to be on camera for brands.
-- **Studio showcase:** if your audience is in Egypt or the Gulf and into fitness or lifestyle, the account can host concept ads and studio behind-the-scenes.
-- **Paid posts on your account:** only if you want that later. TikTok One needs the marketplace to be live in Egypt (not confirmed in official sources) and projects need about 1,000 followers. TikTok's Creator Rewards programme is not open in Egypt.
+## Your personal TikTok
+
+Your account is about fitness and running, so it stays personal: it isn't used as a portfolio, and the plan doesn't depend on TikTok One. The background still helps: messages to fitness brands (activewear, gym apps, protein snacks) say you train and run yourself, without linking the account. The portfolio lives on T Studio's own Instagram and TikTok and on the Canva page.

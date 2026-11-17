@@ -6,7 +6,7 @@
 - **Launch HQ page**, phone-friendly, with copy buttons for every top-30 message: https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW
 - **CRM Google Sheet** (your live tracker): https://docs.google.com/spreadsheets/d/1SY54jhhQfHfHGCB_F2n_78gnFDvXCowGhhpnUA55PxU/edit
 
-**The business:** an Arabic-first UGC studio in Cairo. You sell, script, direct, edit and film faceless footage; creators from a small roster film the on-camera parts. Short-form editing for brands and agencies is the second service. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, counted only when it reaches you.
+**The business:** T Studio, an Arabic-first UGC studio in Cairo. You sell, script, direct, edit and film faceless footage; creators from a small roster film the on-camera parts. Short-form editing for brands and agencies is the second service. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, counted only when it reaches you.
 
 ## Today's three actions
 
@@ -21,7 +21,7 @@
 | [crm/top30.md](crm/top30.md) | The 30 best leads, ranked, each with facts, a video idea, a price and a ready message |
 | [crm/UGC-CRM.xlsx](crm/UGC-CRM.xlsx) | Workbook: Dashboard (the 8 money stages), Leads, Top 30, Pipeline, Daily, Revenue Ledger, Creators, Packages, Hunting Links |
 | `crm/*.csv` | The same sheets as CSV (UTF-8; Arabic intact) |
-| [docs/01-business-decision.md](docs/01-business-decision.md) | Why this model; TikTok audit worksheet for you to fill |
+| [docs/01-business-decision.md](docs/01-business-decision.md) | Why this model; studio name, handles and accounts |
 | [docs/02-offer-and-pricing.md](docs/02-offer-and-pricing.md) | Packages, editing rates, rights, extras, creator costs, revenue math |
 | [docs/03-market-evidence.md](docs/03-market-evidence.md) | Prices, demand, platforms, sources; findings vs assumptions |
 | [docs/04-portfolio-scripts.md](docs/04-portfolio-scripts.md) | Six concept ads with hooks, full scripts (AR/EN, FR for two), shot lists, CapCut steps |
@@ -39,7 +39,7 @@
 |---|---|
 | `[OBSERVATION]` | One specific thing you saw in their last 3 posts (I couldn't open social feeds) |
 | `[PORTFOLIO]` | Your Canva portfolio link (until it's live, see [docs/08](docs/08-six-day-plan.md#before-the-first-portfolio-piece-is-ready)) |
-| `[NAME]`, `[STUDIO]`, `[first name]` | Your name, your studio name, the recipient's first name |
+| `[NAME]`, `[first name]` | Your name, the recipient's first name. The studio name, T Studio, is already filled in |
 
 ## Using the CRM
 
@@ -57,7 +57,6 @@
 
 ## What I need from you
 
-1. Your TikTok numbers and the TikTok One check (worksheet in [docs/01](docs/01-business-decision.md#tiktok-audit-worksheet)).
-2. Studio name, and which bank or wallet receives InstaPay.
-3. Replies from leads and creators as they come in, so I can adjust messages, quotes and scripts.
-4. Approval of each outreach batch before anything is sent.
+1. The T Studio handles you secure (Instagram, TikTok, Gmail; see [docs/01](docs/01-business-decision.md#studio-name-and-accounts)), and which bank or wallet receives InstaPay.
+2. Replies from leads and creators as they come in, so I can adjust messages, quotes and scripts.
+3. Approval of each outreach batch before anything is sent.

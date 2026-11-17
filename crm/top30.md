@@ -6,7 +6,7 @@ Before you send any message:
 
 1. Open the source link. For Mostaql and Upwork, confirm the project is still open. For brands, find the official account and check it links to their site.
 2. Replace `[OBSERVATION]` with one specific thing you saw in their last 3 posts. I could not open Instagram, TikTok or Facebook from my environment, so this part is yours.
-3. Replace `[PORTFOLIO]`, `[NAME]`, `[STUDIO]` (and `[first name]` where shown).
+3. Replace `[PORTFOLIO]` and `[NAME]` (and `[first name]` where shown). The studio name, T Studio, is already filled in.
 4. Send, then set the lead's stage to **Sent** in the Pipeline sheet.
 
 Ranking: fresh hiring signal and direct payment first, then fit with faceless or roster production, then budget.
@@ -66,7 +66,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 > أهلاً فريق Cotmasr 👋 قريت قصتكم على TikTok for Business، وإن أغلب نموكم جاي من الإعلانات المدفوعة. الإعلانات دي بتستهلك كريتيفز بسرعة، فعندي فكرة جاهزة: «اختبار اللمس بعين مقفولة» — ٣ تيشيرتات، واحد بس منهم قطن مصري من Cotmasr، والشخص لازم يعرفه باللمس. [OBSERVATION]
 > إحنا ستوديو UGC صغير في القاهرة: بنكتب السكريبت، بنختار صانع المحتوى المناسب، وبنعمل المونتاج. أبعتلكم ٣ هوكات مكتوبة للفكرة دي النهارده؟
 > نماذج تجريبية (مش شغل لعملاء): [PORTFOLIO]
-> — [NAME]، [STUDIO]
+> — [NAME]، T Studio
 
 ## 2. Mostaql client: office-supplies store  ·  priority A
 
@@ -180,7 +180,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 > Hi [first name], I saw your team is hiring a UGC Specialist to scale creator content across Egypt, KSA and UAE. While you hire, my Cairo studio can cover it white-label: Arabic scripts, creators cast for each brief, and edits with 3 hooks per ad, delivered in about 5 days.
 > An idea for your own acquisition ads: a real store owner checking yesterday's sales, filmed UGC-style.
 > Could we run one paid pilot for one of your merchants this week? Concept samples (not client work): [PORTFOLIO]
-> — [NAME], [STUDIO]
+> — [NAME] · T Studio · Arabic UGC ads
 
 ## 7. Growthmerce  ·  priority A
 
@@ -201,7 +201,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 
 > Hi Growthmerce team, I saw on Clutch that you run Meta, TikTok and Snap ads for e-commerce brands. When a client runs out of creatives, we can be your white-label creative bench in Cairo: Arabic UGC with creators cast per brief, CapCut editing, 3 hooks per ad, 48-72h on edits, your branding on everything and no contact with your clients.
 > Want to try it on one client? 5 edited ads from their existing footage for EGP 4,000. Samples: [PORTFOLIO]
-> — [NAME], [STUDIO]
+> — [NAME] · T Studio · Arabic UGC ads
 
 ## 8. AdBuyers  ·  priority A
 
@@ -222,7 +222,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 
 > Hi AdBuyers team, I saw you run Meta, TikTok and Snap campaigns for e-commerce brands across the Gulf. Those campaigns go through Arabic creatives fast, so here's an offer: my Cairo studio produces white-label UGC in neutral Arabic plus vertical edits with 3 hooks per ad, 48-72h on edits, under your name.
 > Happy to start small: one paid test edit from a client's raw footage. Samples: [PORTFOLIO]
-> — [NAME], [STUDIO]
+> — [NAME] · T Studio · Arabic UGC ads
 
 ## 9. Nspired  ·  priority A
 
@@ -439,7 +439,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 
 > أهلاً أستاذ صلاح 👋 مبروك على استثمار Foras في يناير. مع توسع FitXpert في المنطقة، أكتر محتوى بيقنع المدربين هو إنهم يشوفوا البرنامج شغال.
 > فكرة: ديمو قصير بتسجيل شاشة وتعليق صوتي بالمصري: «إزاي مدرب يعمل خطة تمرين وتغذية لعميل في ٣ دقايق»، بهوك: «لسه بتبعت الدايت PDF على واتساب؟»
-> أنا بتمرن وبعمل محتوى قصير على تيك توك، وعندنا ستوديو UGC صغير في القاهرة. أبعتلك السكريبت؟ [PORTFOLIO]
+> أنا نفسي بتمرن وبجري، وعندنا ستوديو UGC صغير في القاهرة اسمه T Studio. أبعتلك السكريبت؟ [PORTFOLIO]
 
 ## 19. Mavin Wear  ·  priority B
 
@@ -502,7 +502,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 
 > Hi Hypebox team, I run a small UGC studio in Cairo. If your Arabic campaigns need Egyptian-dialect creators or extra editing capacity, we can be your overflow: scripted, captioned 9:16 edits with 3 hooks per ad, 48-72h, white-label.
 > Happy to start with one paid test edit from your raw footage. Concept samples: [PORTFOLIO]
-> — [NAME], [STUDIO]
+> — [NAME] · T Studio · Arabic UGC ads
 
 ## 22. Mostaql client: real estate  ·  priority B
 
@@ -608,7 +608,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 **Opening message**
 
 > أهلاً Brüz 👋 بار بطحينة ونكهات زي «Tahini Coffee Chocolate» و«هرانكش بالكرانبري» — دي نكهات الناس محتاجة تشوف حد بيدوقها قبل ما تشتري.
-> فكرة: «أول قضمة» — ٣ أشخاص بيدوقوا ٣ نكهات وبيقيّموها بصراحة، ومعاها فيديو «إيه اللي في شنطة الجيم بتاعتي». أنا أصلاً بتمرن وبعمل محتوى فيتنس على تيك توك. [OBSERVATION]
+> فكرة: «أول قضمة» — ٣ أشخاص بيدوقوا ٣ نكهات وبيقيّموها بصراحة، ومعاها فيديو «إيه اللي في شنطة الجيم بتاعتي». أنا نفسي بتمرن وبجري، فده منتج أعرف جمهوره كويس. [OBSERVATION]
 > إحنا ستوديو UGC في القاهرة. أبعتلكم السكريبت؟ [PORTFOLIO]
 
 ## 27. Social Coffee Roasters  ·  priority B
@@ -651,7 +651,7 @@ Mostaql money is held 14 working days, so Mostaql wins count as booked, not cash
 
 > Hi Switch Creation team, I saw you run performance ads and content production for brands in Egypt, KSA, UAE and the US. If you need more Arabic UGC or editing capacity, my Cairo studio works white-label: Arabic scripts, creators cast per brief, 9:16 edits with 3 hooks each, 48-72h on edits.
 > Open to a small paid test? Samples: [PORTFOLIO]
-> — [NAME], [STUDIO]
+> — [NAME] · T Studio · Arabic UGC ads
 
 ## 29. Upwork client: Arabic-speaking UGC creators (ongoing)  ·  priority B
 

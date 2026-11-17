@@ -21,7 +21,7 @@ Personalised first messages for the top 30 leads are in [crm/top30.md](../crm/to
 5. **Low-friction next step:** "Want me to send 3 hooks?", not "Can we book a call?".
 6. **Portfolio link**, labelled as concept work.
 
-Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[PORTFOLIO]`, `[NAME]`, `[STUDIO]`, `[WHATSAPP]`.
+Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[PORTFOLIO]`, `[NAME]`, `[WHATSAPP]`. The studio name is filled in: **T Studio** (sign-off "T Studio · Arabic UGC ads").
 
 ## Templates by channel
 
@@ -51,7 +51,7 @@ Placeholders: `{brand}`, `{product}`, `{observation}`, `{concept}`, `{hook}`, `[
 
 **AR**
 > مساء الخير أستاذ/ة {name}،
-> أنا [NAME] من [STUDIO]، ستوديو صغير في القاهرة بيعمل إعلانات فيديو قصيرة بأسلوب UGC للبراندات اللي بتعلن على فيسبوك وإنستجرام وتيك توك.
+> أنا [NAME] من T Studio، ستوديو صغير في القاهرة بيعمل إعلانات فيديو قصيرة بأسلوب UGC للبراندات اللي بتعلن على فيسبوك وإنستجرام وتيك توك.
 > شفت إعلانكم عن {product}، و{observation}. عندي فكرة إعلان بسيطة: {concept}.
 > لو مناسب، أبعتلحضرتك السكريبت و٣ بدايات (هوكات) مختلفة تختبروها. نماذج: [PORTFOLIO]
 > شكراً لوقتك.
@@ -88,7 +88,7 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 **EN**
 > Hi {name},
 >
-> I'm [NAME] from [STUDIO], a small UGC studio in Cairo. I noticed {observation}.
+> I'm [NAME] from T Studio, a small UGC studio in Cairo. I noticed {observation}.
 >
 > One idea: {concept}. It shows {value} in the first 2 seconds, which is usually what decides whether people keep watching an ad.
 >
@@ -97,12 +97,12 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 > Would you like the script and hooks for this idea? Samples (concept work): [PORTFOLIO]
 >
 > [NAME]
-> [STUDIO] · [WHATSAPP]
+> T Studio · Arabic UGC ads · [WHATSAPP]
 
 **AR**
 > أهلاً أستاذ/ة {name}،
 >
-> أنا [NAME] من [STUDIO]، ستوديو UGC صغير في القاهرة. لاحظت {observation}.
+> أنا [NAME] من T Studio، ستوديو UGC صغير في القاهرة. لاحظت {observation}.
 >
 > عندي فكرة: {concept}. الفكرة بتوضح {value} في أول ثانيتين، ودي اللحظة اللي بتحدد الناس هتكمل الإعلان ولا لأ.
 >
@@ -110,14 +110,14 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 >
 > أبعتلكم السكريبت والهوكات للفكرة دي؟ نماذج تجريبية: [PORTFOLIO]
 >
-> [NAME] · [STUDIO] · [WHATSAPP]
+> [NAME] · T Studio · [WHATSAPP]
 
 ### Agency partnership (white-label)
 
 **EN**
 > Hi {name},
 >
-> I run [STUDIO], a small UGC and editing studio in Cairo. When your clients need fresh creatives, we can be your white-label bench:
+> I run T Studio, a small UGC and editing studio in Cairo. When your clients need fresh creatives, we can be your white-label bench:
 > - Arabic UGC (Egyptian or neutral Arabic), creators cast per brief
 > - Edits from your footage: 1-second hooks, captions, 3 variants per ad, 48–72 h
 > - Your branding only; we never contact your clients
@@ -128,7 +128,7 @@ Subjects: `3 hook ideas for {product} ads` · `{brand}: one test ad idea` · `A 
 **AR**
 > أهلاً أستاذ/ة {name}،
 >
-> أنا [NAME] من [STUDIO]، ستوديو UGC ومونتاج صغير في القاهرة. لما عملاءكم يحتاجوا كريتيفز جديدة، نقدر نبقى فريقكم من ورا الستارة (White-label):
+> أنا [NAME] من T Studio، ستوديو UGC ومونتاج صغير في القاهرة. لما عملاءكم يحتاجوا كريتيفز جديدة، نقدر نبقى فريقكم من ورا الستارة (White-label):
 > - UGC بالعربي (مصري أو عربي أبيض) بصانع محتوى بنختاره لكل بريف
 > - مونتاج من لقطاتكم: هوك في أول ثانية، كابشن، ٣ نسخ لكل إعلان، خلال ٤٨–٧٢ ساعة
 > - باسمكم بس، ومش بنتواصل مع عملاءكم أبداً
@@ -171,7 +171,7 @@ Bid inside their budget, set a realistic duration, and keep everything on Mostaq
 **Email**
 > Bonjour {name},
 >
-> Je suis [NAME], de [STUDIO], un petit studio UGC au Caire. J'ai remarqué {observation}.
+> Je suis [NAME], de T Studio, un petit studio UGC au Caire. J'ai remarqué {observation}.
 >
 > Une idée : {concept}. Elle montre {value} dans les 2 premières secondes, ce qui décide souvent si les gens regardent la pub jusqu'au bout.
 >
@@ -179,7 +179,7 @@ Bid inside their budget, set a realistic duration, and keep everything on Mostaq
 >
 > Voulez-vous le script et les accroches ? Exemples (travaux de démonstration) : [PORTFOLIO]
 >
-> [NAME] · [STUDIO] · [WHATSAPP]
+> [NAME] · T Studio · [WHATSAPP]
 
 ## Follow-ups and objections
 

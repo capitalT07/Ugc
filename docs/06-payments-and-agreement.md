@@ -48,7 +48,7 @@ Plain-language template, not legal advice. Send as a PDF or Google Doc; a WhatsA
 
 > **UGC Production Agreement**
 >
-> **Studio:** [STUDIO], represented by [NAME] ("we"). **Client:** ____________ ("you").
+> **Studio:** T Studio, represented by [NAME] ("we"). **Client:** ____________ ("you").
 >
 > 1. **Deliverables.** Package: ________. ___ videos, ___–___ seconds, 9:16 (4:5 on request), with ___ hooks, captions and licensed music.
 > 2. **Timeline.** We send scripts within 2 working days of receiving the product and brief. You approve or comment within 24 hours. We deliver ___ days after script approval. Delays in product delivery or approvals move the date by the same amount.
@@ -72,7 +72,7 @@ Plain-language template, not legal advice. Send as a PDF or Google Doc; a WhatsA
 
 > **اتفاق إنتاج فيديوهات UGC**
 >
-> **الاستوديو:** [STUDIO]، ويمثله [NAME]. **العميل:** ____________.
+> **الاستوديو:** T Studio (تي ستوديو)، ويمثله [NAME]. **العميل:** ____________.
 >
 > ١. **المطلوب:** الباقة ________. عدد ___ فيديو، مدة ___–___ ثانية، مقاس 9:16 (أو 4:5 عند الطلب)، مع ___ هوك وكابشن وموسيقى مرخّصة.
 > ٢. **المواعيد:** بنبعت السكريبت خلال يومين عمل من استلام المنتج والبريف، والعميل يرد خلال ٢٤ ساعة. التسليم بعد ___ أيام من الموافقة على السكريبت. أي تأخير في وصول المنتج أو الموافقات بيأخّر التسليم بنفس المدة.
@@ -96,7 +96,7 @@ Plain-language template, not legal advice. Send as a PDF or Google Doc; a WhatsA
 
 ```
 INVOICE / فاتورة  #[number]            Date: [date]
-From: [STUDIO] · [NAME] · Cairo, Egypt · [EMAIL] · [WHATSAPP]
+From: T Studio · [NAME] · Cairo, Egypt · [EMAIL] · [WHATSAPP]
 To:   [client company] · [contact]
 
 Item                                   Qty   Price

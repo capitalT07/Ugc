@@ -188,7 +188,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
     <div>
       <div class="eyebrow"><span class="rec" aria-hidden="true"></span><span id="dayline">Tue 17 Nov · Day 1 of 6</span></div>
       <h1>UGC Studio Launch HQ</h1>
-      <p class="sub">Arabic UGC ads and edits from Cairo. Goal: $1,000 by Sunday 22 Nov, counted only when it reaches you.</p>
+      <p class="sub">T Studio · Arabic UGC ads and edits from Cairo. Goal: $1,000 by Sunday 22 Nov, counted only when it reaches you.</p>
     </div>
     <div class="btns">
       <a class="btn primary" href="__SHEET__" target="_blank" rel="noopener">Open the CRM sheet</a>
@@ -216,13 +216,13 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
           <li><strong>Send the first batch</strong><span class="time">1.5 h</span>
             <p>Leads 1–12 below (tap “Today’s batch”). Fill in the highlighted parts, approve, send, then set each to <em>Sent</em> in the sheet’s Pipeline tab.</p></li>
         </ol>
-        <p class="also">Also today: pick the studio name, set up WhatsApp Business with the 3 packages, confirm you can receive InstaPay, and send me your TikTok numbers.</p>
+        <p class="also">Also today: create T Studio’s Instagram and TikTok (@tstudio.ugc, or @tstudio.eg if taken) and a matching Gmail, set up WhatsApp Business with the 3 packages, and confirm you can receive InstaPay.</p>
         <div class="rules">
           <strong>Before any message goes out</strong>
           <ul>
             <li>Open the source and check it is still open or active.</li>
             <li>Replace <mark>[OBSERVATION]</mark> with one real detail from their last 3 posts.</li>
-            <li>Replace <mark>[PORTFOLIO]</mark>, <mark>[NAME]</mark>, <mark>[STUDIO]</mark>. No portfolio yet? Drop that line from brand DMs.</li>
+            <li>Replace <mark>[PORTFOLIO]</mark> and <mark>[NAME]</mark>. No portfolio yet? Drop that line from brand DMs.</li>
             <li>Mostaql money is held 14 working days: booked, not cash.</li>
           </ul>
         </div>

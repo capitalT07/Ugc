@@ -61,7 +61,7 @@ LEAD_COLUMNS = [
     ("ads_library", "Meta Ads Library search"),
 ]
 URL_KEYS = {"website", "instagram", "tiktok", "facebook", "source", "ads_library"}
-ALLOWED_PLACEHOLDERS = {"[OBSERVATION]", "[PORTFOLIO]", "[NAME]", "[STUDIO]", "[first name]"}
+ALLOWED_PLACEHOLDERS = {"[OBSERVATION]", "[PORTFOLIO]", "[NAME]", "[first name]"}
 
 PIPELINE_HEADERS = ["Lead ID", "Rank", "Company", "Priority", "Type", "Channel", "Stage",
                     "Date sent", "Last touch", "Next action", "Next action date",
@@ -221,7 +221,7 @@ def write_top30(leads, path):
         "",
         "1. Open the source link. For Mostaql and Upwork, confirm the project is still open. For brands, find the official account and check it links to their site.",
         "2. Replace `[OBSERVATION]` with one specific thing you saw in their last 3 posts. I could not open Instagram, TikTok or Facebook from my environment, so this part is yours.",
-        "3. Replace `[PORTFOLIO]`, `[NAME]`, `[STUDIO]` (and `[first name]` where shown).",
+        "3. Replace `[PORTFOLIO]` and `[NAME]` (and `[first name]` where shown). The studio name, T Studio, is already filled in.",
         "4. Send, then set the lead's stage to **Sent** in the Pipeline sheet.",
         "",
         "Ranking: fresh hiring signal and direct payment first, then fit with faceless or roster production, then budget.",

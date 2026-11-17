@@ -11,7 +11,7 @@ Rules this data follows:
   [OBSERVATION] one specific thing you saw in their last 3 posts
   [PORTFOLIO]   your portfolio link
   [NAME]        your name
-  [STUDIO]      your studio name
+Studio name: T Studio (sign-off "T Studio · Arabic UGC ads").
 - Nothing here has been sent. Every message needs your approval first.
 """
 
@@ -93,7 +93,7 @@ LEADS = [
                "واحد بس منهم قطن مصري من Cotmasr، والشخص لازم يعرفه باللمس. [OBSERVATION]\n"
                "إحنا ستوديو UGC صغير في القاهرة: بنكتب السكريبت، بنختار صانع المحتوى المناسب، وبنعمل المونتاج. "
                "أبعتلكم ٣ هوكات مكتوبة للفكرة دي النهارده؟\n"
-               "نماذج تجريبية (مش شغل لعملاء): [PORTFOLIO]\n— [NAME]، [STUDIO]")),
+               "نماذج تجريبية (مش شغل لعملاء): [PORTFOLIO]\n— [NAME]، T Studio")),
 
     L(rank=2, priority="A", type=T_MOSTAQL, company="Mostaql client: office-supplies store",
       website="https://mostaql.com/project/1288390-%D8%B5%D8%A7%D9%86%D8%B9-%D9%85%D8%AD%D8%AA%D9%88%D9%89-ugc-%D9%85%D9%88%D9%86%D8%AA%D9%8A%D8%B1-%D8%B1%D9%8A%D9%84%D8%B2-%D8%AA%D8%B3%D9%88%D9%8A%D9%82%D9%8A",
@@ -176,7 +176,7 @@ LEADS = [
                "and edits with 3 hooks per ad, delivered in about 5 days.\n"
                "An idea for your own acquisition ads: a real store owner checking yesterday's sales, filmed UGC-style.\n"
                "Could we run one paid pilot for one of your merchants this week? Concept samples (not client work): [PORTFOLIO]\n"
-               "— [NAME], [STUDIO]")),
+               "— [NAME] · T Studio · Arabic UGC ads")),
 
     L(rank=7, priority="A", type=T_AGENCY, company="Growthmerce", country="Egypt (Cairo)",
       industry="Performance marketing / media buying for e-commerce",
@@ -191,7 +191,7 @@ LEADS = [
                "When a client runs out of creatives, we can be your white-label creative bench in Cairo: Arabic UGC with creators cast per brief, "
                "CapCut editing, 3 hooks per ad, 48-72h on edits, your branding on everything and no contact with your clients.\n"
                "Want to try it on one client? 5 edited ads from their existing footage for EGP 4,000. Samples: [PORTFOLIO]\n"
-               "— [NAME], [STUDIO]")),
+               "— [NAME] · T Studio · Arabic UGC ads")),
 
     L(rank=8, priority="A", type=T_AGENCY, company="AdBuyers", country="Egypt (Maadi, Cairo)",
       industry="Performance marketing for Gulf and Arab e-commerce", size="Founded 2022 (Sortlist)",
@@ -204,7 +204,7 @@ LEADS = [
       message=("Hi AdBuyers team, I saw you run Meta, TikTok and Snap campaigns for e-commerce brands across the Gulf. "
                "Those campaigns go through Arabic creatives fast, so here's an offer: my Cairo studio produces white-label UGC in neutral Arabic "
                "plus vertical edits with 3 hooks per ad, 48-72h on edits, under your name.\n"
-               "Happy to start small: one paid test edit from a client's raw footage. Samples: [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "Happy to start small: one paid test edit from a client's raw footage. Samples: [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(rank=9, priority="A", company="Nspired", website="https://nspiredbeauty.com",
       instagram="https://www.instagram.com/nspired.beauty/", industry="Fragrance (inspired-by scents)",
@@ -342,7 +342,7 @@ LEADS = [
       message=("أهلاً أستاذ صلاح 👋 مبروك على استثمار Foras في يناير. مع توسع FitXpert في المنطقة، أكتر محتوى بيقنع المدربين هو إنهم يشوفوا البرنامج شغال.\n"
                "فكرة: ديمو قصير بتسجيل شاشة وتعليق صوتي بالمصري: «إزاي مدرب يعمل خطة تمرين وتغذية لعميل في ٣ دقايق»، "
                "بهوك: «لسه بتبعت الدايت PDF على واتساب؟»\n"
-               "أنا بتمرن وبعمل محتوى قصير على تيك توك، وعندنا ستوديو UGC صغير في القاهرة. أبعتلك السكريبت؟ [PORTFOLIO]")),
+               "أنا نفسي بتمرن وبجري، وعندنا ستوديو UGC صغير في القاهرة اسمه T Studio. أبعتلك السكريبت؟ [PORTFOLIO]")),
 
     L(rank=19, priority="B", company="Mavin Wear", website="https://global.mavin-wear.com",
       industry="Activewear", contact_person="Fady Bakri, owner (per Cairo360; single source)",
@@ -375,7 +375,7 @@ LEADS = [
       price="Editing $40/short; UGC Creative Test $330", films=F_EDIT + " + roster", ads_country="AE",
       message=("Hi Hypebox team, I run a small UGC studio in Cairo. If your Arabic campaigns need Egyptian-dialect creators or extra editing capacity, "
                "we can be your overflow: scripted, captioned 9:16 edits with 3 hooks per ad, 48-72h, white-label.\n"
-               "Happy to start with one paid test edit from your raw footage. Concept samples: [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "Happy to start with one paid test edit from your raw footage. Concept samples: [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(rank=22, priority="B", type=T_MOSTAQL, company="Mostaql client: real estate",
       website="https://mostaql.com/project/1277585-%D9%85%D9%88%D9%86%D8%AA%D9%8A%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D8%AD%D8%AA%D8%B1%D9%81-%D9%88%D9%85%D8%AA%D8%AE%D8%B5%D8%B5-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-tiktok-%D9%88reels",
@@ -442,7 +442,7 @@ LEADS = [
       note="Instagram handle not confirmed; launch date unclear. Check they're still selling.",
       message=("أهلاً Brüz 👋 بار بطحينة ونكهات زي «Tahini Coffee Chocolate» و«هرانكش بالكرانبري» — دي نكهات الناس محتاجة تشوف حد بيدوقها قبل ما تشتري.\n"
                "فكرة: «أول قضمة» — ٣ أشخاص بيدوقوا ٣ نكهات وبيقيّموها بصراحة، ومعاها فيديو «إيه اللي في شنطة الجيم بتاعتي». "
-               "أنا أصلاً بتمرن وبعمل محتوى فيتنس على تيك توك. [OBSERVATION]\n"
+               "أنا نفسي بتمرن وبجري، فده منتج أعرف جمهوره كويس. [OBSERVATION]\n"
                "إحنا ستوديو UGC في القاهرة. أبعتلكم السكريبت؟ [PORTFOLIO]")),
 
     L(rank=27, priority="B", company="Social Coffee Roasters", industry="Specialty coffee roaster",
@@ -466,7 +466,7 @@ LEADS = [
       message=("Hi Switch Creation team, I saw you run performance ads and content production for brands in Egypt, KSA, UAE and the US. "
                "If you need more Arabic UGC or editing capacity, my Cairo studio works white-label: Arabic scripts, creators cast per brief, "
                "9:16 edits with 3 hooks each, 48-72h on edits.\n"
-               "Open to a small paid test? Samples: [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "Open to a small paid test? Samples: [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(rank=29, priority="B", type=T_UPWORK, company="Upwork client: Arabic-speaking UGC creators (ongoing)",
       country="Worldwide applicants", industry="UGC production",
@@ -566,7 +566,7 @@ LEADS = [
       contact_person="Project owner on Mostaql", contact_method=MOSTAQL_METHOD,
       source="https://mostaql.com/project/1244957-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%85%D9%88%D9%86%D8%AA%D9%8A%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%85%D8%AA%D8%AC%D8%B1-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A",
       service="Batch editing (you)", price="$200-250 for 30", cash=CASH_MOSTAQL, films=F_EDIT, ads_country=None, note=OLD_MOSTAQL,
-      message=("السلام عليكم، ٣٠ إعلان من لقطات خام لمتجر لبس رياضي — ده مجالي، أنا بتمرن وبعمل محتوى فيتنس. "
+      message=("السلام عليكم، ٣٠ إعلان من لقطات خام لمتجر لبس رياضي — ده مجالي، أنا نفسي بتمرن وبجري."
                "بقطّع كل إعلان بهوك مختلف (السعر، المقاس، الخامة)، كابشن عربي، وCTA. أقدر أسلّم أول ٥ خلال ٤٨ ساعة. نماذج: [PORTFOLIO]")),
 
     L(priority="C", type=T_MOSTAQL, company="Mostaql client: 30 simple UGC videos (Gulf dialect)",
@@ -1004,7 +1004,7 @@ LEADS = [
       source="https://www.wamda.com/2020/03/elcoach-raises-figure-seed",
       service="Starter", price="EGP 3,500", films=F_YOU, note="Only 2020 coverage found; confirm the app is still active.",
       message=("أهلاً ElCoach 👋 فكرة: «جرّبت خطة ElCoach أسبوع — ده اللي حصل» كديمو للتطبيق بتسجيل شاشة ولقطات تمرين. "
-               "أنا بتمرن وبعمل محتوى فيتنس على تيك توك. [OBSERVATION]\n[PORTFOLIO]")),
+               "أنا نفسي بتمرن وبجري. [OBSERVATION]\n[PORTFOLIO]")),
 
     # ===================== AGENCIES (B/C) =====================
     L(priority="B", type=T_AGENCY, company="Udjat Agency", website="https://www.udjatagency.com/ugc-content-creators-in-cairo/",
@@ -1027,7 +1027,7 @@ LEADS = [
       service="White-label overflow", price="Editing $40/short; UGC $330 for 3", films=F_EDIT + " + roster", ads_country="AE",
       note="Figures are from listicles, not verified.",
       message=("Hi Starfish team, for your GCC UGC campaigns my Cairo studio can add Egyptian-dialect creators and white-label editing "
-               "(9:16, captions, 3 hooks per ad, 48-72h). Happy to do one paid test edit. [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "(9:16, captions, 3 hooks per ad, 48-72h). Happy to do one paid test edit. [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="B", type=T_AGENCY, company="OneHub UAE", website="https://onehub.ae/arabic-ugc-creators-for-gcc-ads/",
       country="UAE (Dubai)", industry="Influencer marketing agency", size="Claims 10,000+ verified creators (Clutch profile)",
@@ -1037,7 +1037,7 @@ LEADS = [
       service="White-label editing", price="Editing $40/short; 10-pack $330", films=F_EDIT, ads_country="AE",
       message=("Hi OneHub team, I saw your Arabic UGC creators page for GCC ads. If you need editing capacity for creator footage, "
                "my Cairo studio edits white-label: hooks in the first second, Arabic captions, 3 hook variants per ad, 48-72h. "
-               "Open to a paid test edit? [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "Open to a paid test edit? [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="Spark Social", country="UAE", industry="UGC and creative strategy agency",
       why="UGC and creative strategy agency; may need Arabic editing and creators.",
@@ -1045,7 +1045,7 @@ LEADS = [
       source="https://influee.co/partnership/spark-social", service="White-label overflow",
       price="Editing $40/short", films=F_EDIT, ads_country="AE",
       message=("Hi Spark Social team, my Cairo studio does white-label Arabic UGC and editing (captions, 3 hooks per ad, 48-72h). "
-               "If you ever need overflow capacity, I'd be glad to do a paid test. [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "If you ever need overflow capacity, I'd be glad to do a paid test. [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="Blue Sky Studios", website="https://blueskystudios.ae/en/ugc",
       country="UAE (Dubai)", industry="UGC studio", size="150+ permit-verified UAE creators; packages from AED 4,400 (own site)",
@@ -1053,7 +1053,7 @@ LEADS = [
       opportunity="White-label editing.", contact_method="Website contact", source="https://blueskystudios.ae/en/ugc",
       service="White-label editing", price="Editing $40/short", films=F_EDIT, ads_country="AE",
       message=("Hi Blue Sky team, if your UGC packages ever need more editing hands, my Cairo studio edits white-label: Arabic and English captions, "
-               "3 hook variants per ad, 48-72h. Paid test edit? [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "3 hook variants per ad, 48-72h. Paid test edit? [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="DeepRoX", website="https://deeprox.lovable.app/", country="MENA / UK",
       industry="Performance and creative studio (static, motion, UGC ad creatives)",
@@ -1062,14 +1062,14 @@ LEADS = [
       source="https://deeprox.lovable.app/", service="Subcontract", price="Editing $40/short", films=F_EDIT, ads_country=None,
       note="Their ROAS claims are self-reported.",
       message=("Hi DeepRoX team, if you need Egyptian-dialect creators or extra editing for UGC ad creatives, my Cairo studio works as a subcontractor: "
-               "3 hooks per ad, captions, 48-72h. Paid test? [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "3 hooks per ad, captions, 48-72h. Paid test? [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="Webtonic", website="https://www.webtonic.io/locations/dubai-ugc",
       country="UAE (Dubai / Abu Dhabi)", industry="UGC production", why="UGC agency covering Dubai and Abu Dhabi.",
       opportunity="Arabic editing overflow.", contact_method="Website contact", source="https://www.webtonic.io/locations/dubai-ugc",
       service="White-label editing", price="Editing $40/short", films=F_EDIT, ads_country="AE",
       message=("Hi Webtonic team, my Cairo studio edits Arabic UGC white-label (captions, 3 hook variants, 48-72h). "
-               "If you need overflow, I'd be glad to do a paid test edit. [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "If you need overflow, I'd be glad to do a paid test edit. [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="Grynow Media", website="https://www.grynow.in/ugc-videos-agency-in-dubai-uae.html",
       country="UAE (Dubai) / India", industry="UGC video agency", why="Sells UGC videos in Dubai; Arabic creators and editing help.",
@@ -1077,7 +1077,7 @@ LEADS = [
       source="https://www.grynow.in/ugc-videos-agency-in-dubai-uae.html", service="White-label",
       price="Editing $40/short; UGC $330 for 3", films=F_EDIT + " + roster", ads_country="AE",
       message=("Hi Grynow team, for your Dubai UGC clients my Cairo studio can supply Arabic-speaking creators and white-label edits "
-               "(3 hooks per ad, captions, 48-72h). Paid test? [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "(3 hooks per ad, captions, 48-72h). Paid test? [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     L(priority="C", type=T_AGENCY, company="Glitchcraft Media", website="https://www.glitchcraftmedia.com/",
       country="UAE (Dubai)", industry="UGC agency for TikTok and Instagram",
@@ -1085,7 +1085,7 @@ LEADS = [
       contact_method="Website contact", source="https://www.glitchcraftmedia.com/", service="White-label editing",
       price="Editing $40/short", films=F_EDIT, ads_country="AE", note="Only found via one search result; verify it's real and active.",
       message=("Hi Glitchcraft team, my Cairo studio edits UGC white-label for TikTok and Instagram (Arabic or English captions, 3 hook variants, 48-72h). "
-               "Paid test edit? [PORTFOLIO]\n— [NAME], [STUDIO]")),
+               "Paid test edit? [PORTFOLIO]\n— [NAME] · T Studio · Arabic UGC ads")),
 
     # ===================== GULF BRANDS (C) =====================
     L(priority="C", company="Fzahabaya", country="Saudi Arabia", industry="Modest fashion: abayas (Salla store)",

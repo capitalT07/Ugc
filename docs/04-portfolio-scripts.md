@@ -6,7 +6,7 @@ Six sample ads to show brands your style before you have paying clients. Three y
 
 - Every sample is **concept work**. Put a small corner label on the video: `Concept ad · إعلان تجريبي`, and write under it in the portfolio: *"Concept ad made with a product we bought. Not sponsored by or affiliated with the brand."*
 - Use products you or the creator **actually bought and used**. Every line in a script must be true for the person saying it. Where a script has `[…]`, fill in the real answer, even if it's less impressive.
-- Don't post these as ads for a real brand on public accounts without the brand's permission. They live in the portfolio.
+- Post them on T Studio's own Instagram and TikTok only with the label "Concept ad · not sponsored", and never present one as an ad for a brand. A spec ad made for one brand you're pitching stays private and goes only to that brand.
 - Shooting a short concept with a top lead's product (Cotmasr, Sigma Fit, Mr.Beard) is a strong door-opener, but it's your choice and your cost. Never do it because a client asked for free work.
 
 ## What you need
@@ -288,7 +288,7 @@ Fill the verdict honestly. A "runs small" note makes the video more believable, 
 
 ## Portfolio structure (free tools)
 
-**Google Drive folder** `[STUDIO] Portfolio`, shared as *Anyone with the link can view*:
+**Google Drive folder** `T Studio Portfolio`, shared as *Anyone with the link can view*:
 
 ```
 00 Rate card (PDF)
@@ -304,12 +304,14 @@ Each folder holds the final video, its 2 alternate-hook versions, and a 9:16 thu
 
 **One-page Canva portfolio** (the link you send as `[PORTFOLIO]`):
 
-1. Studio name and one line: "Arabic UGC ads and edits for brands that advertise on TikTok and Instagram."
+1. T Studio and one line: "Arabic UGC ads and edits for brands that advertise on TikTok and Instagram."
 2. Six tiles: thumbnail, title, and "Concept ad, not client work". Each links to its Drive folder.
 3. "How we work" in 4 steps: brief → script → film → edit with 3 hooks.
 4. Packages: Starter, Creative Test, Content Sprint (no EGP on the version you send to the Gulf).
 5. Languages: Arabic (Egyptian and neutral), English, French.
 6. Contact: WhatsApp and email.
+
+**T Studio's own accounts:** post each finished concept ad on Instagram and TikTok with the "Concept ad · not sponsored" label. Once two are up, the Instagram profile works as your `[PORTFOLIO]` link until the Canva page is ready.
 
 Once you have real clients and their permission, replace concept tiles with client work.
 
@@ -323,4 +325,4 @@ Once you have real clients and their permission, replace concept tiles with clie
 | Wed–Thu | #6 fitness test (your neck-down version) | You |
 | Wed–Thu | #1 review and #4 storytelling | First roster creators |
 
-Minimum to start selling: **two finished videos (#3 and #2) on the Canva page.** Don't wait for all six before sending messages.
+Minimum to start selling: **two finished videos (#3 and #2) on the Canva page or T Studio's Instagram.** Don't wait for all six before sending messages.

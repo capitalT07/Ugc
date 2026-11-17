@@ -18,9 +18,9 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
 
 ## Before the first portfolio piece is ready
 
-`[PORTFOLIO]` needs a link. Until the Canva page is live (target Wednesday):
-- For **editing** jobs, link your own TikTok if you're comfortable sharing it; it shows your CapCut work.
+`[PORTFOLIO]` needs a link. Until the Canva page or T Studio's Instagram has two finished concept ads (target Wednesday):
 - For **brand DMs**, drop the portfolio line. The next step is "want 3 hooks?", which doesn't need samples.
+- For **editing** jobs, lead with the free offer already in those messages: they send one raw video and you write 3 hooks for it. Your personal TikTok stays out of it.
 
 ---
 
@@ -35,8 +35,8 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
    - Mostaql proposals: ranks **2, 3, 11, 12**
    - Brand DMs: ranks **1, 4, 5, 9, 10**
    - Agency and partner messages: ranks **6, 7, 8**
-4. **Set up (40 min):** pick the studio name; WhatsApp Business with the 3 packages as catalogue items; business bio on Instagram/TikTok ("Arabic UGC ads & edits · Cairo · WhatsApp"); confirm you can receive InstaPay; get your bank's USD account details; check your Mostaql and Upwork profiles are verified.
-5. Send me your TikTok numbers (followers, average views of the last 10 videos, top 3 videos, top audience countries) and the TikTok One check (Profile → TikTok Studio → Creator Marketplace).
+4. **Set up (40 min):** create T Studio's Instagram and TikTok business accounts (handle `@tstudio.ugc`, or `@tstudio.eg` if taken; bio "Arabic UGC ads & edits · Cairo · WhatsApp") and a matching Gmail; WhatsApp Business with the 3 packages as catalogue items; confirm you can receive InstaPay; get your bank's USD account details; check your Mostaql and Upwork profiles are verified.
+5. Send me the handles you got and any replies from leads or creators.
 
 **Me:** Launch HQ page and Google Sheet, then the Day 2 batch adjusted to whatever you tell me about replies and observations.
 
@@ -48,7 +48,7 @@ Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–T
 
 **You:**
 1. 06:30: film the lifestyle POV (#5).
-2. Edit #3 and #2 (CapCut defaults), build the one-page Canva portfolio, share the Drive folder.
+2. Edit #3 and #2 (CapCut defaults), post both on T Studio's Instagram and TikTok labelled "Concept ad · not sponsored", build the one-page Canva portfolio, share the Drive folder.
 3. Send ranks **13–30** plus 10 leads found by hunting (Meta Ads Library: brands already running video ads).
 4. 24-hour follow-ups for Day 1 (follow-up #1 in [05](05-sales-system.md#follow-ups-and-objections): send a hook, not "just checking in").
 5. Watch the auditions; score them with the scorecard; book 2–3 creators.

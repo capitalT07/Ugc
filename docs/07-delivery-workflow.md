@@ -50,7 +50,7 @@ Share only `04 Previews` before payment, then `05 Finals` after.
 
 **File names:** `BRAND_concept_H1_v1.mp4`, e.g. `COTMASR_touchtest_H2_v1.mp4` (H1, H2, H3 = hook versions; v2 after revisions).
 
-**Preview watermark:** CapCut text `PREVIEW · [STUDIO]`, centre, 30% opacity, exported at 720p.
+**Preview watermark:** CapCut text `PREVIEW · T Studio`, centre, 30% opacity, exported at 720p.
 
 ## QA checklist (before any preview goes out)
 

@@ -26,12 +26,12 @@ You stay off camera. Creators film the talking-to-camera parts from your script;
 > تحب تجرب؟ هبعتلك أوديشن ٢٠ ثانية بس.
 
 **To a creator you don't know (AR)**
-> أهلاً {name} 👋 أنا [NAME] من [STUDIO]، ستوديو UGC صغير في القاهرة. شفت محتواك عن {topic} وأسلوبك طبيعي جداً قدام الكاميرا.
+> أهلاً {name} 👋 أنا [NAME] من T Studio، ستوديو UGC صغير في القاهرة. شفت محتواك عن {topic} وأسلوبك طبيعي جداً قدام الكاميرا.
 > بنجهّز مجموعة صغيرة من صناع المحتوى لإعلانات براندات مصرية: سكريبت جاهز، تصوير من البيت، وإحنا بنعمل المونتاج. الفيديو من ٨٠٠ لـ١٥٠٠ جنيه، والدفع خلال ٤٨ ساعة من موافقة العميل.
 > لو مهتم/ة، أبعتلك تفاصيل أوديشن قصير؟
 
 **English**
-> Hi {name}, I'm [NAME] from [STUDIO], a small UGC studio in Cairo. I liked how natural you are on camera in your {topic} videos.
+> Hi {name}, I'm [NAME] from T Studio, a small UGC studio in Cairo. I liked how natural you are on camera in your {topic} videos.
 > We're building a small group of creators for Egyptian brand ads: script provided, film at home on your phone, we handle editing. EGP 800–1,500 per video, paid within 48 hours of client approval.
 > Interested? I can send a short audition brief.
 
@@ -86,7 +86,7 @@ This is a plain-language template, not legal advice. Each creator signs once (Wh
 
 > **Creator Release and Work Agreement**
 >
-> Between [STUDIO] (the Studio), represented by [NAME], and ____________ (the Creator), ID no. ________, age 18 or over.
+> Between T Studio (the Studio), represented by [NAME], and ____________ (the Creator), ID no. ________, age 18 or over.
 >
 > 1. **Work.** For each job the Studio sends a written brief. The Creator films the agreed videos on time and sends the original files.
 > 2. **Fee.** The fee per job is stated in the job confirmation. The Studio pays within 48 hours of the client's approval. Reshoots caused by the Creator are free; reshoots caused by client changes are paid at 50%.
@@ -106,7 +106,7 @@ This is a plain-language template, not legal advice. Each creator signs once (Wh
 
 > **اتفاق عمل وتصريح استخدام — صانع/ة محتوى**
 >
-> بين [STUDIO] (الاستوديو)، ويمثله [NAME]، و ____________ (صانع/ة المحتوى)، رقم قومي ________، والسن ١٨ سنة أو أكتر.
+> بين T Studio «تي ستوديو» (الاستوديو)، ويمثله [NAME]، و ____________ (صانع/ة المحتوى)، رقم قومي ________، والسن ١٨ سنة أو أكتر.
 >
 > ١. **الشغل:** لكل مهمة بيبعت الاستوديو بريف مكتوب، وصانع المحتوى بيصور الفيديوهات المتفق عليها في الميعاد ويبعت الملفات الأصلية.
 > ٢. **الأجر:** أجر كل مهمة مكتوب في تأكيد المهمة، والاستوديو بيدفع خلال ٤٨ ساعة من موافقة العميل. إعادة التصوير بسبب صانع المحتوى مجانية، وبسبب تغيير العميل بتتدفع بـ٥٠٪.
