@@ -2,6 +2,8 @@
 
 **Status, Tue Nov 17:** research done; 94 prospects and 6 creator platforms in the CRM; 71 outreach messages drafted (editing-only jobs set aside). **Nothing has been sent, no deals, no revenue yet.**
 
+**How we got here:** every decision from Nov 15–17, and why, is in [docs/00-session-log.md](docs/00-session-log.md).
+
 **Work from these two links (both private to you):**
 - **Launch HQ page**, phone-friendly, with copy buttons for every top-30 message: https://claude.ai/artifact/8H4xJs28pTWZxocBQUGHAW
 - **CRM Google Sheet "T Studio CRM"** (your live tracker): https://docs.google.com/spreadsheets/d/1ZFc6ZsEfIY8zdxbtppggHs5MAA2vIeqfk7vwN4soW_8/edit
@@ -23,6 +25,7 @@ Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minute
 | [crm/top30.md](crm/top30.md) | The 30 best leads, ranked, each with facts, a video idea, a price and a ready message |
 | [crm/UGC-CRM.xlsx](crm/UGC-CRM.xlsx) | Workbook: Dashboard (the 8 money stages), Leads, Top 30, Pipeline, Daily, Revenue Ledger, Creators, Packages, Hunting Links |
 | `crm/*.csv` | The same sheets as CSV (UTF-8; Arabic intact) |
+| [docs/00-session-log.md](docs/00-session-log.md) | Session record, Nov 15–17: timeline, decisions and why, problems and fixes, open items |
 | [docs/01-business-decision.md](docs/01-business-decision.md) | Why this model; studio name, handles and accounts |
 | [docs/02-offer-and-pricing.md](docs/02-offer-and-pricing.md) | Packages, who does what, rights, extras, creator costs, revenue math |
 | [docs/03-market-evidence.md](docs/03-market-evidence.md) | Prices, demand, platforms, sources; findings vs assumptions |
@@ -35,6 +38,7 @@ Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minute
 | [docs/10-studio-basics.md](docs/10-studio-basics.md) | 30-minute guide: hooks, what good filming and editing look like, how to explain the process |
 | `tools/leads_data.py`, `tools/build_crm.py` | Source of all lead data and the script that builds the CRM files |
 | `hq/launch-hq.html`, `tools/build_hq.py` | The Launch HQ page and the script that builds it from the same data |
+| [CLAUDE.md](CLAUDE.md) | Rules and build steps that any new Claude session reads first |
 
 ## Placeholders in messages
 
