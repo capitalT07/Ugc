@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>T Studio · Arabic UGC ads</title>
+<meta name="description" content="T Studio · إعلانات UGC بالعربي · القاهرة. Arabic UGC ads made by real creators in Cairo.">
+<style>
+:root{
+  --bg:#fbf8f3; --ink:#1d1b19; --muted:#6b645c; --line:#e7e0d5;
+  --card:#ffffff; --accent:#c8553d; --accent-ink:#ffffff; --soft:#f3ece2;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15130f; --ink:#f4efe7; --muted:#a79f95; --line:#2d2a24;
+    --card:#1e1b16; --accent:#e4704f; --accent-ink:#15130f; --soft:#221e18;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15130f; --ink:#f4efe7; --muted:#a79f95; --line:#2d2a24;
+  --card:#1e1b16; --accent:#e4704f; --accent-ink:#15130f; --soft:#221e18;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font-family:"Segoe UI",Tahoma,Arial,sans-serif;line-height:1.6;overflow-x:hidden}
+.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+header{padding:20px 0 8px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.brand{font-weight:800;letter-spacing:.2px}
+.brand small{display:block;font-weight:500;color:var(--muted);font-size:13px}
+nav a{color:var(--muted);text-decoration:none;font-size:14px;margin-inline-start:14px}
+.hero{padding:36px 0 28px}
+.hero h1{font-size:clamp(28px,6vw,44px);line-height:1.2;margin:0 0 12px}
+.hero p{font-size:17px;color:var(--muted);margin:0 0 6px}
+.en{direction:ltr;text-align:left;display:block;color:var(--muted);font-size:15px;margin-top:4px}
+.btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.btn{display:inline-block;padding:12px 18px;border-radius:999px;font-weight:700;text-decoration:none;border:1px solid var(--accent);font-size:15px}
+.btn.primary{background:var(--accent);color:var(--accent-ink)}
+.btn.ghost{color:var(--ink);border-color:var(--line);background:var(--card)}
+.btn[aria-disabled="true"]{opacity:.7;cursor:default}
+.note{font-size:13px;color:var(--muted);margin-top:8px}
+section{padding:28px 0;border-top:1px solid var(--line)}
+h2{font-size:22px;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 16px;font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+@media (min-width:640px){.grid{grid-template-columns:repeat(3,1fr);gap:14px}}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;min-height:150px;display:flex;flex-direction:column;justify-content:space-between}
+.tile .tag{font-size:11px;color:var(--muted);border:1px dashed var(--line);border-radius:999px;padding:2px 8px;align-self:flex-start}
+.tile .hook{font-size:16px;font-weight:700;margin:10px 0 6px}
+.tile .en-hook{direction:ltr;text-align:left;font-size:13px;color:var(--muted);margin:0}
+.steps{display:grid;gap:10px;counter-reset:s}
+@media (min-width:640px){.steps{grid-template-columns:repeat(3,1fr)}}
+.step{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.step b{display:block;color:var(--accent);font-size:14px;margin-bottom:4px}
+.step p{margin:0;font-size:15px}
+.step .en{margin-top:6px}
+.pkgs{display:grid;gap:10px}
+@media (min-width:640px){.pkgs{grid-template-columns:repeat(3,1fr)}}
+.pkg{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.pkg h3{margin:0 0 4px;font-size:18px}
+.pkg .price{font-size:20px;font-weight:800;margin:6px 0}
+.pkg .price small{font-size:13px;color:var(--muted);font-weight:500}
+.pkg ul{margin:8px 0 0;padding-inline-start:18px;font-size:14px;color:var(--muted)}
+.creator-box{background:var(--soft);border:1px solid var(--line);border-radius:16px;padding:20px}
+footer{padding:28px 0 40px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+footer a{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="brand">تي ستوديو · T Studio<small>Arabic UGC ads · Cairo</small></div>
+  <nav><a href="#creators">للـ Creators</a><a href="#brands">للبراندات</a></nav>
+</header>
+
+<div class="hero">
+  <h1>إعلانات UGC بالعربي، بصوت الناس الحقيقي</h1>
+  <p>صانع محتوى حقيقي بيصوّر ويعمل المونتاج، وإحنا بنكتب السكريبت والهوكات ونراجع كل فيديو قبل ما يوصلك.</p>
+  <span class="en">Arabic UGC ads from real creators who film and edit. We write the script and hooks, and check every video before you get it.</span>
+  <div class="btns">
+    <a class="btn primary" href="#creators">أنا صانع محتوى</a>
+    <a class="btn ghost" href="#brands">عايز إعلان لبراندي</a>
+  </div>
+  <p class="note">I'm a creator · I'm a brand</p>
+</div>
+
+<section id="work">
+  <h2>شغل من الاستوديو</h2>
+  <p class="sub">Work from the studio</p>
+  <div class="grid">
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">دقني كانت ناشفة وبتهرش… فجربت ده لأول مرة قدامكم</p><p class="en-hook">My beard was dry and itchy, so I tried this for the first time on camera.</p></div></div>
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">طلبت من براند مصري… وده اللي وصلني</p><p class="en-hook">I ordered from a local brand. This is what showed up.</p></div></div>
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">لو بتروح الجيم ومش عارف هتعمل إيه النهارده… شوف دي</p><p class="en-hook">If you walk into the gym with no plan, watch this.</p></div></div>
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">بحط برفان كل يوم… ومحدش عمره قالي ريحتك حلوة</p><p class="en-hook">I wear perfume every day and nobody has ever complimented it.</p></div></div>
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">POV: الساعة ٦:٣٠ الصبح في القاهرة</p><p class="en-hook">POV: 6:30 am in Cairo.</p></div></div>
+    <div class="tile"><span class="tag">Concept ad · not sponsored</span><div><p class="hook">أصعب ٣ اختبارات لأي لبس جيم</p><p class="en-hook">The 3 hardest tests for any gym wear.</p></div></div>
+  </div>
+  <p class="note">كل الفيديوهات دي تجريبية، مش إعلانات لأي براند. Every video here is a test piece, not an ad for any brand.</p>
+</section>
+
+<section>
+  <h2>إزاي الشغل بيشتغل</h2>
+  <p class="sub">How it works</p>
+  <div class="steps">
+    <div class="step"><b>1 · إنت بتبعت</b><p>المنتج والهدف والجمهور.</p><span class="en">You send the product, the goal and the audience.</span></div>
+    <div class="step"><b>2 · صانع المحتوى بيصوّر ويعمل المونتاج</b><p>بسكريبت وهوكات جاهزين من عندنا.</p><span class="en">A creator films and edits from our script and hooks.</span></div>
+    <div class="step"><b>3 · بنراجع قبل ما توصلك</b><p>كل فيديو بيتراجع قبل التسليم.</p><span class="en">We check every video before you get it.</span></div>
+  </div>
+</section>
+
+<section id="packages">
+  <h2>الباقات</h2>
+  <p class="sub">Packages · prices for Egyptian clients in EGP, dollar clients in USD</p>
+  <div class="pkgs">
+    <div class="pkg"><h3>Starter</h3><div class="price">من EGP 3,500 <small>/ من $120</small></div><ul><li>فيديو واحد، ١٥–٤٥ ثانية</li><li>سكريبت، مونتاج، كابشن، هوك واحد</li><li>مراجعة واحدة</li></ul></div>
+    <div class="pkg"><h3>Creative Test</h3><div class="price">من EGP 9,000 <small>/ من $330</small></div><ul><li>٣ فيديوهات، ٣ أفكار مختلفة</li><li>هوكات متعددة</li><li>استخدام إعلاني ٣٠ يوم</li></ul></div>
+    <div class="pkg"><h3>Content Sprint</h3><div class="price">من EGP 14,000 <small>/ من $520</small></div><ul><li>٥ فيديوهات + ٥ هوكات بديلة</li><li>١٠ نسخ إعلانية</li><li>الدفع على مرحلتين</li></ul></div>
+  </div>
+  <p class="note">الأسعار تقريبية وبتتأكد مع كل طلب. Prices are indicative and confirmed per order. No results are guaranteed.</p>
+</section>
+
+<section id="creators">
+  <div class="creator-box">
+    <h2>لصنّاع المحتوى</h2>
+    <p class="sub">For creators · بتصوّر وبتعمل المونتاج؟ ابعتلنا.</p>
+    <p>ابعتلنا نماذج من شغلك، ولهجتك، وسعرك للفيديو. بنرشّح ونبعت لك الشغل مع البريف.</p>
+    <span class="en">Send us samples of your work, your dialect and your price per video. We'll shortlist and send you the brief.</span>
+    <div class="btns"><a class="btn primary" aria-disabled="true" href="#">قريباً · Coming soon</a></div>
+  </div>
+</section>
+
+<section id="brands">
+  <h2>للبراندات</h2>
+  <p class="sub">For brands · عايز تبدأ؟</p>
+  <p>قولنا المنتج وهدفك، ونرجعلك بعرض وخطة.</p>
+  <span class="en">Tell us the product and your goal, and we'll come back with a quote and a plan.</span>
+  <div class="btns"><a class="btn primary" aria-disabled="true" href="#">قريباً · Coming soon</a></div>
+</section>
+
+<footer>
+  <p>تي ستوديو · T Studio · Arabic UGC ads</p>
+  <p>Instagram <span dir="ltr">@tstudioo.ugc</span> · TikTok <span dir="ltr">@tstudio_ugc</span></p>
+  <p>أي فيديو فيه ذكاء اصطناعي بيتعلّم بوضوح · Any AI-generated footage is labelled as AI.</p>
+</footer>
+
+</div>
+</body>
+</html>

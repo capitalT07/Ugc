@@ -38,6 +38,7 @@ Also today: read [docs/10-studio-basics.md](docs/10-studio-basics.md) (30 minute
 | [docs/08-six-day-plan.md](docs/08-six-day-plan.md) | Day-by-day plan with targets, your tasks and mine |
 | [docs/09-creator-roster.md](docs/09-creator-roster.md) | Recruiting creators who film and edit, audition, scorecard, pay, concept-ad swap, release (EN/AR), production brief |
 | [docs/10-studio-basics.md](docs/10-studio-basics.md) | 30-minute guide: hooks, what good filming and editing look like, how to explain the process |
+| [site/index.html](site/index.html) | T Studio landing page: creators first, then businesses; Arabic and English; concept ads only, labelled |
 | [docs/11-ai-video-prompts.md](docs/11-ai-video-prompts.md) | Optional: Higgsfield prompts for AI product clips (no AI people, labelled AI), cost, how to use |
 | `tools/leads_data.py`, `tools/build_crm.py` | Source of all lead data and the script that builds the CRM files |
 | `hq/launch-hq.html`, `tools/build_hq.py` | The Launch HQ page and the script that builds it from the same data |

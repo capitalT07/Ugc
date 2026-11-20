@@ -89,6 +89,12 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Chosen:** the same layout everywhere: **Capital T → T Studio**. Drive: folders "Capital T" and "T Studio", with the "T Studio CRM" sheet moved in (same link, nothing copied). Repo: every T Studio file under `Capital T/T Studio/`; `CLAUDE.md` and a Capital T README stay at the top. Claude: I can't create Claude projects, so [claude-project-instructions.md](../../claude-project-instructions.md) holds the text for you to paste into a project named Capital T.
 - **Why:** later businesses get their own folder next to T Studio without mixing files.
 
+### 10. Landing page: creators first, defaults chosen for you
+
+- **You said:** you want a page that gets creators to make videos for businesses. You don't have time to choose the details, and the client's look isn't yours to decide.
+- **Chosen:** creators first, businesses second. A light, Arabic-first page with English under each heading. Proof is concept ads only, each labelled "Concept ad · not sponsored", since there's no client work yet. Packages from [02](02-offer-and-pricing.md). Contact buttons read "Coming soon" until the Gmail and WhatsApp Business number exist. No copied look or logos from other studios.
+- **Why:** creators are the bottleneck, so the first button is for them; showing no fake results keeps the rules.
+
 ### 9. Skills added: Higgsfield prompts and last30days, without fake AI people
 
 - **You asked:** to read two public skill packs (higgsfield-claude-skills and last30days), put them in the project and use them.
@@ -127,6 +133,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | 19:18 | Move T Studio into Capital T/T Studio |
 | 19:53 | Add Higgsfield prompt skills and last30days research skill |
 | 19:57 | Record T Studio's TikTok and Instagram handles |
+| 11:40 (Nov 20) | You asked for a page to bring in creators for businesses, and said you can't choose the details while driving. I chose the defaults (decision 10) and built `site/index.html`. |
 
 ## Research and its limits
 
