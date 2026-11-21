@@ -75,18 +75,23 @@ Only 1 review has a reservation ("needs to be longer"). Public reviews are mostl
 
 ## 5. Competitors
 
+Full table and sources: [02-competitors.md](02-competitors.md).
+
 - **Direct (managed UGC for brands):**
-  - Cairo agencies such as Udjat;
-  - creator platforms UGC MENA (brands pay a 15% or 25% fee), Stllr, Arabic Creators and Collabstr;
-  - Dubai UGC agencies such as Hypebox (500+ creators), Starfish, OneHub and Webtonic ([03 §2](../docs/03-market-evidence.md#2-demand)).
+  - Stllr: Riyadh platform; claims 5,000–7,000+ creators.
+  - UGC MENA: brands pay a 15% or 25% fee.
+  - Arabic Creators: reported 20% commission.
+  - Collabstr: Cairo creators at $50–300.
+  - influUGC: Giza agency serving Egypt and Saudi Arabia, **the closest local rival**.
+  - Dubai agencies such as Hypebox (projects from about $1,000).
+  - Fiverr "Arabic UGC agency" sellers ($50–200 a video).
 - **Indirect (same problem, different solution):**
-  - hiring a creator directly on Khamsat or Mostaql ($5–90 starting price);
+  - hiring a creator directly on Khamsat ($5–90 starting price) or Mostaql (projects budgeted at $50–250);
   - influencers;
   - the brand's own staff filming on a phone;
-  - an in-house content creator hire;
-  - AI UGC tools at $39–110 a month ([03 §1](../docs/03-market-evidence.md#1-prices)).
-- **Biggest threat:** the brand hiring the same creator directly, cheaper. T Studio must be worth more than the price difference.
-- **Full comparison:** in [02-competitors.md](02-competitors.md) (this week).
+  - an in-house hire;
+  - AI video, which is rising on Mostaql but crowded.
+- **Biggest threat:** the brand hiring a creator directly, cheaper. "We do UGC" is not a difference by itself.
 
 ## 6. Differentiation (three hypotheses, no proof yet)
 
@@ -177,3 +182,5 @@ Skipped: T Studio doesn't run its own ads.
 | 2026-11-21 | Edited UGC within $35 is rare on Khamsat: 1 of 9 listings checked; most "starting from" prices cover raw footage | observed | [03 §9](../docs/03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17) | proposed | after creator replies give real prices |
 | 2026-11-21 | Khamsat UGC buyers mostly praise professionalism, quality and speed; scripts and ideas are rarely mentioned (3%) | observed (keyword count, 176 reviews) | Khamsat public reviews; method in [02-competitors.md](02-competitors.md) | proposed | after interviews |
 | 2026-11-21 | Nothing was sent Nov 17–21 and no buyer has been asked what they need | observed | CRM sheet unedited since Nov 17 | proposed | after the first interviews |
+| 2026-11-21 | Mostaql UGC projects run at about one every two days, budgeted $50–250; human-creator requests lean Saudi dialect; AI video requests draw the most bids | observed (11 projects, Nov 2–21) | [02 §D](02-competitors.md#d-demand-signals-first-pass-nov-21) | proposed | after a second sample next week |
+| 2026-11-21 | Managed Arabic UGC already exists (Stllr, UGC MENA, influUGC, Fiverr studios), so T Studio needs a narrower angle; G1 (Egyptian-dialect, ad-ready, scripted) and G2 (creative supply for agencies) lead | inferred | [02 §C, §E](02-competitors.md#e-early-read-where-t-studio-could-be-different-hypotheses-for-the-interviews-not-decisions) | proposed | after interviews |

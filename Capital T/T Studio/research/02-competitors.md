@@ -57,29 +57,66 @@ That gap is where a studio could add value. It's a hypothesis until buyers confi
 
 Verbatim quotes are in [00-context.md §9](00-context.md#9-voice-of-the-customer-verbatim).
 
-## C. Direct competitors: managed UGC for brands (to fill this week)
+## C. Direct competitors: managed UGC for brands (first pass Nov 21)
 
-For each, record:
-- who they serve;
-- what they sell;
-- their price, or "not published";
-- their promise;
-- their proof (portfolio, clients, reviews);
-- where they're weak.
+**Map axes:** self-serve ↔ full service, and cheap ↔ premium. Prices are as published or reported; "n/p" means not published.
 
-The two map axes, per the skill: self-serve ↔ full service, and cheap ↔ premium.
+| Rival | Type | Serves | Offer and price | Promise or proof | Weakness or open question | Source (checked Nov 21 unless noted) |
+|---|---|---|---|---|---|---|
+| **Stllr** | AI-assisted creator marketplace, Riyadh, seed-funded | Brands in Saudi Arabia, UAE, Egypt, Morocco | Brand pricing n/p (demo on request) | Matches creators "within 24 hours", approvals, AI variants; claims 5,000–7,000+ creators and 100+ brands (self-reported) | Saudi-centred; self-serve platform, so the brand still writes the brief | [App Store](https://apps.apple.com/us/app/stllr-network-for-creators/id6446048987), [CB Insights](https://www.cbinsights.com/company/stllr), [Liners](https://liners.com/stllr-network) |
+| **UGC MENA** | Creator marketplace | MENA brands | Brands pay 15% (self-serve) or 25% (managed) on top of the creator's price | 450+ creators (own claim) | New company (formed Sept 2026); payout record unproven | [03 §2–3](../docs/03-market-evidence.md#2-demand) (Nov 15) |
+| **Arabic Creators** | Influencer and UGC marketplace | MENA brands | Platform commission reported as 20% (unverified) | n/p | n/p | [03 §2](../docs/03-market-evidence.md#2-demand) (Nov 15); a machine-readable catalog dated June 2026 |
+| **Collabstr** | Global marketplace | Brands worldwide | Cairo creators list $50–300 per video; one report puts the marketplace's average asking price at $180 and average payout at $154 (secondary source) | 36–49 UGC creators listed in Egypt and Cairo | Self-serve; quality varies by creator | [Collabstr Cairo list](https://collabstr.com/top-influencers/user-generated-content/in/egypt/cairo) |
+| **influUGC** | Creative and media agency, Giza (founded 2020) | Egypt and Saudi Arabia | UGC campaigns, influencer marketing, performance marketing, AI video; quote-based | No named clients found | **The closest local rival to T Studio's model.** Check its site and offer this week | [Clutch](https://clutch.co/profile/influugc), [SaaSworthy](https://www.saasworthy.com/product/influugc) |
+| **Hypebox** | Dubai UGC agency | GCC brands | Projects from about $1,000; hourly rates listed at $25–99 (sources disagree) | 500+ creators (own claim) | Premium end; Dubai-based | [Clutch](https://clutch.co/profile/hypebox), [DesignRush](https://www.designrush.com/agency/profile/hypebox) |
+| **"Arabic UGC agency" sellers on Fiverr** | Freelance studios | Brands worldwide | Mostly $50–200 per video; $200–600 for bigger packages; one offers "300+ Arabic actors" | Fiverr reviews; one Fiverr Pro vetted seller | Delivery 6 days to 3 weeks; mostly not Egyptian-dialect specialists | [Example gig](https://www.fiverr.com/reda_ugc_video/create-ugc-video-ads-in-arabic-with-300-human-actors) (search snippets) |
+| **Udjat** | General digital agency (6th of October / Alexandria; sources disagree) | Egyptian and Gulf clients | No UGC service listed in directories, though it has a page about UGC creators in Cairo; pricing n/p | Sparse reviews | Probably not a UGC specialist | [Sortlist](https://www.sortlist.com/agency/udjat-agency), [Clutch](https://clutch.co/profile/udjat-agency-1) |
 
-| Rival | Type | Serves | Offer and price | Promise | Proof | Gap or weakness | Source and date |
-|---|---|---|---|---|---|---|---|
-| UGC MENA | Creator marketplace | Brands in MENA | Brands pay a 15% (self-serve) or 25% (managed) fee ([03 §3](../docs/03-market-evidence.md#3-platforms-and-payouts)) | `[REAL DATA NEEDED]` | 450+ creators (its own claim) | `[REAL DATA NEEDED]` | ugcmena.com, Nov 15 |
-| Udjat | Cairo agency | `[REAL DATA NEEDED]` | `[REAL DATA NEEDED]` | | | | |
-| Arabic Creators | Marketplace | | | | | | |
-| Stllr | App marketplace | KSA, UAE, Egypt brands | | | | | |
-| Collabstr | Global marketplace | | Arabic creators from $120 (30 s) | | | | |
-| Hypebox, Starfish, OneHub, Webtonic | Dubai UGC agencies | GCC brands | | | | | |
+**Read so far:** T Studio wouldn't be the first to offer "managed Arabic UGC".
+- **Platforms** (Stllr, UGC MENA, Arabic Creators) offer scale and self-service, mostly Saudi-centred.
+- **A local agency** (influUGC) offers a full service in Egypt and Saudi Arabia.
+- **Hundreds of freelancers** on Khamsat, Fiverr and Collabstr sell single videos for $25–300.
 
-## D. Demand signals (to fill this week)
+So "we do UGC" isn't a difference. The angle must be narrower; see §E.
 
-- **Mostaql projects:** what Arab businesses post, their budgets, dialects and deadlines. The site was allowed on Nov 21.
-- **Wuzzuf job posts:** Egyptian companies hiring content creators or video editors in-house, and the salaries shown. This prices the in-house alternative.
-- **Khamsat buyer requests:** what buyers ask for when no listing fits.
+## D. Demand signals (first pass Nov 21)
+
+**Mostaql projects found by a "UGC" search, published Nov 2–21, 2026** (11 projects, all open when checked):
+
+| Project | Published | Budget shown | Bids | What they want |
+|---|---|---|---|---|
+| [1294489](https://mostaql.com/project/1294489) | Nov 21 | $500 | 0 | Facebook and Instagram video ads for the US market (children's books) |
+| [1294286](https://mostaql.com/project/1294286) | Nov 20 | $100 / month, renewable | 8 | UGC creator in Saudi or Syrian dialect or English; they write the script; services, not products |
+| [1294206](https://mostaql.com/project/1294206) | Nov 20 | $250 for 4 videos | 3 | Saudi-dialect creator, **raw footage only**; the buyer edits |
+| [1294148](https://mostaql.com/project/1294148) | Nov 19 | $100 | 14 | Marketing for a new care e-store, including "UGC ideas" and coordinating female creators |
+| [1293936](https://mostaql.com/project/1293936) | Nov 18 | $50 | 21 | **AI** UGC in Egyptian dialect (a tradesman and a customer) for a paid ad |
+| [1293203](https://mostaql.com/project/1293203) | Nov 15 | $250 | 22 | AI video creator for ads |
+| [1292588](https://mostaql.com/project/1292588) | Nov 12 | $250 | 25 | AI video creator for a marketing team |
+| [1291853](https://mostaql.com/project/1291853) | Nov 9 | $50 | 6 | Arab UGC creators for an education academy; any dialect, including Egyptian |
+| [1286248](https://mostaql.com/project/1286248) | Nov 8 | $250 / 30 days | 24 | Social media and ads for an app targeting Saudi Arabia |
+| [1290535](https://mostaql.com/project/1290535) | Nov 3 | $250 / 14 days | 15 | TikTok ads media buyer for a Saudi store on Salla |
+| [1290155](https://mostaql.com/project/1290155) | Nov 2 | $50 | 8 | Female UGC creator for consumer products, ongoing, 30–45 s, filmed on a phone |
+
+**What the Mostaql projects show:**
+- About one new UGC-related project every two days.
+- Budgets are $50–250, with one at $500.
+- Human-creator requests lean towards Saudi dialect.
+- 3 of 11 ask for AI video, and those draw the most bids (21–25).
+- Buyers often write their own script or do the editing themselves.
+
+**Other signals:**
+- **Khamsat buyer requests** ([board](https://khamsat.com/community/requests), snapshot Nov 21, about 16:50 Cairo time): 3 of the latest 25 requests involve video (short-video editing, an ad for a website, "trending videos for a product" for $15).
+- **In-house hire cost:** Wuzzuf blocks automated visits, so salaries came from PayScale. It gives Egyptian film and video editor averages of about E£54,000 (mid-career E£69,000), but the page doesn't make clear whether that's monthly or yearly ([PayScale](https://www.payscale.com/research/EG/Job=Film_%2F_Video_Editor/Salary)). Low confidence: `[REAL DATA NEEDED]` from interviews (question 1).
+
+## E. Early read: where T Studio could be different (hypotheses for the interviews, not decisions)
+
+Each gap is scored the way the 08 skill asks: how attractive (money, recurring need) × how doable for T Studio now.
+
+| Gap | Why it might exist | Attractive | Doable now | Test in interviews |
+|---|---|---|---|---|
+| **G1. Ad-ready videos in Egyptian dialect, with scripts written to sell**, for Egyptian brands that run paid ads | Freelancers mostly sell raw footage; the big platforms are Saudi-centred; buyers on Mostaql write their own scripts | Medium (Egyptian budgets are lower) | High | Do brands struggle with scripts and ideas, or only with finding people? |
+| **G2. A creative-testing supply for performance agencies** (Arabic, white-label, several hooks per ad, every week) | Agencies need volume and reliability; Dubai agencies are premium; Mostaql shows managed-marketing demand | High (recurring, agencies have budgets) | Medium | Do Cairo agencies buy outside creative today, how often, and at what price? |
+| **G3. Gulf-dialect UGC for Gulf brands** | The strongest dialect demand on Mostaql, and Saudi dialect sells at a premium on Khamsat | High | Low (hard to find Saudi-dialect creators from Egypt) | Skip unless interviews point to it |
+| **G4. AI video** | Rising demand on Mostaql (3 of 11) | Low (crowded, $50–250, 21–25 bids) | Medium | Only as labelled product clips; never AI people as customers |
+
+**For now, G1 and G2 lead.** The interviews (brands for G1, agencies for G2) should tell us which, or whether neither holds.
