@@ -202,22 +202,22 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
     <span><b>__DRAFTED__</b>messages drafted</span>
     <span><b>0</b>sent</span>
     <span><b>$0</b>collected</span>
-    <span class="asof">as of Tue 17 Nov · live numbers are in the sheet</span>
+    <span class="asof">as of Sat 21 Nov · research week · live numbers are in the sheet</span>
   </div>
 
   <div class="cols">
     <div class="rail">
       <section aria-labelledby="h-today">
-        <h2 id="h-today">Today's three actions <small>TUE 17 NOV</small></h2>
+        <h2 id="h-today">Today's three actions <small>RESEARCH WEEK · NOV 22–28</small></h2>
         <ol class="steps">
-          <li><strong>Find creators who film and edit</strong><span class="time">30 min</span>
-            <p>You don’t need to know anyone. On Khamsat’s UGC videos category, shortlist 8–10 Egyptian creators and message the best 5 through Khamsat. Their samples are the audition. <a href="https://khamsat.com/video-design/ugc-videos" target="_blank" rel="noopener">Khamsat UGC videos</a> · <a href="__BLOB__/docs/09-creator-roster.md#hiring-on-khamsat" target="_blank" rel="noopener">Checklist and message</a></p></li>
-          <li><strong>Set up T Studio</strong><span class="time">40 min</span>
-            <p>Instagram @tstudioo.ugc and TikTok @tstudio_ugc are created ✅, the Gmail Tstudio.eg@gmail.com is made ✅ and InstaPay receiving works ✅; still to do: profile photo and bio on both, WhatsApp Business with the 3 packages when it works again (<a href="__BLOB__/docs/01-business-decision.md#whatsapp-business-copy-and-paste" target="_blank" rel="noopener">text to paste</a>), and ask your bank whether your Banque Misr Visa can pay in dollars on Khamsat.</p></li>
-          <li><strong>Send the first batch</strong><span class="time">1.5 h</span>
-            <p>Leads 1–12 below (tap “Today’s batch”). Fill in the highlighted parts, approve, send, then set each to <em>Sent</em> in the sheet’s Pipeline tab.</p></li>
+          <li><strong>Send the buyer interviews</strong><span class="time">30 min</span>
+            <p>Pick 10–12 people, approve the message, send it yourself. Questions, not a pitch. <a href="__BLOB__/research/01-interview-kit.md" target="_blank" rel="noopener">Interview kit</a></p></li>
+          <li><strong>Message the 5 Khamsat creators</strong><span class="time">15 min</span>
+            <p>Through Khamsat only; don’t order anything. Their prices and answers feed the research. <a href="__BLOB__/docs/09-creator-roster.md#hiring-on-khamsat" target="_blank" rel="noopener">Message</a></p></li>
+          <li><strong>Send every reply to Claude</strong><span class="time">5 min each</span>
+            <p>Paste or screenshot each answer. One polite follow-up after 2 days to anyone silent.</p></li>
         </ol>
-        <p class="also">Also today: read the <a href="__BLOB__/docs/10-studio-basics.md" target="_blank" rel="noopener">30-minute studio basics guide</a>, and send applications 14, 19, 20, 25 and 30 if they're still open. You don’t film or edit: creators do, and you check every video.</p>
+        <p class="also">Brand sales messages are paused until the decision on Sat 28 Nov, so the leads and six-day sheet below are for reference and for choosing who to interview. When you have time: finish both profiles (bio with Tstudio.eg@gmail.com), ask your bank whether your Banque Misr Visa pays in dollars, and read the <a href="__BLOB__/docs/10-studio-basics.md" target="_blank" rel="noopener">studio basics guide</a>.</p>
         <div class="rules">
           <strong>Before any message goes out</strong>
           <ul>

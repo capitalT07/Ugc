@@ -6,11 +6,11 @@ Guidance for Claude sessions in this repository.
 
 This repo is **Capital T**, the owner's group of businesses ("T" stands for Tahan). Each business has its own folder under `Capital T/`; the top-level `README.md` lists them. The same layout is used in Google Drive (folder "Capital T", one subfolder per business) and for the owner's Claude project "Capital T" (text in `Capital T/claude-project-instructions.md`). A new business gets its own folder next to T Studio.
 
-The first business is **T Studio**, in `Capital T/T Studio/`. Paths below are relative to that folder unless they start with `Capital T/`. Before doing anything, read its `README.md` (status and today's actions), `docs/00-session-log.md` (what was decided and why) and `docs/08-six-day-plan.md` (the day-by-day plan).
+The first business is **T Studio**, in `Capital T/T Studio/`. Paths below are relative to that folder unless they start with `Capital T/`. Before doing anything, read its `README.md` (status and today's actions), `docs/00-session-log.md` (what was decided and why), `research/00-context.md` (the T Studio context the research skills read) and `docs/08-six-day-plan.md` (the day-by-day plan, on hold during the research week).
 
 ## T Studio
 
-T Studio is an Arabic-first UGC ad studio in Cairo, launched on Nov 17, 2026. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, 2026, counted only when the money reaches the owner's account.
+T Studio is an Arabic-first UGC ad studio in Cairo, launched on Nov 17, 2026. First goal: $1,000 (stretch $2,000) by Sunday Nov 22, 2026, counted only when the money reaches the owner's account. On Nov 21 the owner dropped that date for a research week (Nov 22–28): brand sales messages are paused, the Khamsat creators and 8–12 buyer interviews go ahead, and the offer is kept, narrowed or changed on Sat Nov 28. Research files are in `research/`.
 
 - **The owner** sells, casts creators, briefs them, checks every video, and handles clients and money. They are not on camera, and their personal TikTok is not used for the business.
 - **Creators** film and edit each video. The owner knows no creators personally, so most are hired on Khamsat's UGC videos category (messages, orders and payment only through Khamsat, about $25–35 a video; buy there, never list services there, because its terms stop sellers from passing orders to other sellers); others come from Instagram, TikTok or Collabstr. They are paid per finished video (EGP 1,000–2,000) out of the client's payment, never before the client pays, and never asked for free videos.
@@ -48,7 +48,8 @@ Never edit `crm/` or `hq/` by hand; rebuilding overwrites them. The only placeho
 - **Higgsfield prompt skills** (`01-…` to `15-…`) write prompts for Higgsfield's Seedance 2.0 and Soul 2.0. `higgsfield-image-auto` and `seedance-auto-generate` drive higgsfield.ai through the Playwright MCP, only on the owner's computer, logged in by the owner. T Studio's prompts are in `docs/11-ai-video-prompts.md`.
 - **AI clip rules:** only product shots, b-roll and backgrounds, made from a real photo of the real product, and labelled `AI-generated`. Never an AI person shown as a customer or reviewer. `ugc-hot-girl` and `ugc-video-auto` were left out on purpose; don't add them back. The source has no licence, so keep the copy private.
 - **last30days** (MIT): a 30-day research engine. Run it with `--no-browser-cookies`, and never accept its browser-cookie or Reddit-session offers. Add API keys only if the owner chooses to, through the credential form. From the cloud environment it found nothing on Nov 17 (Reddit, Hacker News and its keyless web search were blocked); use web search instead.
-- Source, commits and details: `.claude/skills/HIGGSFIELD-NOTES.md`.
+- **Research skills from ai-business-skills** (MIT): `product-marketing-context-global`, `09-customer-insight-global`, `08-competitor-research-global`, `58-positioning-global`, `31-offer-design-global`. They read `.agents/product-marketing-context-global.md`, which points to `Capital T/T Studio/research/00-context.md`. The pack's root `CLAUDE.md`, `.mcp.json` and installers were left out on purpose; see `.claude/skills/AI-BUSINESS-SKILLS-NOTES.md`.
+- Source, commits and details for Higgsfield and last30days: `.claude/skills/HIGGSFIELD-NOTES.md`.
 
 ## Environment and git
 

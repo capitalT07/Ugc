@@ -1,5 +1,7 @@
 # Six-day plan: Tue Nov 17 – Sun Nov 22, 2026
 
+> **On hold since Sat Nov 21.** You chose a research week (Nov 22–28) before selling: see [research/](../research/01-interview-kit.md) and decision 11 in the [session log](00-session-log.md#11-a-research-week-before-selling-nov-2228). This plan resumes, or is replaced, after the decision on Sat Nov 28.
+
 **Your job each day:** sell, recruit and brief creators, check their videos, handle clients and money. Creators film and edit; I write scripts, hooks, briefs and messages.
 
 Egypt's weekend is **Friday–Saturday**, so Egyptian brands are pitched Tue–Thu and Sunday; Friday and Saturday go to agencies abroad, Upwork, Gulf clients and quality checks. Targets are in the **Daily** sheet; money goes in the **Revenue Ledger**; lead status in **Pipeline**.
