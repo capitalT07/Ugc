@@ -7,7 +7,7 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Goal:** collect $1,000 (stretch $2,000) by Sunday Nov 22, 2026 from an online service business. Money counts only when it reaches your account.
 - **Business:** T Studio, an Arabic-first UGC ad studio in Cairo. You sell, cast creators, brief them and check every video; creators film and edit; I write the scripts and hooks.
 - **Built:** 94 researched prospects and 6 creator platforms, 71 drafted messages, a ranked top 30, three packages, ten guides, a CRM (repo files and a Google Sheet) and the Launch HQ page.
-- **Status on Sat Nov 21, 16:50:** research week (Nov 22–28) before selling. Brand sales messages are paused and the $1,000-by-Nov-22 goal is dropped. T Studio's TikTok, Instagram, Gmail and landing page exist; InstaPay receiving works; WhatsApp Business is waiting. Nothing has been sent: no replies, no deals, $0 collected as far as I know.
+- **Status on Sat Nov 21, 17:00 (paused):** research week (Nov 22–28) before selling. Brand sales messages are paused and the $1,000-by-Nov-22 goal is dropped. T Studio's TikTok, Instagram, Gmail and landing page exist; InstaPay receiving works; WhatsApp Business is waiting. Nothing has been sent: no replies, no deals, $0 collected as far as I know.
 - **Next:** approve and send the buyer interviews and the 5 Khamsat creator messages ([interview kit](../research/01-interview-kit.md)); paste replies to me as they arrive; decision on Sat Nov 28 ([README](../README.md#todays-three-actions)).
 
 ## Timeline
@@ -45,7 +45,8 @@ The record of the first working session on T Studio: what you asked for, what we
 | 08:29 | You gave the T Studio Gmail and confirmed InstaPay receiving works. WhatsApp Business is waiting (a WhatsApp problem). You don't know if your Banque Misr Visa pays in dollars. I turned the landing page buttons into email links and kept your InstaPay address out of the repo. |
 | ~16:10 | You said you'd rushed into T Studio and wanted to research what the market needs, how to provide it and how to be different, using the ai-business-skills pack, and asked whether UGC is a service that solves a problem. An agent read the pack's research skills; you chose a research week of about 7 days, creators still messaged, brand sales paused (the Sunday goal dropped) and 8–10 buyer interviews. Decision 11. |
 | 16:20–16:45 | Research day 1: five skills installed; `mostaql.com` and `wuzzuf.net` allowed after your approval (Wuzzuf then blocked automated visits). Committed: the T Studio context draft, the interview kit, 176 Khamsat buyer reviews coded by theme, 11 recent Mostaql UGC projects and a first competitor table ([research](../research/02-competitors.md)). |
-| ~16:50 | Status docs and Launch HQ switched to the research week (this update). |
+| 16:47 | Status docs and Launch HQ (version 8) switched to the research week. Commit at 16:47. |
+| ~17:00 | You asked whether the Capital T project can see this chat. It can't: chats are separate. What it can use is saved in the repo and Drive. I listed five files to add to its knowledge. You asked me to document this and pause; this update. |
 
 ## Decisions and why
 
@@ -156,6 +157,7 @@ The record of the first working session on T Studio: what you asked for, what we
 | Nov 21, 16:40 | Add research skills and start the T Studio research week |
 | 16:41 | Add the interview kit and the customer-insight log |
 | 16:45 | Research week day 1: competitors and demand signals |
+| 16:47 | Switch status docs and Launch HQ to the research week |
 
 ## Research and its limits
 
@@ -207,6 +209,7 @@ The record of the first working session on T Studio: what you asked for, what we
 ## Open items
 
 - **This week:** the research-week actions in the [README](../README.md#todays-three-actions); decision on Sat Nov 28.
+- **Optional:** add `README.md`, `docs/00-session-log.md`, `research/00-context.md`, `research/01-interview-kit.md` and `research/02-competitors.md` to the knowledge of your claude.ai project "Capital T" (the project can't see this chat), and again after big changes. No InstaPay address or people's names in project files.
 - **I need from you:** which 10–12 people to interview (pick from the kit), your OK on the interview messages, every reply from buyers and creators (paste or screenshot), whether your Banque Misr Visa pays in dollars, and when WhatsApp Business works again.
 - **When replies arrive, I will:** adjust messages and quotes, write the script and brief for each order, and update the CRM only with what really happened.
 - **Before applying to any project:** open its page and confirm it's still open.
