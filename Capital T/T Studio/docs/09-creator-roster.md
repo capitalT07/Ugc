@@ -72,6 +72,8 @@ Keep their usernames, links, prices and delivery times in the Creators tab of yo
 3. Their samples are the audition: never ask for a free video. The first paid order is the test.
 4. Send the [production brief](#production-brief-send-for-every-job) and the [release](#creator-release-and-work-agreement) in the order chat, and ask them to agree to the release there before filming.
 5. Khamsat guarantees an order for 14 days after delivery: check the video against the QA checklist in [07](07-delivery-workflow.md) before you accept it.
+6. Buy only: don't list services on Khamsat. Its terms stop sellers from taking orders and fulfilling them through another seller, and the penalty is account suspension ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)).
+7. Under Khamsat's terms the buyer owns the full rights to delivered work unless the listing or the agreement says otherwise before work starts. Ask the creator in the order chat to confirm nothing is reserved, then pass the video to your client under your agreement.
 
 ## Audition
 

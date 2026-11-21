@@ -7,8 +7,8 @@ The record of the first working session on T Studio: what you asked for, what we
 - **Goal:** collect $1,000 (stretch $2,000) by Sunday Nov 22, 2026 from an online service business. Money counts only when it reaches your account.
 - **Business:** T Studio, an Arabic-first UGC ad studio in Cairo. You sell, cast creators, brief them and check every video; creators film and edit; I write the scripts and hooks.
 - **Built:** 94 researched prospects and 6 creator platforms, 71 drafted messages, a ranked top 30, three packages, ten guides, a CRM (repo files and a Google Sheet) and the Launch HQ page.
-- **Status on Tue Nov 17, 20:05 (paused):** T Studio's TikTok `@tstudio_ugc` and Instagram `@tstudioo.ugc` are created. Nothing sent, no replies, no deals, $0 collected.
-- **Next, when you're back:** finish both profiles (display name, bio, logo, business account), message 5 creators on Khamsat, set up the Gmail and WhatsApp Business, check InstaPay and paying on Khamsat, and send leads 1–12 once you approve them ([README](../README.md#todays-three-actions)).
+- **Status on Sat Nov 21, 08:29:** T Studio's TikTok `@tstudio_ugc`, Instagram `@tstudioo.ugc` and Gmail (`Tstudio.eg@gmail.com`) exist, InstaPay receiving works, and the landing page is live (private link). Nothing is recorded as sent: the CRM sheet hasn't been edited since Nov 17. No replies, no deals, $0 collected as far as I know. WhatsApp Business is waiting on a WhatsApp problem.
+- **Next:** message the shortlisted creators on Khamsat, ask your bank whether the Banque Misr Visa pays in dollars, send leads 1–12 once you approve them, and update the sheet at 21:00 ([README](../README.md#todays-three-actions)).
 
 ## Timeline
 
@@ -92,7 +92,7 @@ The record of the first working session on T Studio: what you asked for, what we
 ### 10. Landing page: creators first, defaults chosen for you
 
 - **You said:** you want a page that gets creators to make videos for businesses. You don't have time to choose the details, and the client's look isn't yours to decide.
-- **Chosen:** creators first, businesses second. A light, Arabic-first page with English under each heading. Proof is concept ads only, each labelled "Concept ad · not sponsored", since there's no client work yet. Packages from [02](02-offer-and-pricing.md). Contact buttons read "Coming soon" until the Gmail and WhatsApp Business number exist. No copied look or logos from other studios.
+- **Chosen:** creators first, businesses second. A light, Arabic-first page with English under each heading. Proof is concept ads only, each labelled "Concept ad · not sponsored", since there's no client work yet. Packages from [02](02-offer-and-pricing.md). Contact buttons read "Coming soon" until the Gmail existed; on Nov 21 they became email links to `Tstudio.eg@gmail.com` (WhatsApp Business is waiting). No copied look or logos from other studios.
 - **Why:** creators are the bottleneck, so the first button is for them; showing no fake results keeps the rules.
 
 ### 9. Skills added: Higgsfield prompts and last30days, without fake AI people
@@ -134,6 +134,9 @@ The record of the first working session on T Studio: what you asked for, what we
 | 19:53 | Add Higgsfield prompt skills and last30days research skill |
 | 19:57 | Record T Studio's TikTok and Instagram handles |
 | 11:40 (Nov 20) | You asked for a page to bring in creators for businesses, and said you can't choose the details while driving. I chose the defaults (decision 10) and built `site/index.html`. |
+| ~08:00 (Nov 21) | You asked what to do. The sheet still showed nothing sent, so I set out a plan for the last day and said plainly that $1,000 by Sunday is very unlikely; the realistic target is the first paid order. |
+| ~08:10–08:30 | You asked to open Khamsat from here. It was blocked, so I asked to allow `khamsat.com` only; you approved. I read the human UGC listings and Khamsat's terms ([03](03-market-evidence.md#9-finding-creators-without-contacts-checked-nov-17)) and shortlisted five creators in chat. Their names stay out of the repo. |
+| 08:29 | You gave the T Studio Gmail and confirmed InstaPay receiving works. WhatsApp Business is waiting (a WhatsApp problem). You don't know if your Banque Misr Visa pays in dollars. I turned the landing page buttons into email links and kept your InstaPay address out of the repo. |
 
 ## Research and its limits
 
@@ -184,6 +187,6 @@ The record of the first working session on T Studio: what you asked for, what we
 ## Open items
 
 - **Today:** the three actions in the [README](../README.md#todays-three-actions), plus 30 minutes with [10](10-studio-basics.md).
-- **I need from you:** the T Studio Gmail (Instagram and TikTok are done), the bank or wallet that receives InstaPay, whether your card or PayPal can pay on Khamsat, the creators' replies, approval of each batch, and replies from creators and leads as they come in.
+- **I need from you:** whether your Banque Misr Visa can pay in dollars on Khamsat (ask the bank), when WhatsApp Business works again (its number then goes on the landing page), the creators' replies, approval of each batch, and replies from creators and leads as they come in.
 - **When replies arrive, I will:** adjust messages and quotes, write the script and brief for each order, and update the CRM only with what really happened.
 - **Before applying to any project:** open its page and confirm it's still open.

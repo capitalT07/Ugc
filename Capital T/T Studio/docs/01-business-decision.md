@@ -52,7 +52,7 @@ Creators who film and edit keep the videos real, keep your face out, let you cas
 | Instagram and TikTok handle | Created Nov 17: Instagram `@tstudioo.ugc` (two o's), TikTok `@tstudio_ugc`. Display name on both: "T Studio · UGC ads", so people find the studio even with the different spellings |
 | Display name | T Studio · UGC ads |
 | Bio | EN: Arabic UGC ads · Cairo · WhatsApp [number]. AR: إعلانات UGC بالعربي · القاهرة · واتساب |
-| Email | A matching free Gmail, e.g. `tstudio.ugc@gmail.com` |
+| Email | Created: `Tstudio.eg@gmail.com` (on the landing page). WhatsApp Business is waiting, because WhatsApp has a problem on the owner's side |
 | Sign-off | [NAME] · T Studio · Arabic UGC ads |
 
 Before you settle it, check the handles are free on Instagram, TikTok and Gmail (those sites are blocked for me), and search Instagram for "T Studio Cairo" in case a local studio already uses the name. Two web searches on Nov 17 found no Cairo business or UGC agency called "T Studio".

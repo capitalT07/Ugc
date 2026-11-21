@@ -13,7 +13,7 @@ The first business is **T Studio**, in `Capital T/T Studio/`. Paths below are re
 T Studio is an Arabic-first UGC ad studio in Cairo, launched on Nov 17, 2026. Goal: $1,000 (stretch $2,000) by Sunday Nov 22, 2026, counted only when the money reaches the owner's account.
 
 - **The owner** sells, casts creators, briefs them, checks every video, and handles clients and money. They are not on camera, and their personal TikTok is not used for the business.
-- **Creators** film and edit each video. The owner knows no creators personally, so most are hired on Khamsat's UGC videos category (messages, orders and payment only through Khamsat, about $25–35 a video); others come from Instagram, TikTok or Collabstr. They are paid per finished video (EGP 1,000–2,000) out of the client's payment, never before the client pays, and never asked for free videos.
+- **Creators** film and edit each video. The owner knows no creators personally, so most are hired on Khamsat's UGC videos category (messages, orders and payment only through Khamsat, about $25–35 a video; buy there, never list services there, because its terms stop sellers from passing orders to other sellers); others come from Instagram, TikTok or Collabstr. They are paid per finished video (EGP 1,000–2,000) out of the client's payment, never before the client pays, and never asked for free videos.
 - **Claude** writes the scripts and hooks, drafts messages and keeps the docs and CRM current.
 
 Never write, in any language, that the owner films or edits. Editing-only work is not offered.
@@ -52,5 +52,5 @@ Never edit `crm/` or `hq/` by hand; rebuilding overwrites them. The only placeho
 
 ## Environment and git
 
-- This cloud environment's network policy blocks TikTok, Instagram, Facebook, X, Reddit and Upwork pages, and a request to allow them was rejected. Use web search (it refuses searches limited to reddit.com), and ask the owner for anything only they can see (feeds, DMs, replies).
+- This cloud environment's network policy blocks TikTok, Instagram, Facebook, X, Reddit and Upwork pages, and a request to allow them was rejected. `khamsat.com` was allowed on Nov 21, so its public pages can be read here; logging in and messaging sellers are the owner's. Use web search (it refuses searches limited to reddit.com), and ask the owner for anything only they can see (feeds, DMs, replies).
 - Work on `claude/1k-2k-business-7-days-w9vmgs`, which is the repo's default branch. Commit and push there after each finished step, since a session can stop on a usage limit. No pull request unless the owner asks.
